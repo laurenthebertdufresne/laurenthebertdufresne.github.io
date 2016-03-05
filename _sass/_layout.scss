@@ -1,16 +1,40 @@
+body {
+    background-image:url(../img/19897867305_83c28275db_k.jpg);
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+}
+
 /**
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    margin-top:42px;
+    background:$background-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .wrapper {
+        position:relative;
+    }
+}
+
+.site-profile {
+    width:80px;
+    height:auto;
+    display:block;
+    border-radius:50%;
+    position:absolute;
+    transform:translate(0, -50%);
+    top:50%;
+    left:0;
 }
 
 .site-title {
+    padding-left:70px;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
@@ -98,6 +122,7 @@
  * Site footer
  */
 .site-footer {
+    background: $background-color;
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
@@ -168,7 +193,10 @@
  * Page content
  */
 .page-content {
+    margin-top:420px;
     padding: $spacing-unit 0;
+    background:$background-color;
+    border-top:5px solid $grey-color-dark;
 }
 
 .page-heading {
