@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+weight: 4
 ---
 
 I currently work at the <a href="http://www.santafe.edu/" target="_blank" rel="nofollow">Santa Fe Institute.</a>

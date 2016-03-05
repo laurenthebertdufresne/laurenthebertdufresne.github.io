@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+weight: 3
 ---
 
 In preparation:
