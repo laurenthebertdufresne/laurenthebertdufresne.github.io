@@ -1,6 +1,8 @@
 body {
-    background-size:contain;
-    background-position:50% 0%;
+    background-color:#E0DEE6;
+    background-size:100% auto;
+    background-position:top center;
+    background-image:url(https://farm9.staticflickr.com/8123/8620600232_fc53ab502e_k_d.jpg);
 }
 
 /**
@@ -191,7 +193,7 @@ body {
  * Page content
  */
 .page-content {
-    margin-top:360px;
+    margin-top:25vh;
     padding: $spacing-unit 0;
     background:$background-color;
     border-top:5px solid $grey-color-dark;
