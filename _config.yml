@@ -12,6 +12,10 @@ description: James S. McDonnell Postdoctoral Fellow at the Santa Fe Institute
 baseurl: "/lhd" # the subpath of your site, e.g. /blog
 url: "http://www.laurenthebertdufresne.com" # the base hostname & protocol for your site
 twitter_username: lecomptedelhd
+scholar_username: LdkfcuwAAAAJ
+#linkedin_username: lecomptedelhd
+#github_username: lecomptedelhd
+
 
 # Build settings
 markdown: kramdown

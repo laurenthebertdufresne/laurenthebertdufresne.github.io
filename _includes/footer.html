@@ -35,6 +35,14 @@
               </a>
             </li>
           {% endif %}
+
+          {% if site.scholar_username %}
+            <li>
+              <a href="//scholar.google.ca/citations?hl=en&user={{ site.scholar_username }}" target="_blank">
+                <span class="fa fa-graduation-cap"></span> Google Scholar
+              </a>
+            </li>
+          {% endif %}
         </ul>
       </div>
     </div>
