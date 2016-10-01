@@ -2,7 +2,15 @@ body {
     background-color:#E0DEE6;
     background-size:100% auto;
     background-position:top center;
-    background-image:url(https://farm9.staticflickr.com/8123/8620600232_fc53ab502e_k_d.jpg);
+    background-image:url(../img/constellation.jpg);
+}
+
+hr {
+    border:0;
+    border-bottom: 1px solid $grey-color-light;
+    margin:20px 0;
+    padding:0;
+    height:0;
 }
 
 /**
@@ -15,7 +23,13 @@ body {
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: sticky;
+    top:0px;
+
 
     .wrapper {
         position:relative;
@@ -187,8 +201,6 @@ body {
     }
 }
 
-
-
 /**
  * Page content
  */
@@ -267,4 +279,8 @@ body {
             font-size: 18px;
         }
     }
+}
+
+.pagination {
+    font-size:16px;
 }

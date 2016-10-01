@@ -17,14 +17,6 @@
 
 </body>
 
-<script>
-    var backgrounds = [
-        'https://farm9.staticflickr.com/8123/8620600232_fc53ab502e_k_d.jpg',
-    ];
-    document.body.style.backgroundImage = 'url(' + backgrounds[Math.floor(Math.random() * backgrounds.length)] + ')';
-</script>
-
-
-<script data-turbolinks-eval="false" src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.0.0/turbolinks.min.js"></script>
+<script data-turbolinks-eval="false" src="{{ "/bower_components/turbolinks/dist/turbolinks.js" | prepend: site.baseurl }}"></script>
 <script data-turbolinks-eval="false">if (typeof Turbolinks !== 'undefined') Turbolinks.start();</script>
 </html>

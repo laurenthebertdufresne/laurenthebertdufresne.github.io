@@ -30,13 +30,14 @@ layout: default
     {% endfor %}
   </ul>
 
+  <hr>
 
   {% if paginator.total_pages > 1 %}
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="fa fa-chevron-circle-left"></span></a>
       {% else %}
-        <span>&laquo; Prev</span>
+        <span class="fa fa-chevron-circle-left"></span>
       {% endif %}
 
       {% for page in (1..paginator.total_pages) %}
@@ -50,12 +51,14 @@ layout: default
       {% endfor %}
 
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="fa fa-chevron-circle-right"></span></a>
       {% else %}
-        <span>Next &raquo;</span>
+        <span class="fa fa-chevron-circle-right"></span>
       {% endif %}
     </div>
   {% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <hr>
+
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="fa fa-rss-square"></span>&nbsp;subscribe via RSS</a></p>
 </div>
