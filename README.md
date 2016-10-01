@@ -1,6 +1,6 @@
 # LHD
 
-Personal website of Laurent Hébert-Dufresne : http://louisroy.github.io/lhd/
+Personal website of Laurent Hébert-Dufresne : http://laurenthebertdufresne.github.io
 
 ### Requirements
 
@@ -8,9 +8,9 @@ This is a [Jekyll](http://jekyllrb.com) site hosted on [GitHub Pages](http://pag
 
 Make sure you have Ruby 2 or above : ``ruby -v``
 
-Install Jekyll using RubyGems : ``gem install jekyll``
+Install dependecies using Bundler : ``bundle``
 
-### Build
+### Develop
 
 ```bash
 git clone https://github.com/louisroy/lhd.git
