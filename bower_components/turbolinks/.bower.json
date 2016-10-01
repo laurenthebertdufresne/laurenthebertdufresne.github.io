@@ -10,6 +10,5 @@
   },
   "_source": "https://github.com/turbolinks/turbolinks.git",
   "_target": "^5.0.0",
-  "_originalSource": "git+https://github.com/turbolinks/turbolinks.git",
-  "_direct": true
+  "_originalSource": "git+https://github.com/turbolinks/turbolinks.git"
 }
