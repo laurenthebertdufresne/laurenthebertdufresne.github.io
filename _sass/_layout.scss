@@ -35,6 +35,7 @@ hr {
     background:$background-color;
     border-bottom: 1px solid $grey-color-light;
     position:relative;
+
     transition:all 0.15s ease-out;
     transition-property:font-size, line-height;
 
@@ -44,6 +45,13 @@ hr {
     &.scroll-to-fixed-fixed {
         margin-top:0;
         font-size:14px;
+
+        position: -webkit-sticky;
+        position: -moz-sticky;
+        position: -ms-sticky;
+        position: -o-sticky;
+        position: sticky;
+        top:0;
 
         .site-title {
             font-size:18px;
