@@ -21,19 +21,31 @@ hr {
     margin-top:42px;
     background:$background-color;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: -webkit-sticky;
-    position: -moz-sticky;
-    position: -ms-sticky;
-    position: -o-sticky;
-    position: sticky;
-    top:0px;
-
+    position:relative;
+    transition:all 0.15s ease-out;
+    transition-property:font-size, line-height;
 
     .wrapper {
         position:relative;
+    }
+
+    &.scroll-to-fixed-fixed {
+        margin-top:0;
+        font-size:14px;
+
+        .site-title {
+            font-size:18px;
+            padding-left:35px;
+            line-height:35px;
+        }
+
+        .site-profile {
+            width:45px;
+        }
+
+        .site-nav {
+            line-height:35px;
+        }
     }
 }
 
@@ -46,6 +58,8 @@ hr {
     transform:translate(0, -50%);
     top:50%;
     left:0;
+    transition:all 0.15s ease-out;
+    transition-property:width;
 }
 
 .site-title {
@@ -56,6 +70,8 @@ hr {
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    transition:all 0.15s ease-out;
+    transition-property:font-size, line-height, padding-left;
 
     &,
     &:visited {

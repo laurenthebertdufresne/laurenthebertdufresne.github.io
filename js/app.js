@@ -1,3 +1,6 @@
-/**
- * Created by louis.roy on 16-10-01.
- */
+// Initiate Turbo
+Turbolinks.start();
+
+document.addEventListener("turbolinks:load", function() {
+    $('.site-header').scrollToFixed();
+});
