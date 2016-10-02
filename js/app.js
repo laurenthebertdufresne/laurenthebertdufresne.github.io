@@ -3,11 +3,11 @@ Turbolinks.start();
 
 var didScroll = false;
 
-function onScroll() {
+function onScroll(ev) {
     didScroll = true;
 }
 
-function onRender() {
+function onRender(ev) {
     if (didScroll) {
         var progress = window.scrollY / (document.body.scrollHeight) * 100;
 
@@ -19,14 +19,12 @@ function onRender() {
     window.requestAnimationFrame(onRender);
 }
 
-document.addEventListener('turbolinks:load', function() {
-    console.log('turbolinks:load');
+$(document).on('turbolinks:load', function(ev) {
     $('.site-header').scrollToFixed({
         spacerClass:'site-spacer'
     });
 });
 
-
-window.addEventListener('scroll', onScroll);
-window.addEventListener('resize', onScroll);
+$(window).on('scroll', onScroll);
+$(window).on('resize', onScroll);
 window.requestAnimationFrame(onRender);
