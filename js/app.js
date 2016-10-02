@@ -20,9 +20,14 @@ function onRender(ev) {
 }
 
 $(document).on('turbolinks:load', function(ev) {
+    /*
     $('.site-header').scrollToFixed({
         spacerClass:'site-spacer'
     });
+    */
+
+    $( '.site-header' ).fixedsticky();
+
 });
 
 $(window).on('scroll', onScroll);
