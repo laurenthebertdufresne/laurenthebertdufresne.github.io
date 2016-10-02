@@ -17,8 +17,13 @@ hr {
 /**
  * Site header
  */
-.site-header {
+.site-header,
+.site-spacer {
     margin-top:42px;
+}
+
+.site-header {
+    width:100%;
     background:$background-color;
     border-bottom: 1px solid $grey-color-light;
     position:relative;
@@ -28,7 +33,6 @@ hr {
     .wrapper {
         position:relative;
     }
-
     &.scroll-to-fixed-fixed {
         margin-top:0;
         font-size:14px;
@@ -45,6 +49,21 @@ hr {
 
         .site-nav {
             line-height:35px;
+        }
+    }
+}
+
+@include media-query($on-palm) {
+    .site-header {
+
+        .site-title {
+            font-size:18px;
+            padding-left:35px;
+            line-height:35px;
+        }
+
+        .site-profile {
+            width:45px;
         }
     }
 }
@@ -99,18 +118,16 @@ hr {
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
+        top:0;
+        right:0;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
         text-align: right;
 
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
-            height: 26px;
+            width: 34px;
+            height: 24px;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
