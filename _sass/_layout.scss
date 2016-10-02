@@ -2,7 +2,7 @@ body {
     background-color:#FFFFFF;
     background-size:100% auto;
     background-position:center -5vw;
-    background-image:url(../img/constellation.jpg);
+    background-image:url(../img/constellation-3.jpg);
     background-attachment:fixed;
     background-repeat:no-repeat;
 }
@@ -21,6 +21,13 @@ hr {
 .site-header,
 .site-spacer {
     margin-top:42px;
+}
+
+@include media-query($on-palm) {
+    .site-header,
+    .site-spacer {
+        margin-top:15px;
+    }
 }
 
 .site-header {
@@ -75,7 +82,7 @@ hr {
     display:block;
     border-radius:50%;
     position:absolute;
-    transform:translate(0, -50%);
+    transform:translate(-50%, -50%);
     top:50%;
     left:0;
     transition:all 0.15s ease-out;
@@ -83,7 +90,8 @@ hr {
 }
 
 .site-title {
-    padding-left:70px;
+    position:relative;
+    padding-left:55px;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
