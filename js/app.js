@@ -1,3 +1,5 @@
+FixedSticky.tests.sticky = false;
+
 // Initiate Turbo
 Turbolinks.start();
 
