@@ -6,14 +6,40 @@ Personal website of Laurent Hébert-Dufresne : http://laurenthebertdufresne.gith
 
 This is a [Jekyll](http://jekyllrb.com) site hosted on [GitHub Pages](http://pages.github.com).
 
-Make sure you have Ruby 2 or above : ``ruby -v``
+Make sure you have Ruby 2 or above ``ruby -v`` or install it ``sudo apt-get install ruby``
 
-Install dependecies using Bundler : ``bundle``
+Install Bundler using RubyGems : ``sudo gem install bundler``
 
-### Develop
+Install rest of dependencies using Bundler : ``bundle``
 
-```bash
-git clone https://github.com/louisroy/lhd.git
-cd lhd
-jekyll serve
-```
+### Updating the website
+
+After cloning the website, simply ``cd`` to the project folder and use Jekyll to serve the website on your local computer : ``jekyll serve``
+
+The website will be available at the following url : (http://localhost:4000)
+
+The majority of contents are written in [Markdown](https://daringfireball.net/projects/markdown/).
+
+#### Changing the site name or other settings
+
+Most settings are located in the ``_config.yml`` file.
+
+#### Changing the homepage
+
+The homepage is located in ``index.html`` file at the root of the project. This is the only HTML file.
+
+#### Page contents
+
+All pages are located in the ``_pages`` folder.
+
+Adding a page will result in a menu item being added to the header.
+
+#### Adding a new post
+
+Copy paste an existing post and change the file name to reflect the date and the name of the post.
+
+### Deploying the changes
+
+Commit all changes using ``git commit -am "Updating the website"``
+
+Push to Github using ``git push``
