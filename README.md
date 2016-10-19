@@ -45,3 +45,5 @@ Copy paste an existing post and change the file name to reflect the date and the
 Commit all changes using ``git commit -am "Updating the website"``
 
 Push to Github using ``git push``
+
+Snice : http://laurenthebertdufresne.github.io
