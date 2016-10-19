@@ -42,7 +42,7 @@ Copy paste an existing post and change the file name to reflect the date and the
 
 ### Deploying the changes
 
-Commit all changes using ``git commit -am "Updating the website"``
+Commit all changes using ``git add --all && git commit -m "Updating the website"``
 
 Push to Github using ``git push``
 
