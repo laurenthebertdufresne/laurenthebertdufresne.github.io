@@ -16,7 +16,7 @@ Install rest of dependencies using Bundler : ``bundle``
 
 After cloning the website, simply ``cd`` to the project folder and use Jekyll to serve the website on your local computer : ``jekyll serve``
 
-The website will be available at the following url : http://localhost:4000
+The website will be available at the following url : [http://localhost:4000](http://localhost:4000)
 
 The majority of contents are written in [Markdown](https://daringfireball.net/projects/markdown/).
 
