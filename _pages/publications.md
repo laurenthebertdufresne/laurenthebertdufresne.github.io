@@ -68,8 +68,8 @@ weight: 3
     [Full text](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133)
 
 *   Enhancing disease surveillance with novel data streams: challenges and opportunities  
-    B.M. Althouse, S.V. Scarpino _et al.  
-    _EPJ Data Science 4:17 (2015)  
+    B.M. Althouse, S.V. Scarpino et al.  
+    EPJ Data Science 4:17 (2015)  
     [Full text](http://www.epjdatascience.com/content/4/1/17) | [Highlight](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)[](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)
 
 *   Complex dynamics of synergistic coinfections on realistically clustered networks  
@@ -78,7 +78,7 @@ weight: 3
     [Full text](http://www.pnas.org/content/early/2015/07/16/1507820112.abstract)[](http://www.pnas.org/content/early/2015/07/16/1507820112.abstract)
 
 *   Spreading dynamics on complex networks: a general stochastic approach  
-    Pierre-André Noël, Antoine Allard,** Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
+    Pierre-André Noël, Antoine Allard, **Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
     J Math Biol 69, 1627 (2014)  
     [Full text](http://link.springer.com/article/10.1007/s00285-013-0744-9) | [arXiv.org](http://arxiv.org/abs/1201.0296)
 
@@ -128,17 +128,17 @@ weight: 3
     [arXiv.org](http://arxiv.org/abs/1211.1361)
 
 *   Bond percolation on a class of correlated and clustered random graphs  
-    Antoine Allard,** Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
+    Antoine Allard, **Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
     J. Phys. A: Math. Theor. 45405005 (2012)  
     [Full text](http://iopscience.iop.org/1751-8121/45/40/405005/) | [arXiv.org](http://arxiv.org/abs/1201.4602)
 
 *   Exact solution of bond percolation on small arbitrary graphs  
-    Antoine Allard,** Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
+    Antoine Allard, **Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
     EPL, 98 16001 _(2012)_  
     [Full text](http://iopscience.iop.org/0295-5075/98/1/16001/) | [arXiv.org](http://arxiv.org/abs/1201.4369)
 
 *   Propagation on networks: an exact alternative perspective  
-    Pierre-André Noël, Antoine Allard,** Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
+    Pierre-André Noël, Antoine Allard, **Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
     Phys. Rev. E 85 031118 (2012)  
     [Full text](http://pre.aps.org/abstract/PRE/v85/i3/e031118) | [arXiv.org](http://arxiv.org/abs/1102.0987)  
 
