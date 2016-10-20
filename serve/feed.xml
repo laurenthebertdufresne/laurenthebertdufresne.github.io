@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurent Hébert-Dufresne</title>
+    <description>James S. McDonnell Postdoctoral Fellow at the Santa Fe Institute</description>
+    <link>http://laurenthebertdufresne.github.io/</link>
+    <atom:link href="http://laurenthebertdufresne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2016-10-20 12:56:56 -0600</pubDate>
+    <lastBuildDate>2016-10-20 12:56:56 -0600</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>New paper out in Nature Physics</title>
+        <description>&lt;p&gt;My new paper, with Sam Scarpino and Antoine Allard, is now out in &lt;a href=&quot;http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html#access&quot;&gt;Nature Physics&lt;/a&gt;. Main result: Institutions replacing sick workers who stay at home might be driving the spread of influenza. The paper has been gathering a lot of attention, and I especially like the the news articles from &lt;a href=&quot;http://www.irishtimes.com/news/health/using-substitute-workers-for-sick-staff-spreads-disease-study-finds-1.2741641&quot;&gt;The Irish Times&lt;/a&gt;, &lt;a href=&quot;https://psmag.com/how-staying-home-from-work-can-spread-disease-4dee9e7575f9#.nmw93dciv&quot;&gt;Pacific Standard&lt;/a&gt;, and &lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/17778-ben-johnson/posts/11048-send-your-sick-colleague-home-but-don-t-hire-a-replacement&quot;&gt;Nature Microbiology&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>2016-08-02 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2016/08/02/new-paper-out-in-nature-physics.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2016/08/02/new-paper-out-in-nature-physics.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>I'll be at NetSci 2016 this summer in Seoul</title>
+        <description>&lt;p&gt;I’ll be talking about a new voter model project (with Dynamica alumni and Eric Libby) that has been getting a lot of attention here at SFI. I’ll also present the &lt;a href=&quot;https://arxiv.org/abs/1607.04632&quot;&gt;Onion Decomposition&lt;/a&gt; in one of the parallel sessions. Jean-Gabriel Young will talk about our recent work on the stochastic block model, Dan Larremore will unveil our secret project on the detection of dominance and influence hierarchies in networks, and Sam Scarpino will talk about our somewhat controversial &lt;a href=&quot;https://arxiv.org/abs/1509.00801&quot;&gt;influenza model&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Should be fun!&lt;/p&gt;
+</description>
+        <pubDate>2016-04-15 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2016/04/15/i%27ll-be-at-netsci-2016-this-summer-in-seoul.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2016/04/15/i%27ll-be-at-netsci-2016-this-summer-in-seoul.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Old friends, new papers</title>
+        <description>&lt;p&gt;Back from &lt;a href=&quot;http://tuvalu.santafe.edu/events/workshops/index.php/Complex_Systems_Winter_School_2015&quot;&gt;SFI’s Complex Systems Winter School in India&lt;/a&gt; where I lecture on statistical physics and network theory. Two new projects were published while I was away: our &lt;a href=&quot;http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809&quot;&gt;Hierarchical Preferential Attachment model&lt;/a&gt; (with a &lt;a href=&quot;http://journals.aps.org/pre/kaleidoscope/pre/92/6/062809&quot;&gt;figure&lt;/a&gt; highlighted by PRE) and our &lt;a href=&quot;http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807&quot;&gt;most exhaustive and hardcore network ensemble allowing exact solution of bond percolation&lt;/a&gt; to date.&lt;/p&gt;
+</description>
+        <pubDate>2016-01-19 00:00:00 -0700</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2016/01/19/old-friends-new-papers.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2016/01/19/old-friends-new-papers.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>New projects in the pipeline</title>
+        <description>&lt;p&gt;I have two new projects on the arXiv, both with only very good friends. The &lt;a href=&quot;http://arxiv.org/abs/1509.00801&quot;&gt;first&lt;/a&gt; is a new adaptive network project to describe novel patterns that we found in influenza transmission. The &lt;a href=&quot;http://arxiv.org/abs/1510.08542&quot;&gt;second&lt;/a&gt; is a new network analysis algorithm which helps us look at different scales of organization at a glance. We have a lot of cool ideas in the work using this algorithm. Finally, a very interesting ecology project should be online soon. Stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>2015-11-12 00:00:00 -0700</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2015/11/12/new-projects-in-the-pipeline.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2015/11/12/new-projects-in-the-pipeline.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Almost a year later</title>
+        <description>&lt;p&gt;It’s been a while since the last update. Let’s just say I am super excited about many projects started in my first year at the Santa Fe Institute. One of the smaller ones was published a few days ago in &lt;a href=&quot;http://www.pnas.org/content/112/33/10551.abstract&quot;&gt;PNAS&lt;/a&gt; (open-access). The big result: interacting epidemics (or other dynamics) can spread faster on clustered network than on an (otherwise equivalent) unclustered network! SFI had a nice &lt;a href=&quot;http://santafe.edu/news/item/paper-when-isolated-groups-fuel-epidemics/&quot;&gt;write-up&lt;/a&gt; on it.&lt;/p&gt;
+</description>
+        <pubDate>2015-09-03 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2015/09/03/almost-a-year-later.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2015/09/03/almost-a-year-later.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Updates</title>
+        <description>&lt;p&gt;Since the completion of my PhD defense three weeks ago, I am now both a doctor and a James S. McDonnell Postodoctoral Fellow at the Santa Fe Institute. Looking forward to discuss my new projects when they start crystallizing.&lt;/p&gt;
+</description>
+        <pubDate>2014-10-24 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2014/10/24/updates.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2014/10/24/updates.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>&quot;Social dynamics beats penicillin in stopping syphilis outbreaks&quot;</title>
+        <description>&lt;p&gt;The &lt;em&gt;Journal of the Royal Society Interface&lt;/em&gt; has published my paper with Ben Althouse on how social dynamics may hold the key to understand the unique cycling behaviour of syphilis, and to its eradication. Read a summary &lt;a href=&quot;http://www.santafe.edu/news/item/interface-althouse-syphilis/&quot;&gt;on the SFI website&lt;/a&gt; or go straight to the &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/11/99/20140575.full&quot;&gt;paper&lt;/a&gt; .&lt;/p&gt;
+
+</description>
+        <pubDate>2014-08-11 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2014/08/11/social-dynamics-beats-penicillin-in-stopping-syphilis-outbreaks.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2014/08/11/social-dynamics-beats-penicillin-in-stopping-syphilis-outbreaks.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>On NetSci 2014, Québec and Santa Fe.</title>
+        <description>&lt;p&gt;Very happy that our poster “ &lt;a href=&quot;http://www.dynamica.phy.ulaval.ca/fileadmin/posters/netsci2014_poster_lhd.pdf&quot;&gt;Complex Networks are an Emerging Property of Hierarchical Preferential Attachment&lt;/a&gt; “ won an “Outstanding poster” award at NetSci 2014 in Berkeley. Jean-Gabriel also shined with an excellent talk, his very first, on our ‘organic’ model of community structure growth. Now I’m back to oscillating between Santa Fe and Québec to finish that thesis.&lt;/p&gt;
+
+</description>
+        <pubDate>2014-06-06 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2014/06/06/on-netsci-2014-quebec-and-santa-fe.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2014/06/06/on-netsci-2014-quebec-and-santa-fe.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Two great papers out in PRE</title>
+        <description>&lt;p&gt;My latest work with Antoine Allard and the rest of our group — our Hard-core Random Networks with arbitrary degree distribution and k-core decomposition, and a cool solution of network observability in terms of multitype graphs — have been published in Phys. Rev. E. Cool results? The first work captures some structural features of the notoriously hard to model power grids and the second shows how a macroscopic observation of the system does not necessarily stop macroscopic events from being unnoticed. The papers can be found &lt;a href=&quot;http://pre.aps.org/abstract/PRE/v88/i6/e062820&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://pre.aps.org/abstract/PRE/v89/i2/e022801&quot;&gt;here&lt;/a&gt; (with editor’s suggestion!).&lt;/p&gt;
+
+</description>
+        <pubDate>2014-02-06 00:00:00 -0700</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2014/02/06/two-great-papers-out-in-pre.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2014/02/06/two-great-papers-out-in-pre.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Postdoctoral Fellowship: It's so crazy, it's amazing!</title>
+        <description>&lt;p&gt;Things are moving forward at an incredible speed. A lot of projects were started, and a few were completed, during my 5 weeks stay at the Santa Fe Institute. I can’t wait to put some of those projects online. I’ve also been selected by the &lt;a href=&quot;http://www.jsmf.org/apply/fellowship/index.php&quot;&gt;James S. McDonnell Foundation for their Postdoctoral Fellowship Awards in Studying Complex Systems&lt;/a&gt; . I’m not sure where I’ll have the pleasure of continuing my research, “but I have a feeling it will be a place both wonderful and strange”.&lt;/p&gt;
+</description>
+        <pubDate>2013-10-18 00:00:00 -0600</pubDate>
+        <link>http://laurenthebertdufresne.github.io/2013/10/18/postdoctoral-fellowship-its-so-crazy-its-amazing.html</link>
+        <guid isPermaLink="true">http://laurenthebertdufresne.github.io/2013/10/18/postdoctoral-fellowship-its-so-crazy-its-amazing.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
