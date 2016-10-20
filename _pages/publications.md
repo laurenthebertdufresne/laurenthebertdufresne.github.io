@@ -7,20 +7,20 @@ weight: 3
 
 ## In preparation:
 
-*   Effective structure of complex networks 
-    Antoine Allard and **Laurent Hébert-Dufresne** 
+*   Effective structure of complex networks  
+    Antoine Allard and **Laurent Hébert-Dufresne**  
     _In preparation_
 
-*   Strategic tradeoffs in competitor dynamics on adaptive networks 
+*   Strategic tradeoffs in competitor dynamics on adaptive networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
-*  Forest fires, forest shape, and forest stability 
-   **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl  
+*  Forest fires, forest shape, and forest stability  
+    **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl  
     _In submission_
 
-*   Dynamics of beneficial epidemics 
+*   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1604.02096)
