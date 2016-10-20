@@ -100,7 +100,7 @@ weight: 3
 *   Global efficiency of local immunization on complex networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young, and Louis J. Dubé  
     Scientific Reports3, 2171 (2013)  
-    [Full text](http://www.nature.com/srep/2013/130710/srep02171/full/srep02171.html) [|](http://www.nature.com/srep/2013/130710/srep02171/full/srep02171.html) [arXiv.org](http://arxiv.org/abs/1208.5768)
+    [Full text](http://www.nature.com/srep/2013/130710/srep02171/full/srep02171.html) | [arXiv.org](http://arxiv.org/abs/1208.5768)
 
 *   Optimizing treatment regimes to hinder antiviral resistance in influenza across time scales  
     Oscar Patterson-Lomba, Benjamin M. Althouse, Georg M. Goerg, and **Laurent Hébert-Dufresne**  
@@ -119,8 +119,8 @@ weight: 3
 
 *   Escaping the poverty trap: modeling the interplay between economic growth and the ecology of infectious disease  
     Georg M. Goerg, Oscar Patterson-Lomba, **Laurent Hébert-Dufresne**, and Benjamin M. Althouse  
-    SFI's Complex System Summer School paper (2012)[  
-    ](http://prl.aps.org/abstract/PRL/v110/i10/e108103)[arXiv.org](http://arxiv.org/abs/1311.4079)
+    SFI's Complex System Summer School paper (2012)  
+    [arXiv.org](http://arxiv.org/abs/1311.4079)
 
 *   On the constrained growth of complex critical systems  
     **Laurent Hébert-Dufresne**, Antoine Allard, and Louis J. Dubé  
@@ -130,12 +130,12 @@ weight: 3
 *   Bond percolation on a class of correlated and clustered random graphs  
     Antoine Allard,** Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
     J. Phys. A: Math. Theor. 45405005 (2012)  
-    [](http://arxiv.org/abs/1201.4602)[Full text](http://iopscience.iop.org/1751-8121/45/40/405005/) [](http://arxiv.org/abs/1201.4602)[|](http://arxiv.org/abs/1201.4369) [arXiv.org](http://arxiv.org/abs/1201.4602)
+    [Full text](http://iopscience.iop.org/1751-8121/45/40/405005/) | [arXiv.org](http://arxiv.org/abs/1201.4602)
 
 *   Exact solution of bond percolation on small arbitrary graphs  
     Antoine Allard,** Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
     EPL, 98 16001 _(2012)_  
-    [Full text](http://iopscience.iop.org/0295-5075/98/1/16001/) [|](http://iopscience.iop.org/0295-5075/98/1/16001/) [](http://arxiv.org/abs/1201.4369)[arXiv.org](http://arxiv.org/abs/1201.4369)
+    [Full text](http://iopscience.iop.org/0295-5075/98/1/16001/) | [arXiv.org](http://arxiv.org/abs/1201.4369)
 
 *   Propagation on networks: an exact alternative perspective  
     Pierre-André Noël, Antoine Allard,** Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
