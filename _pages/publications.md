@@ -7,21 +7,45 @@ weight: 3
 
 ## In preparation:
 
-*   Network structure at multiple scales via a new network statistic: the onion decomposition  
-    **Laurent Hébert-Dufresne**, Joshua A. Grochow and Antoine Allard  
-    _In submission_  
-    [arXiv.org](http://arxiv.org/abs/1510.08542)
-
-*   Prudent behaviour accelerates disease transmission  
-    Samuel V. Scarpino, Antoine Allard and **Laurent Hébert-Dufresne**  
-    _In submission_  
-    [arXiv.org](http://arxiv.org/abs/1509.00801)
-
-*   A preferential attachment approach to community structure and the structure of communities  
-    Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
+*   Effective structure of complex networks 
+    Antoine Allard and **Laurent Hébert-Dufresne** 
     _In preparation_
 
+*   Strategic tradeoffs in competitor dynamics on adaptive networks 
+    **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby
+    _In submission_
+    [arXiv.org](https://arxiv.org/abs/1607.04632)
+
+*  Forest fires, forest shape, and forest stability 
+   **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl
+    _In submission_
+
+*   Dynamics of beneficial epidemics 
+    Santa Fe Institute Postdocs: 72 Hours of Science event
+    _In submission_
+    [arXiv.org](https://arxiv.org/abs/1604.02096)
+
+*   Exotic phase transitions of k-cores in clustered networks
+    Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**
+    _In submission_
+    [arXiv.org](https://arxiv.org/abs/1607.08637)
+
 ## Peer-reviewed articles:
+
+*   Growing networks of overlapping communities with internal structure  
+    Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
+    Phys. Rev. E 94 022317 (2016)
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317) [arXiv.org](https://arxiv.org/abs/1603.05566)
+
+*   Network structure at multiple scales via a new network statistic: the onion decomposition  
+    **Laurent Hébert-Dufresne**, Joshua A. Grochow and Antoine Allard  
+    Scientific Reports 6 31708 (2016)
+    [Full text](http://www.nature.com/articles/srep31708) [arXiv.org](http://arxiv.org/abs/1510.08542)
+
+*   The effect of a prudent adaptive behaviour on disease transmission 
+    Samuel V. Scarpino, Antoine Allard and **Laurent Hébert-Dufresne**  
+    Nature Physics (2016)
+    [Full text](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html) [arXiv.org](http://arxiv.org/abs/1509.00801)
 
 *   On the constrained growth of complex scale-independent systems  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
