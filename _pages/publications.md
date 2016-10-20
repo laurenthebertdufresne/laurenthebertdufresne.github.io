@@ -12,55 +12,55 @@ weight: 3
     _In preparation_
 
 *   Strategic tradeoffs in competitor dynamics on adaptive networks 
-    **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby
-    _In submission_
+    **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
+    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *  Forest fires, forest shape, and forest stability 
-   **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl
+   **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl  
     _In submission_
 
 *   Dynamics of beneficial epidemics 
-    Santa Fe Institute Postdocs: 72 Hours of Science event
-    _In submission_
+    Santa Fe Institute Postdocs: 72 Hours of Science event  
+    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1604.02096)
 
 *   Exotic phase transitions of k-cores in clustered networks
-    Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**
-    _In submission_
+    Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**  
+    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1607.08637)
 
 ## Peer-reviewed articles:
 
 *   Growing networks of overlapping communities with internal structure  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
-    Phys. Rev. E 94 022317 (2016)
-    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317) [arXiv.org](https://arxiv.org/abs/1603.05566)
+    Phys. Rev. E 94 022317 (2016)  
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317) | [arXiv.org](https://arxiv.org/abs/1603.05566)
 
 *   Network structure at multiple scales via a new network statistic: the onion decomposition  
     **Laurent Hébert-Dufresne**, Joshua A. Grochow and Antoine Allard  
-    Scientific Reports 6 31708 (2016)
-    [Full text](http://www.nature.com/articles/srep31708) [arXiv.org](http://arxiv.org/abs/1510.08542)
+    Scientific Reports 6 31708 (2016)  
+    [Full text](http://www.nature.com/articles/srep31708) | [arXiv.org](http://arxiv.org/abs/1510.08542)
 
 *   The effect of a prudent adaptive behaviour on disease transmission 
     Samuel V. Scarpino, Antoine Allard and **Laurent Hébert-Dufresne**  
-    Nature Physics (2016)
-    [Full text](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html) [arXiv.org](http://arxiv.org/abs/1509.00801)
+    Nature Physics (2016)  
+    [Full text](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html) | [arXiv.org](http://arxiv.org/abs/1509.00801)
 
 *   On the constrained growth of complex scale-independent systems  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
     Phys. Rev. E 93 032304 (2016)  
-    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://arxiv.org/abs/1310.0112)
+    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304) | [arXiv.org](http://arxiv.org/abs/1310.0112)
 
 *   Complex networks as an emerging property of hierarchical preferential attachment  
     **Laurent Hébert-Dufresne**,  Edward Laurence, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
     Phys. Rev. E 92 062809 (2015)  
-    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://arxiv.org/abs/1312.0171)
+    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809) | [arXiv.org](http://arxiv.org/abs/1312.0171)
 
 *   General and exact approach to percolation on random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Jean-Gabriel Young and Louis J. Dubé  
     Phys. Rev. E 92 062807 (2015)  
-    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://export.arxiv.org/abs/1509.01207)
+    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807) | [arXiv.org](http://export.arxiv.org/abs/1509.01207)
 
 *   A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure  
     Jean-Gabriel Young, Antoine Allard, **Laurent Hébert-Dufresne**, and Louis J. Dubé  
@@ -70,7 +70,7 @@ weight: 3
 *   Enhancing disease surveillance with novel data streams: challenges and opportunities  
     B.M. Althouse, S.V. Scarpino _et al.  
     _EPJ Data Science 4:17 (2015)  
-    [Full text](http://www.epjdatascience.com/content/4/1/17) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [Highlight](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)[](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)
+    [Full text](http://www.epjdatascience.com/content/4/1/17) | [Highlight](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)[](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)
 
 *   Complex dynamics of synergistic coinfections on realistically clustered networks  
     **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
@@ -80,7 +80,7 @@ weight: 3
 *   Spreading dynamics on complex networks: a general stochastic approach  
     Pierre-André Noël, Antoine Allard,** Laurent Hébert-Dufresne**, Vincent Marceau, and Louis J. Dubé  
     J Math Biol 69, 1627 (2014)  
-    [Full text](http://link.springer.com/article/10.1007/s00285-013-0744-9) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://arxiv.org/abs/1201.0296)
+    [Full text](http://link.springer.com/article/10.1007/s00285-013-0744-9) | [arXiv.org](http://arxiv.org/abs/1201.0296)
 
 *   Epidemic Cycles Driven by Host Behavior  
     Benjamin M. Althouse and **Laurent Hébert-Dufresne**  
@@ -90,12 +90,12 @@ weight: 3
 *   Coexistence of phases and the observability of random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Jean-Gabriel Young and Louis J. Dubé  
     Phys. Rev. E 89 022801 (2014)  
-    [Full text](http://pre.aps.org/abstract/PRE/v89/i2/e022801) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://arxiv.org/abs/1309.7983)
+    [Full text](http://pre.aps.org/abstract/PRE/v89/i2/e022801) | [arXiv.org](http://arxiv.org/abs/1309.7983)
 
 *   Percolation on random networks with arbitrary k-core structure  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
     Phys. Rev. E 88 062820 (2013)  
-    [Full text](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [|](http://pre.aps.org/abstract/PRE/v88/i6/e062820) [arXiv.org](http://arxiv.org/abs/1308.6537)
+    [Full text](http://pre.aps.org/abstract/PRE/v88/i6/e062820) | [arXiv.org](http://arxiv.org/abs/1308.6537)
 
 *   Global efficiency of local immunization on complex networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young, and Louis J. Dubé  
