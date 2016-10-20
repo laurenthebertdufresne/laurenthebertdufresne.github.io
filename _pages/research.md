@@ -35,7 +35,7 @@ The description of a propagating agent on a network describes multiple phenomena
 
 ## Complexity and criticality
 
-<img src="/img/system.png?height=122&amp;width=320" border="0" width="100%">
+<img src="/img/system.png?height=61&amp;width=160" border="0" width="100%">
 
 Myriads of real complex systems (from works of art to biological systems) share common, universal, features of organization. Many of the models proposed to explain the emergence of such properties (e.g. self-organized criticality and other critical processes) also share common features or rules. I am interested in finding these "hidden" laws of organization in the hope of gaining further insights on the&nbsp;necessary&nbsp;ingredients of complexity.
 
