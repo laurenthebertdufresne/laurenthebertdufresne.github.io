@@ -17,7 +17,8 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *  Forest fires, forest shape, and forest stability  
-    **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat, Sidney Redner,  Stephen W. Pacala and Andrew Berdahl  
+    **Laurent Hébert-Dufresne**, Adam F. A. Pellegrini, Uttam Bhat,  
+    Sidney Redner,  Stephen W. Pacala and Andrew Berdahl  
     _In submission_
 
 *   Dynamics of beneficial epidemics  
