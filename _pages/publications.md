@@ -25,7 +25,7 @@ weight: 3
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1604.02096)
 
-*   Exotic phase transitions of k-cores in clustered networks
+*   Exotic phase transitions of k-cores in clustered networks  
     Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**  
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1607.08637)
