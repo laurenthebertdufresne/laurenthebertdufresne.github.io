@@ -258,6 +258,7 @@ hr {
  */
 .page-content {
     margin-top:15vw;
+    min-height:40vh;
     padding: $spacing-unit 0;
     background:$background-color;
     border-top:5px solid $grey-color-dark;
