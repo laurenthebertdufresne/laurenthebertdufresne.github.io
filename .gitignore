@@ -1,7 +1,11 @@
-_site
+/_site/
 .sass-cache
 .jekyll-metadata
 
 bower_components/**/src
 bower_components/**/test
 bower_components/**/external
+
+/serve/
+
+.Rhistory
