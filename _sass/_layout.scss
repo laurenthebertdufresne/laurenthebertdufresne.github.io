@@ -6,11 +6,19 @@ body {
     background-attachment:fixed;
     background-repeat:no-repeat;
     padding-top:40px;
+
+    &.fixed {
+        padding-top:100px;
+    }
 }
 
 @include media-query($on-palm) {
     body {
         padding-top:20px;
+
+        &.fixed {
+            padding-top:50px;
+        }
     }
 }
 
