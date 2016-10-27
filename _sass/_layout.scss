@@ -31,12 +31,6 @@ hr {
     background:$background-color;
     border-bottom: 1px solid $grey-color-light;
     position:relative;
-
-    position: -webkit-sticky;
-    position: -moz-sticky;
-    position: -ms-sticky;
-    position: -o-sticky;
-    position: sticky;
     top:0;
 
     transition:all 0.15s ease-out;
