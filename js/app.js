@@ -1,6 +1,6 @@
 // Initiate Turbo
-Turbolinks.start();
 
+var $body = $('body');
 var $header = $('.site-header');
 var headerPosition = $header.position().top;
 
@@ -14,8 +14,10 @@ function onRender(ev) {
     if (didScroll) {
         if (window.scrollY >= headerPosition) {
             $header.addClass('fixedsticky-on');
+            $body.addClass('fixed');
         } else {
             $header.removeClass('fixedsticky-on');
+            $body.removeClass('fixed');
         }
 
         var progress = window.scrollY / (document.body.scrollHeight) * 100;
@@ -28,9 +30,7 @@ function onRender(ev) {
     window.requestAnimationFrame(onRender);
 }
 
-$(document).on('turbolinks:load', function(ev) {
-    $('.site-header').fixedsticky();
-});
+$header.fixedsticky();
 
 $(window).on('scroll', onScroll);
 $(window).on('resize', onScroll);
