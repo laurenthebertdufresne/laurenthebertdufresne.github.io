@@ -5,7 +5,7 @@ permalink: /media/
 weight: 4
 ---
 
-#Recent Media Coverage (2016)
+# Recent Media Coverage (2016)
 
 *   [Smithsonian: Going Home Sick? Your Substitute Could Spread Disease More Widely](http://www.smithsonianmag.com/smart-news/substitute-workers-could-make-workplace-illness-worse-180959979/?no-ist)
 
