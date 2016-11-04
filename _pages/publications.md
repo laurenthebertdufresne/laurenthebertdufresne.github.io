@@ -42,7 +42,7 @@ weight: 3
     Scientific Reports 6 31708 (2016)  
     [Full text](http://www.nature.com/articles/srep31708) | [arXiv.org](http://arxiv.org/abs/1510.08542)
 
-*   The effect of a prudent adaptive behaviour on disease transmission 
+*   The effect of a prudent adaptive behaviour on disease transmission  
     Samuel V. Scarpino, Antoine Allard and **Laurent Hébert-Dufresne**  
     Nature Physics 12, 1042-1046 (2016)  
     [Full text](http://www.nature.com/nphys/journal/v12/n11/full/nphys3832.html) | [arXiv.org](http://arxiv.org/abs/1509.00801) | ['News and Views' by Thilo Gross](http://www.nature.com/nphys/journal/v12/n11/full/nphys3939.html?WT.ec_id=NPHYS-201611)
