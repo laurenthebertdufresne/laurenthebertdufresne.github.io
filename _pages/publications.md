@@ -23,14 +23,14 @@ weight: 3
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
     _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1604.02096)
+    [arXiv.org](https://arxiv.org/abs/1604.02096) 
+
+## Peer-reviewed articles: 
 
 *   Exotic phase transitions of k-cores in clustered networks  
     Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**  
-    _In submission_  
+    Phys. Rev. E _in press_ (2017)  
     [arXiv.org](https://arxiv.org/abs/1607.08637)
-
-## Peer-reviewed articles:
 
 *   Growing networks of overlapping communities with internal structure  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
