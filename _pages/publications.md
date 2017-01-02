@@ -17,7 +17,7 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *  Forest fires, forest shape, and forest stability  
-    **Laurent Hébert-Dufresne**, Adam Pellegrini, Uttam Bhat, Sidney Redner,  Stephen Pacala and Andrew Berdahl  
+    **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner,  S. Pacala and A. Berdahl  
     _In submission_
 
 *  Finite size analysis of the detectability limit of the stochastic block model  
