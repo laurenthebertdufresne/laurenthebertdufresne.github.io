@@ -17,7 +17,11 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *  Forest fires, forest shape, and forest stability  
-    **Laurent Hébert-Dufresne**, Adam Pellegrini, Uttam Bhat, Sidney Redner,  Stephen Pacala & Andrew Berdahl  
+    **Laurent Hébert-Dufresne**, Adam Pellegrini, Uttam Bhat, Sidney Redner,  Stephen Pacala and Andrew Berdahl  
+    _In submission_
+
+*  Finite size analysis of the detectability limit of the stochastic block model  
+    Jean-Gabriel Young, Patrick Desrosiers, **Laurent Hébert-Dufresne**, Edward Laurence and Louis J. Dubé  
     _In submission_
 
 *   Dynamics of beneficial epidemics  
