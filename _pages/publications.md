@@ -22,6 +22,7 @@ weight: 3
 
 *  Finite size analysis of the detectability limit of the stochastic block model  
     Jean-Gabriel Young, Patrick Desrosiers, **Laurent Hébert-Dufresne**, Edward Laurence and Louis J. Dubé  
+    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1701.00062) 
 
 *   Dynamics of beneficial epidemics  
