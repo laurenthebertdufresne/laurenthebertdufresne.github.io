@@ -34,8 +34,8 @@ weight: 3
 
 *   Exotic phase transitions of k-cores in clustered networks  
     Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**  
-    Phys. Rev. E _in press_ (2017)  
-    [arXiv.org](https://arxiv.org/abs/1607.08637)
+    Phys. Rev. E 95 012314 (2017)  
+    [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.012314) | [arXiv.org](https://arxiv.org/abs/1607.08637)
 
 *   Growing networks of overlapping communities with internal structure  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
