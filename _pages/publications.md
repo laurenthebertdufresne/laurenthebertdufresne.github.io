@@ -160,7 +160,7 @@ weight: 3
 *   Structural Preferential Attachment: Network Organization beyond the Link  
     **Laurent Hébert-Dufresne**, Antoine Allard, Vincent Marceau, Pierre-André Noël, and Louis J. Dubé  
     Phys. Rev. Lett. 107, 158702 (2011)  
-    [Full text](http://dx.doi.org/10.1103/PhysRevLett.107.158702) | [arXiv.org](http://arxiv.org/abs/1105.5980) | [Supplemental Material](http://www.dynamica.phy.ulaval.ca/fileadmin/publications/hebertdufresne11_prl_sm.pdf)  
+    [Full text](http://dx.doi.org/10.1103/PhysRevLett.107.158702) | [arXiv.org](http://arxiv.org/abs/1105.5980)  
 
 *   Modeling the dynamical interaction between epidemics on overlay networks  
     Vincent Marceau, Pierre-André Noël,**Laurent Hébert-Dufresne**, Antoine Allard, and Louis J. Dubé  
