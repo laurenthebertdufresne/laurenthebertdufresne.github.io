@@ -11,6 +11,16 @@ weight: 3
     Antoine Allard and **Laurent Hébert-Dufresne**  
     _In preparation_
 
+*   Asymmetric percolation drives a double transition in sexual contact networks  
+    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**  
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1702.06224)
+
+*   The risk of sustained sexual transmission of Zika is underestimated  
+    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
+    _In submission_  
+    [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
+
 *   Strategic tradeoffs in competitor dynamics on adaptive networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
     _In submission_  
