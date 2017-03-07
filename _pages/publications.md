@@ -137,11 +137,6 @@ weight: 3
     SFI's Complex System Summer School paper (2012)  
     [arXiv.org](http://arxiv.org/abs/1311.4079)
 
-*   On the constrained growth of complex critical systems  
-    **Laurent Hébert-Dufresne**, Antoine Allard, and Louis J. Dubé  
-    2nd International Conference on Complex Sciences: Theory and Applications (Santa Fe, NM, 2012)  
-    [arXiv.org](http://arxiv.org/abs/1211.1361)
-
 *   Bond percolation on a class of correlated and clustered random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau, and Louis J. Dubé  
     J. Phys. A: Math. Theor. 45405005 (2012)  
