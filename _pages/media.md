@@ -5,7 +5,9 @@ permalink: /media/
 weight: 4
 ---
 
-# A Sample of Recent Media Coverage (2016)
+# A Sample of Recent Media Coverage
+
+*   [New Scientist: Warmer weather could bring fresh Zika misery](https://www.newscientist.com/article/mg23331164-400-warmer-weather-could-bring-fresh-zika-misery/)
 
 *   [Smithsonian: Going Home Sick? Your Substitute Could Spread Disease More Widely](http://www.smithsonianmag.com/smart-news/substitute-workers-could-make-workplace-illness-worse-180959979/?no-ist)
 
