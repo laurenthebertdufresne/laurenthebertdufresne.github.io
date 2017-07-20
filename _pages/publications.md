@@ -15,7 +15,7 @@ weight: 3
     Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
     _In submission_  
     [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
-    
+
 *  Forest fires, forest shape, and forest stability  
     **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner,  S. Pacala and A. Berdahl  
     _In submission_
@@ -29,12 +29,12 @@ weight: 3
 
 *   Asymmetric percolation drives a double transition in sexual contact networks  
     Antoine Allard, Benjamin M. Althouse, Samuel V. Scarpino and **Laurent Hébert-Dufresne**  
-    _in press at Proc. Natl. Acad. Sci. U.S.A. _  
+    _In press at Proc. Natl. Acad. Sci. U.S.A._  
     [arXiv.org](https://arxiv.org/abs/1702.06224)
 
 *   Strategic tradeoffs in competitor dynamics on adaptive networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
-    _in press at Scientific Reports _
+    _In press at Scientific Reports_  
     [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *   Finite size analysis of the detectability limit of the stochastic block model  
