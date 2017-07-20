@@ -11,29 +11,14 @@ weight: 3
     Antoine Allard and **Laurent Hébert-Dufresne**  
     _In preparation_
 
-*   Asymmetric percolation drives a double transition in sexual contact networks  
-    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1702.06224)
-
 *   The risk of sustained sexual transmission of Zika is underestimated  
     Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
     _In submission_  
     [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
-
-*   Strategic tradeoffs in competitor dynamics on adaptive networks  
-    **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1607.04632)
-
+    
 *  Forest fires, forest shape, and forest stability  
     **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner,  S. Pacala and A. Berdahl  
     _In submission_
-
-*  Finite size analysis of the detectability limit of the stochastic block model  
-    Jean-Gabriel Young, Patrick Desrosiers, **Laurent Hébert-Dufresne**, Edward Laurence and Louis J. Dubé  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1701.00062) 
 
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
@@ -41,6 +26,21 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
 ## Peer-reviewed articles: 
+
+*   Asymmetric percolation drives a double transition in sexual contact networks  
+    Antoine Allard, Benjamin M. Althouse, Samuel V. Scarpino and **Laurent Hébert-Dufresne**  
+    _in press at Proc. Natl. Acad. Sci. U.S.A. _  
+    [arXiv.org](https://arxiv.org/abs/1702.06224)
+
+*   Strategic tradeoffs in competitor dynamics on adaptive networks  
+    **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
+    _in press at Scientific Reports _
+    [arXiv.org](https://arxiv.org/abs/1607.04632)
+
+*   Finite size analysis of the detectability limit of the stochastic block model  
+    Jean-Gabriel Young, Patrick Desrosiers, **Laurent Hébert-Dufresne**, Edward Laurence and Louis J. Dubé  
+    Phys. Rev. E 95, 062304 (2017)  
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062304) | [arXiv.org](https://arxiv.org/abs/1701.00062)
 
 *   Exotic phase transitions of k-cores in clustered networks  
     Uttam Bhat, Munik Shrestha, and **Laurent Hébert-Dufresne**  
