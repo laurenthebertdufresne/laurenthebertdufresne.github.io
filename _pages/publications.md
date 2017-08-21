@@ -29,13 +29,13 @@ weight: 3
 
 *   Asymmetric percolation drives a double transition in sexual contact networks  
     Antoine Allard, Benjamin M. Althouse, Samuel V. Scarpino and **Laurent Hébert-Dufresne**  
-    _In press at Proc. Natl. Acad. Sci. U.S.A._  
-    [arXiv.org](https://arxiv.org/abs/1702.06224)
+    Proc. Natl. Acad. Sci. U.S.A. (2017)  
+    [Full text](http://www.pnas.org/content/early/2017/08/07/1703073114.full) | [arXiv.org](https://arxiv.org/abs/1702.06224)
 
 *   Strategic tradeoffs in competitor dynamics on adaptive networks  
     **Laurent Hébert-Dufresne**, Antoine Allard, Pierre-André Noël, Jean-Gabriel Young and Eric Libby  
-    _In press at Scientific Reports_  
-    [arXiv.org](https://arxiv.org/abs/1607.04632)
+    Scientific Reports 7 7576 (2017)  
+    [Full text](https://www.nature.com/articles/s41598-017-07621-x) | [arXiv.org](https://arxiv.org/abs/1607.04632)
 
 *   Finite size analysis of the detectability limit of the stochastic block model  
     Jean-Gabriel Young, Patrick Desrosiers, **Laurent Hébert-Dufresne**, Edward Laurence and Louis J. Dubé  
