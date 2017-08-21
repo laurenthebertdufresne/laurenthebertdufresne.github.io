@@ -16,6 +16,7 @@ scholar_username: LdkfcuwAAAAJ
 #github_username: lecomptedelhd
 
 include: ['_pages']
+exclude: ['bower_components']
 
 # Build settings
 markdown: kramdown
