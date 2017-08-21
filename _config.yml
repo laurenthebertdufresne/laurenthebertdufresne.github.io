@@ -16,7 +16,7 @@ scholar_username: LdkfcuwAAAAJ
 #github_username: lecomptedelhd
 
 include: ['_pages']
-exclude: ['bower_components/turbolinks/CONDUCT.html','bower_components/filament-sticky/README.md','bower_components/jquery/README.md','bower_components/turbolinks/README.md']
+exclude: ['bower_components/turbolinks/CONDUCT.html','bower_components/turbolinks/README.md','bower_components/filament-sticky/README.md','bower_components/jquery/README.md','bower_components/turbolinks/README.md']
 
 # Build settings
 markdown: kramdown
