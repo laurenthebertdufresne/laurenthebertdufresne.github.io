@@ -11,13 +11,8 @@ weight: 3
     Antoine Allard and **Laurent Hébert-Dufresne**  
     _In preparation_
 
-*   The risk of sustained sexual transmission of Zika is underestimated  
-    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
-    _In submission_  
-    [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
-
-*  Forest fires, forest shape, and forest stability  
-    **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner,  S. Pacala and A. Berdahl  
+*  Edge fires drive the shape and stability of tropical forests  
+    **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
     _In submission_
 
 *   Dynamics of beneficial epidemics  
@@ -26,6 +21,11 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
 ## Peer-reviewed articles: 
+
+*   The risk of sustained sexual transmission of Zika is underestimated  
+    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
+    PLoS Pathog 13(9): e1006633 (2017)  
+    [Full text](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006633) | [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
 
 *   Asymmetric percolation drives a double transition in sexual contact networks  
     Antoine Allard, Benjamin M. Althouse, Samuel V. Scarpino and **Laurent Hébert-Dufresne**  
