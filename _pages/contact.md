@@ -5,7 +5,8 @@ permalink: /contact/
 weight: 4
 ---
 
-I currently work at <a href="https://www.uvm.edu/" target="_blank">The University of Vermont</a>. You can get in touch with me by email: Laurent.Hebert-Dufresne at uvm.edu
+I currently work at <a href="https://www.uvm.edu/" target="_blank">The University of Vermont</a>. 
+You can get in touch with me by email: Laurent.Hebert-Dufresne at uvm.edu
 
 # Past affiliations:
 
