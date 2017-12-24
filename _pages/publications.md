@@ -12,7 +12,7 @@ weight: 3
     _In preparation_
 
 *  Syntrophy emerges spontaneously in complex metabolic systems  
-    Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini, and Andreas Wagner  
+    Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
     _In preparation_
 
 *  Edge fires drive the shape and stability of tropical forests  
@@ -27,7 +27,7 @@ weight: 3
 ## Peer-reviewed articles: 
 
 *   The risk of sustained sexual transmission of Zika is underestimated  
-    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne**, Samuel V. Scarpino  
+    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne** and Samuel V. Scarpino  
     PLoS Pathog 13(9): e1006633 (2017)  
     [Full text](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006633) | [bioRxiv.org](http://biorxiv.org/content/early/2017/02/22/090324)
 
