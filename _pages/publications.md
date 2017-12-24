@@ -11,6 +11,10 @@ weight: 3
     Antoine Allard and **Laurent Hébert-Dufresne**  
     _In preparation_
 
+*  Syntrophy emerges spontaneously in complex metabolic systems  
+    Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini, and Andreas Wagner  
+    _In preparation_
+
 *  Edge fires drive the shape and stability of tropical forests  
     **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
     _In submission_
