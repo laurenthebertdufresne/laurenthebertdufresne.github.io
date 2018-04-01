@@ -15,9 +15,10 @@ weight: 3
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
     _In preparation_
 
-*  Edge fires drive the shape and stability of tropical forests  
-    **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
-    _In submission_
+*   Network archaeology: phase transition in the recoverability of network history  
+    Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Edward Laurence, Charles Murphy, Guillaume St-Onge and Patrick Desrosiers  
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1803.09191) 
 
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
@@ -25,6 +26,11 @@ weight: 3
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
 ## Peer-reviewed articles: 
+
+*  Edge fires drive the shape and stability of tropical forests  
+    **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
+    Ecology Letters (2018)  
+    [Full text](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.12942) | [bioRxiv.org](https://www.biorxiv.org/content/early/2018/02/14/265124) | [arXiv.org](https://arxiv.org/abs/1802.04892)
 
 *   The risk of sustained sexual transmission of Zika is underestimated  
     Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne** and Samuel V. Scarpino  
