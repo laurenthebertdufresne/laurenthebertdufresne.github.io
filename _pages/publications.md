@@ -7,9 +7,10 @@ weight: 3
 
 ## In preparation:
 
-*   Effective structure of complex networks  
+*   Percolation and the effective structure of complex networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
-    _In preparation_
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1804.09633) 
 
 *  Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
