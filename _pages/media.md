@@ -19,6 +19,6 @@ weight: 4
 
 *   [gizmodo: When Things Go Viral and Everybody Wins](http://gizmodo.com/when-things-go-viral-and-everybody-wins-1769950969)
 
-# Lightning Research Talks at Santa Fe Institute (2015)
+# Reckless Idea public lecture, Burlington VT (2018)
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/RZGdnAM9Kis" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
