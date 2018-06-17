@@ -21,4 +21,4 @@ weight: 4
 
 # Lightning Research Talks at Santa Fe Institute (2015)
 
-<iframe width="100%" height="315" src="http://www.youtube.com/embed/9OXqZ1n6NPQ?start=547" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="100%" height="315" src="http://www.youtube.com/embed/RZGdnAM9Kis" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
