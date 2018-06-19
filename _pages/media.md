@@ -9,7 +9,7 @@ weight: 4
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/RZGdnAM9Kis" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
+* * *
 
 # A Sample of Recent Media Coverage
 
