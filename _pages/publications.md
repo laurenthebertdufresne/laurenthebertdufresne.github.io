@@ -55,12 +55,12 @@ weight: 3
 
 *   Exotic phase transitions of k-cores in clustered networks  
     Uttam Bhat, Munik Shrestha and **Laurent Hébert-Dufresne**  
-    Phys. Rev. E 95 012314 (2017)  
+    Phys. Rev. E 95, 012314 (2017)  
     [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.012314) | [arXiv.org](https://arxiv.org/abs/1607.08637)
 
 *   Growing networks of overlapping communities with internal structure  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Antoine Allard and Louis J. Dubé  
-    Phys. Rev. E 94 022317 (2016)  
+    Phys. Rev. E 94, 022317 (2016)  
     [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022317) | [arXiv.org](https://arxiv.org/abs/1603.05566)
 
 *   Network structure at multiple scales via a new network statistic: the onion decomposition  
@@ -75,17 +75,17 @@ weight: 3
 
 *   On the constrained growth of complex scale-independent systems  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
-    Phys. Rev. E 93 032304 (2016)  
+    Phys. Rev. E 93, 032304 (2016)  
     [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032304) | [arXiv.org](http://arxiv.org/abs/1310.0112)
 
 *   Complex networks as an emerging property of hierarchical preferential attachment  
     **Laurent Hébert-Dufresne**,  Edward Laurence, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
-    Phys. Rev. E 92 062809 (2015)  
+    Phys. Rev. E 92, 062809 (2015)  
     [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062809) | [arXiv.org](http://arxiv.org/abs/1312.0171)
 
 *   General and exact approach to percolation on random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Jean-Gabriel Young and Louis J. Dubé  
-    Phys. Rev. E 92 062807 (2015)  
+    Phys. Rev. E 92, 062807 (2015)  
     [Full text](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062807) | [arXiv.org](http://export.arxiv.org/abs/1509.01207)
 
 *   A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure  
@@ -115,12 +115,12 @@ weight: 3
 
 *   Coexistence of phases and the observability of random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Jean-Gabriel Young and Louis J. Dubé  
-    Phys. Rev. E 89 022801 (2014)  
+    Phys. Rev. E 89, 022801 (2014)  
     [Full text](http://pre.aps.org/abstract/PRE/v89/i2/e022801) | [arXiv.org](http://arxiv.org/abs/1309.7983)
 
 *   Percolation on random networks with arbitrary k-core structure  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  
-    Phys. Rev. E 88 062820 (2013)  
+    Phys. Rev. E 88, 062820 (2013)  
     [Full text](http://pre.aps.org/abstract/PRE/v88/i6/e062820) | [arXiv.org](http://arxiv.org/abs/1308.6537)
 
 *   Global efficiency of local immunization on complex networks  
@@ -155,12 +155,12 @@ weight: 3
 
 *   Exact solution of bond percolation on small arbitrary graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau and Louis J. Dubé  
-    EPL, 98 16001 (2012)  
+    EPL 98, 16001 (2012)  
     [Full text](http://iopscience.iop.org/0295-5075/98/1/16001/) | [arXiv.org](http://arxiv.org/abs/1201.4369)
 
 *   Propagation on networks: an exact alternative perspective  
     Pierre-André Noël, Antoine Allard, **Laurent Hébert-Dufresne**, Vincent Marceau and Louis J. Dubé  
-    Phys. Rev. E 85 031118 (2012)  
+    Phys. Rev. E 85, 031118 (2012)  
     [Full text](http://pre.aps.org/abstract/PRE/v85/i3/e031118) | [arXiv.org](http://arxiv.org/abs/1102.0987)  
 
 *   Structural preferential attachment: Stochastic process for the growth of scale-free, modular and self-similar systems  
