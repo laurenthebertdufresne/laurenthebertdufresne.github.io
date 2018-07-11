@@ -30,7 +30,7 @@ weight: 3
 
 *  Edge fires drive the shape and stability of tropical forests  
     **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
-    Ecology Letters (2018)  
+    Ecology Letters 21: 794–803 (2018)  
     [Full text](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.12942) | [bioRxiv.org](https://www.biorxiv.org/content/early/2018/02/14/265124) | [arXiv.org](https://arxiv.org/abs/1802.04892)
 
 *   The risk of sustained sexual transmission of Zika is underestimated  
