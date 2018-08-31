@@ -19,7 +19,7 @@ weight: 3
 
 *  Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
-    _In preparation_
+    _In submission_
 
 *   Network archaeology: phase transition in the recoverability of network history  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Edward Laurence, Charles Murphy, Guillaume St-Onge and Patrick Desrosiers  
