@@ -7,6 +7,11 @@ weight: 3
 
 ## In preparation:
 
+*   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
+    Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1808.05859) 
+
 *   Percolation and the effective structure of complex networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
     _In submission_  
