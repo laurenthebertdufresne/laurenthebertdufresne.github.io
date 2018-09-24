@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab
+title: Laboratory for Structure and Dynamics
 permalink: /lab/
 weight: 3
 ---
