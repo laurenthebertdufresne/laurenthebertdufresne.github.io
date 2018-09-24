@@ -7,7 +7,7 @@ weight: 3
 
 ## Bridging graph theory and network science
 
-<img src="/img/networks.png?height=137&amp;width=320" border="0" width="100%">
+<img src="/img/constellation.jpg?height=137&amp;width=320" border="0" width="100%">
 
 With the rise of data science, applications of network theory now arise in all shapes and forms; even in fields where they probably should not. Unfortunately, there is still a large gap between the foundations of graph theory and the simple application of "network thinking". I have many projects which aim at closing this gap and unify the approaches from statistical physics, mathematics and computer science.
 
