@@ -7,6 +7,11 @@ weight: 2
 
 ## In preparation:
 
+*   Smeared phase transitions in percolation on real complex networks  
+    **Laurent Hébert-Dufresne** and Antoine Allard  
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1810.00735) 
+
 *   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
     Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
     _In submission_  
