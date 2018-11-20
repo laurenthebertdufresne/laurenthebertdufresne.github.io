@@ -39,7 +39,7 @@ weight: 2
 ## Peer-reviewed articles: 
 
 *   The Symptoms at the Center: Examining the Comorbidity of Posttraumatic Stress Disorder, Generalized Anxiety Disorder, and Depression with Network Analysis.  
-    Matthew Price, Alison Legrand, Zoe Brier, and **Laurent Hébert-Dufresne** 
+    Matthew Price, Alison Legrand, Zoe Brier, and **Laurent Hébert-Dufresne**  
     Journal of Psychiatric Research  (_In press_)
 
 *  Edge fires drive the shape and stability of tropical forests  
