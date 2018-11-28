@@ -39,10 +39,11 @@ weight: 2
 ## Peer-reviewed articles: 
 
 *   The Symptoms at the Center: Examining the Comorbidity of Posttraumatic Stress Disorder, Generalized Anxiety Disorder, and Depression with Network Analysis.  
-    Matthew Price, Alison Legrand, Zoe Brier, and **Laurent Hébert-Dufresne**  
-    Journal of Psychiatric Research  (_In press_)
+    Matthew Price, Alison C. Legrand, Zoe M.F. Brier, and **Laurent Hébert-Dufresne**  
+    Journal of Psychiatric Research 109: 52-58 (2018)  
+    [Full text](https://www.sciencedirect.com/science/article/pii/S0022395618307088)
 
-*  Edge fires drive the shape and stability of tropical forests  
+*   Edge fires drive the shape and stability of tropical forests  
     **Laurent Hébert-Dufresne**, A. Pellegrini, U. Bhat, S. Redner, S. Pacala and A. Berdahl  
     Ecology Letters 21: 794–803 (2018)  
     [Full text](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.12942) | [bioRxiv.org](https://www.biorxiv.org/content/early/2018/02/14/265124) | [arXiv.org](https://arxiv.org/abs/1802.04892)
