@@ -15,12 +15,7 @@ weight: 2
 *   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
     Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
     _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1808.05859) 
-
-*   Percolation and the effective structure of complex networks  
-    Antoine Allard and **Laurent Hébert-Dufresne**  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1804.09633) 
+    [arXiv.org](https://arxiv.org/abs/1808.05859)
 
 *   Syntrophy is an emergent property of complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
@@ -36,7 +31,12 @@ weight: 2
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
-## Peer-reviewed articles: 
+## Peer-reviewed articles:  
+
+*   Percolation and the effective structure of complex networks  
+    Antoine Allard and **Laurent Hébert-Dufresne**  
+    Physical Review X (in press)
+    [arXiv.org](https://arxiv.org/abs/1804.09633) 
 
 *   The Symptoms at the Center: Examining the Comorbidity of Posttraumatic Stress Disorder, Generalized Anxiety Disorder, and Depression with Network Analysis.  
     Matthew Price, Alison C. Legrand, Zoe M.F. Brier, and **Laurent Hébert-Dufresne**  
