@@ -17,7 +17,7 @@ weight: 2
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1808.05859)
 
-*   Syntrophy is an emergent property of complex metabolic systems  
+*   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
     _In submission_
 
