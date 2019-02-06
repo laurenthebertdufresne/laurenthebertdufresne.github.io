@@ -7,6 +7,11 @@ weight: 2
 
 ## In preparation:
 
+*   Assessing the threat of Zika virus as a sexually transmitted infection  
+    Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne** and Samuel V. Scarpino  
+    _In submission_  
+    _Draft available upon request  
+
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
     _In submission_  
@@ -40,7 +45,7 @@ weight: 2
 
 *   The Symptoms at the Center: Examining the Comorbidity of Posttraumatic Stress Disorder, Generalized Anxiety Disorder, and Depression with Network Analysis.  
     Matthew Price, Alison C. Legrand, Zoe M.F. Brier, and **Laurent Hébert-Dufresne**  
-    Journal of Psychiatric Research 109: 52-58 (2018)  
+    Journal of Psychiatric Research 109: 52-58 (2019)  
     [Full text](https://www.sciencedirect.com/science/article/pii/S0022395618307088)
 
 *   Edge fires drive the shape and stability of tropical forests  
