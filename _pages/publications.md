@@ -10,7 +10,7 @@ weight: 2
 *   Assessing the threat of Zika virus as a sexually transmitted infection  
     Antoine Allard, Benjamin M. Althouse, **Laurent Hébert-Dufresne** and Samuel V. Scarpino  
     _In submission_  
-    _Draft available upon request  
+    Draft available upon request  
 
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
