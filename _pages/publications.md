@@ -41,8 +41,8 @@ weight: 2
 
 *   Percolation and the effective structure of complex networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
-    Physical Review X (in press)  
-    [arXiv.org](https://arxiv.org/abs/1804.09633) 
+    Phys. Rev. X 9, 011023 (2019)  
+    [Full text](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011023) | [arXiv.org](https://arxiv.org/abs/1804.09633) 
 
 *   The Symptoms at the Center: Examining the Comorbidity of Posttraumatic Stress Disorder, Generalized Anxiety Disorder, and Depression with Network Analysis.  
     Matthew Price, Alison C. Legrand, Zoe M.F. Brier, and **Laurent Hébert-Dufresne**  
