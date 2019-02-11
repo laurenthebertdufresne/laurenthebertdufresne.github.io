@@ -15,12 +15,7 @@ weight: 2
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
     _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1810.00735) 
-
-*   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
-    Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1808.05859)
+    [arXiv.org](https://arxiv.org/abs/1810.00735)  
 
 *   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
@@ -37,7 +32,12 @@ weight: 2
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
-## Peer-reviewed articles:  
+## Peer-reviewed articles:    
+
+*   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
+    Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
+    Computer Physics Communications (in press)  
+    [arXiv.org](https://arxiv.org/abs/1808.05859)
 
 *   Percolation and the effective structure of complex networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
