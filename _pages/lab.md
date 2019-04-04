@@ -15,6 +15,8 @@ Our research deals with the interaction and coevolution of structure and dynamic
 
 # Current lab members
 
+*   Mariah Boudreau (Ph.D. student in Mathematics, QuEST trainee)
+
 *   Brendan Case (Ph.D. student in Computer Science, QuEST trainee)
 
 *   Alexander Daniels (Ph.D. student in Complex Systems)
