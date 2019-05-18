@@ -12,7 +12,7 @@ weight: 2
     _In preparation_  
     Draft available upon request  
 
-*   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone
+*   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
     L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
     _In preparation_  
     Draft available upon request  
