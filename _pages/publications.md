@@ -9,23 +9,18 @@ weight: 2
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
-    _In preparation_  
+    _In submission  
     Draft available upon request  
 
 *   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
     L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
-    _In preparation_  
+    _In submission  
     Draft available upon request  
 
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
     _In submission_  
     [arXiv.org](https://arxiv.org/abs/1810.00735)  
-
-*   Syntrophy emerges spontaneously in complex metabolic systems  
-    Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
-    _In submission_  
-    Draft available upon request  
 
 *   Network archaeology: phase transition in the recoverability of network history  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Edward Laurence, Charles Murphy, Guillaume St-Onge and Patrick Desrosiers  
@@ -38,6 +33,11 @@ weight: 2
     [arXiv.org](https://arxiv.org/abs/1604.02096) 
 
 ## Peer-reviewed articles:    
+
+*   Syntrophy emerges spontaneously in complex metabolic systems  
+    Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
+    PLOS Comput. Biol.   
+    _In press_  
 
 *   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
     Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
