@@ -9,12 +9,12 @@ weight: 2
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
-    _In submission  
+    _In submission_  
     Draft available upon request  
 
 *   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
     L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
-    _In submission  
+    _In submission_  
     Draft available upon request  
 
 *   Smeared phase transitions in percolation on real complex networks  
