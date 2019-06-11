@@ -17,6 +17,11 @@ weight: 2
     _In submission_  
     Draft available upon request  
 
+*   Interacting contagions are indistinguishable from social reinforcement  
+    **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
+    _In submission_  
+    [arXiv.org](https://arxiv.org/abs/1906.01147)  
+
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
     _In submission_  
