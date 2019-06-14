@@ -5,12 +5,16 @@ permalink: /publications/
 weight: 2
 ---
 
-## In preparation:
+## Available drafts:
+
+*   On the accuracy of message passing approaches in tree-like networks  
+    Antoine Allard and **Laurent Hébert-Dufresne**  
+    _In submission_  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     _In submission_  
-    Draft available upon request  
+    [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 *   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
     L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
@@ -41,12 +45,12 @@ weight: 2
 
 *   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
-    PLOS Comput. Biol.   
+    PLOS Comput. Biol. (2019)   
     _In press_  
 
 *   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
     Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
-    Comput. Phys. Commun. (2019)  
+    Comput. Phys. Commun. 240:30-37 (2019)  
     [Full text](https://www.sciencedirect.com/science/article/pii/S0010465519300608) | [arXiv.org](https://arxiv.org/abs/1808.05859)
 
 *   Percolation and the effective structure of complex networks  
