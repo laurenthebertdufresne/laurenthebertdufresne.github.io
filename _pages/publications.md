@@ -9,37 +9,31 @@ weight: 2
 
 *   On the accuracy of message passing approaches in tree-like networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
-    _In submission_  
+    Draft available upon request  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
-    _In submission_  
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 *   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
     L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
-    _In submission_  
     Draft available upon request  
 
 *   Interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
-    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
-    _In submission_  
     [arXiv.org](https://arxiv.org/abs/1810.00735)  
 
 *   Network archaeology: phase transition in the recoverability of network history  
     Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Edward Laurence, Charles Murphy, Guillaume St-Onge and Patrick Desrosiers  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1803.09191) 
+    [arXiv.org](https://arxiv.org/abs/1803.09191)  
 
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
-    _In submission_  
-    [arXiv.org](https://arxiv.org/abs/1604.02096) 
+    [arXiv.org](https://arxiv.org/abs/1604.02096)  
 
 ## Peer-reviewed articles:    
 
