@@ -7,16 +7,16 @@ weight: 2
 
 ## Available drafts:
 
-*   On the accuracy of message passing approaches in tree-like networks  
+*   On the accuracy of message-passing approaches to percolation in complex networks  
     Antoine Allard and **Laurent Hébert-Dufresne**  
-    Draft available upon request  
+    [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 *   Unmet needs associated with fewer referrals to treatment and safe burials during the Ebola response in Sierra Leone  
-    L.A Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
+    L.A. Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
     Draft available upon request  
 
 *   Interacting contagions are indistinguishable from social reinforcement  
@@ -28,7 +28,7 @@ weight: 2
     [arXiv.org](https://arxiv.org/abs/1810.00735)  
 
 *   Network archaeology: phase transition in the recoverability of network history  
-    Jean-Gabriel Young, **Laurent Hébert-Dufresne**, Edward Laurence, Charles Murphy, Guillaume St-Onge and Patrick Desrosiers  
+    Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
     [arXiv.org](https://arxiv.org/abs/1803.09191)  
 
 *   Dynamics of beneficial epidemics  
@@ -69,7 +69,7 @@ weight: 2
 
 *   Asymmetric percolation drives a double transition in sexual contact networks  
     Antoine Allard, Benjamin M. Althouse, Samuel V. Scarpino and **Laurent Hébert-Dufresne**  
-    Proc. Natl. Acad. Sci. U.S.A. (2017)  
+    Proc. Natl. Acad. Sci. U.S.A. 114:34 (2017)  
     [Full text](http://www.pnas.org/content/early/2017/08/07/1703073114.full) | [arXiv.org](https://arxiv.org/abs/1702.06224)
 
 *   Strategic tradeoffs in competitor dynamics on adaptive networks  
@@ -129,7 +129,7 @@ weight: 2
 
 *   Complex dynamics of synergistic coinfections on realistically clustered networks  
     **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
-    Proc. Natl. Acad. Sci. U.S.A. (2015)  
+    Proc. Natl. Acad. Sci. U.S.A. 112:33 (2015)  
     [Full text](http://www.pnas.org/content/early/2015/07/16/1507820112.abstract)[](http://www.pnas.org/content/early/2015/07/16/1507820112.abstract)
 
 *   Spreading dynamics on complex networks: a general stochastic approach  
