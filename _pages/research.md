@@ -9,11 +9,13 @@ weight: 3
 
 <img src="/img/constellation.jpg?height=137&amp;width=320" border="0" width="100%">
 
-With the rise of data science, applications of network theory now arise in all shapes and forms; even in fields where they probably should not. Unfortunately, there is still a large gap between the foundations of graph theory and the simple application of "network thinking". I have many projects which aim at closing this gap and unify the approaches from statistical physics, mathematics and computer science.
+As "big data" now often means "big networks", applications of network science now arise in all shapes and forms. Unfortunately, there is still a large gap between the foundations of graph theory and the simple application of "network thinking". I have many projects which aim at closing this gap and unify the approaches from statistical physics, mathematics and computer science.
 
 ### Selected publications:
 
 [Laurent Hébert-Dufresne, Joshua A. Grochow & Antoine Allard, Scientific Reports 6 31708 (2016)](http://www.nature.com/articles/srep31708)
+
+[Antoine Allard & Laurent Hébert-Dufresne, Phys. Rev. X 9, 011023 (2019)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011023)
 
 * * *
 
@@ -21,15 +23,17 @@ With the rise of data science, applications of network theory now arise in all s
 
 <img src="/img/influenza.png?height=137&amp;width=320" border="0" width="100%">
 
-The description of a propagating agent on a network describes multiple phenomena: epidemics,&nbsp;pollutants&nbsp;in food webs, viruses on the Internet, rumors in social groups and even the robustness of communication networks or nuclear fragmentation. My recent work on the subject has mainly been centered around four topics: mean-field descriptions on realistic topologies, co-evolutive dynamics (adaptive networks or competing processes), general stochastic description and exact solutions using bond percolation formalisms.
+The societal aim of epidemiology is to reduce disease burden by better understanding diseases. Epidemiological models tend not to be disease specific; they contribute broadly to our understanding of disease spread and to our pandemic preparedness. However, current models often consist of collections of deterministic and homogeneous compartments, in contradiction with the stochastic nature of disease transmission and the known heterogeneity of human behaviour. My work therefore focuses on network epidemiology, which allows us to embrace the natural randomness and heterogeneity of human behaviour to provide more realistic, probabilistic understanding of epidemics.
 
 ### Selected publications:
 
 [Laurent Hébert-Dufresne *et al*, Phys. Rev. Lett. 110, 108103 (2013)](http://prl.aps.org/abstract/PRL/v110/i10/e108103)
 
-[Laurent Hébert-Dufresne & Benjamin M. Althouse, PNAS 122, 33, 10551 (2015)](http://www.pnas.org/content/112/33/10551.abstract)
+[Laurent Hébert-Dufresne & Benjamin M. Althouse, PNAS 122, 33 (2015)](http://www.pnas.org/content/112/33/10551.abstract)
 
-[Samuel V. Scarpino, Antoine Allard & Laurent Hébert-Dufresne, Nature Physics (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html)
+[Samuel V. Scarpino, Antoine Allard & Laurent Hébert-Dufresne, Nature Physics 12, 1042-1046 (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html)
+
+[Antoine Allard, Samuel V. Scarpino, Benjamin M. Althouse & Laurent Hébert-Dufresne, 114, 34 (2017)](http://www.pnas.org/content/early/2017/08/07/1703073114.full)
 
 * * *
 
@@ -37,7 +41,7 @@ The description of a propagating agent on a network describes multiple phenomena
 
 <img src="/img/system.png?height=61&amp;width=160" border="0" width="50%">
 
-Myriads of real complex systems (from works of art to biological systems) share common, universal, features of organization. Many of the models proposed to explain the emergence of such properties (e.g. self-organized criticality and other critical processes) also share common features or rules. I am interested in finding these "hidden" laws of organization in the hope of gaining further insights on the&nbsp;necessary&nbsp;ingredients of complexity.
+Myriads of real complex systems, from works of art to biological systems, share common, universal, features of organization. Many of the models proposed to explain the emergence of such properties (e.g. self-organized criticality and other critical processes) also share common features or rules. I am interested in finding these "hidden" laws of organization in the hope of gaining further insights on the necessary ingredients of complexity.
 
 ### Selected publication:
 
