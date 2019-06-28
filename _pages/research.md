@@ -33,7 +33,7 @@ The societal aim of epidemiology is to reduce disease burden by better understan
 
 [Samuel V. Scarpino, Antoine Allard & Laurent Hébert-Dufresne, Nature Physics 12, 1042-1046 (2016)](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3832.html)
 
-[Antoine Allard, Samuel V. Scarpino, Benjamin M. Althouse & Laurent Hébert-Dufresne, 114, 34 (2017)](http://www.pnas.org/content/early/2017/08/07/1703073114.full)
+[Antoine Allard, Samuel V. Scarpino, Benjamin M. Althouse & Laurent Hébert-Dufresne, PNAS 114, 34 (2017)](http://www.pnas.org/content/early/2017/08/07/1703073114.full)
 
 * * *
 
