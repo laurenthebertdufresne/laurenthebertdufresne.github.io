@@ -160,17 +160,17 @@ weight: 2
 *   Optimizing treatment regimes to hinder antiviral resistance in influenza across time scales  
     Oscar Patterson-Lomba, Benjamin M. Althouse, Georg M. Goerg and **Laurent Hébert-Dufresne**  
     PLOS ONE 8(3): e59529 (2013)  
-    [<u>Full text</u>](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059529)
+    [Full text](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059529)
 
 *   Pathogen mutation modeled by competition between site and bond percolation  
     **Laurent Hébert-Dufresne**, Oscar Patterson-Lomba, Georg M. Goerg and Benjamin M. Althouse  
     Phys. Rev. Lett. 110, 108103 (2013)  
-    [<u>Full text</u>](http://prl.aps.org/abstract/PRL/v110/i10/e108103)
+    [Full text](http://prl.aps.org/abstract/PRL/v110/i10/e108103)
 
 *   Targeting and timing of treatment influences the emergence of influenza resistance in structured populations  
     Benjamin M. Althouse, Oscar Patterson-Lomba, Georg M. Goerg and **Laurent Hébert-Dufresne**  
     PLOS Comput Biol 9(2): e1002912 (2013)  
-    [<u>Full text</u>](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002912)
+    [Full text](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002912)
 
 *   Escaping the poverty trap: modeling the interplay between economic growth and the ecology of infectious disease  
     Georg M. Goerg, Oscar Patterson-Lomba, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
@@ -228,8 +228,8 @@ weight: 2
 
 *   On the growth and structure of social systems following preferential attachment  
     **Laurent Hébert-Dufresne** (Ph.D., Université Laval, 2014)  
-    _Available over at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
 
 *   La structure communautaire comme paradigme d'organisation des réseaux complexes (in French)  
     **Laurent Hébert-Dufresne** (M.Sc., Université Laval, 2011)  
-    _Available over at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
