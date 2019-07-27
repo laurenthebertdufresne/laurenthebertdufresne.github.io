@@ -23,10 +23,6 @@ weight: 2
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
     [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
-*   Smeared phase transitions in percolation on real complex networks  
-    **Laurent Hébert-Dufresne** and Antoine Allard  
-    [arXiv.org](https://arxiv.org/abs/1810.00735)  
-
 *   Network archaeology: phase transition in the recoverability of network history  
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
     [arXiv.org](https://arxiv.org/abs/1803.09191)  
@@ -36,6 +32,11 @@ weight: 2
     [arXiv.org](https://arxiv.org/abs/1604.02096)  
 
 ## Peer-reviewed articles:    
+
+*   Smeared phase transitions in percolation on real complex networks  
+    **Laurent Hébert-Dufresne** and Antoine Allard  
+    Phys. Rev. Research (2019)
+    _In press_ | [arXiv.org](https://arxiv.org/abs/1810.00735)  
 
 *   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
