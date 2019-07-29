@@ -40,8 +40,8 @@ weight: 2
 
 *   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
-    PLOS Comput. Biol. (2019)   
-    _In press_  
+    PLoS Comput. Biol. 15(7): e1007169 (2019)   
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007169)  
 
 *   Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm  
     Guillaume St-Onge, Jean-Gabriel Young, **Laurent Hébert-Dufresne** and Louis J. Dubé  
