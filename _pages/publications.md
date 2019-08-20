@@ -36,7 +36,7 @@ weight: 2
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
     Phys. Rev. Research 1, 013009 (2019)   
-    [Full text](Smeared phase transitions in percolation on real complex networks) | [arXiv.org](https://arxiv.org/abs/1810.00735)  
+    [Full text](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.013009) | [arXiv.org](https://arxiv.org/abs/1810.00735)  
 
 *   Syntrophy emerges spontaneously in complex metabolic systems  
     Eric Libby, **Laurent Hébert-Dufresne**, Sayed-Rzgar Hosseini and Andreas Wagner  
