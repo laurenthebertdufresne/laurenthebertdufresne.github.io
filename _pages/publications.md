@@ -27,11 +27,12 @@ weight: 2
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
     [arXiv.org](https://arxiv.org/abs/1803.09191)  
 
+## Peer-reviewed articles:    
+
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
+    Scientific Reports (in press)   
     [arXiv.org](https://arxiv.org/abs/1604.02096)  
-
-## Peer-reviewed articles:    
 
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
