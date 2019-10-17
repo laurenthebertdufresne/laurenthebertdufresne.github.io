@@ -19,10 +19,12 @@ Our research deals with the interaction and coevolution of structure and dynamic
 
 *   Brendan Case (Ph.D. student in Computer Science, QuEST trainee)
 
-*   Alexander Daniels (Ph.D. student in Complex Systems)
+*   Alexander Daniels (Ph.D. student in Complex Systems & Data Science)
+
+*   Connor Klopfer (M.Sc. student in Complex Systems & Data Science)
 
 *   Samuel Rosenblatt (Ph.D. student in Computer Science, QuEST trainee)
 
 *   Guillaume St-Onge (Ph.D. student in Physics, at Université Laval)
 
-*   Blake Williams (Master student in Complex Systems & Data Science)
+*   Blake Williams (M.Sc. student in Complex Systems & Data Science)
