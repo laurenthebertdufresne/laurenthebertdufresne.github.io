@@ -23,11 +23,12 @@ weight: 2
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
     [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
-*   Network archaeology: phase transition in the recoverability of network history  
-    Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
-    [arXiv.org](https://arxiv.org/abs/1803.09191)  
-
 ## Peer-reviewed articles:    
+
+*   Phase transition in the recoverability of network history  
+    Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
+    Phys. Rev. X (in press)   
+    [arXiv.org](https://arxiv.org/abs/1803.09191)  
 
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
