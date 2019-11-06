@@ -32,8 +32,8 @@ weight: 2
 
 *   Dynamics of beneficial epidemics  
     Santa Fe Institute Postdocs: 72 Hours of Science event  
-    Scientific Reports (in press)   
-    [arXiv.org](https://arxiv.org/abs/1604.02096)  
+    Scientific Reports 9, 15093 (2019)   
+    [Full text](https://www.nature.com/articles/s41598-019-50039-w) | [arXiv.org](https://arxiv.org/abs/1604.02096)  
 
 *   Smeared phase transitions in percolation on real complex networks  
     **Laurent Hébert-Dufresne** and Antoine Allard  
