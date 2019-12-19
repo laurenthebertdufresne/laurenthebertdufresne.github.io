@@ -22,7 +22,7 @@ weight: 2
 ## Peer-reviewed articles:    
 
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
-    L.A. Skrip, J. Bedson, S. Abramowitz, ..., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
+    L.A. Skrip, J. Bedson, S. Abramowitz, et al., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
     Lancent Planetary Healh (in press)   
 
 *   Phase transition in the recoverability of network history  
@@ -126,7 +126,7 @@ weight: 2
     [Full text](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133)
 
 *   Enhancing disease surveillance with novel data streams: challenges and opportunities  
-    B.M. Althouse, S.V. Scarpino et al.  
+    B.M. Althouse, S.V. Scarpino, ..., **Laurent Hébert-Dufresne** et al.  
     EPJ Data Science 4:17 (2015)  
     [Full text](http://www.epjdatascience.com/content/4/1/17) | [Highlight](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)[](http://www.epj.org/113-epj-ds/998-epjds-highlight-using-patients-trail-of-digital-crumbs-for-public-health-surveillance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+edp_epjnews+%28EPJ+News%29)
 
