@@ -27,7 +27,7 @@ weight: 2
 
 *   Phase transition in the recoverability of network history  
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
-    Phys. Rev. X 9, 041056 (2019)
+    Phys. Rev. X 9, 041056 (2019)   
     [Full text](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.041056) | [arXiv.org](https://arxiv.org/abs/1803.09191)  
 
 *   Dynamics of beneficial epidemics  
