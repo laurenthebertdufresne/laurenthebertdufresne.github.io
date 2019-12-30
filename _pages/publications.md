@@ -15,15 +15,24 @@ weight: 2
     J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
-*   Interacting contagions are indistinguishable from social reinforcement  
+## Peer-reviewed articles:    
+
+*   Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
+    Nature Physics (in press)   
     [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
-## Peer-reviewed articles:    
+*   Connected graphs with a given degree sequence: Efficient sampling, correlations, community detection and robustness  
+    John H. Ring IV, Jean-Gabriel Young and **Laurent Hébert-Dufresne**  
+    Proceedings of NetSciX 2020 (in press)   
+
+*   Effective Implementation of Energy Aware Polarization Diversity for IoT Networks Using Eigenvector Centrality  
+    Sakil Chowdhury, **Laurent Hébert-Dufresne** and Jeff Frolik  
+    Proceedings of NetSciX 2020 (in press)   
 
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
-    Lancent Planetary Healh (in press)   
+    Lancet Planetary Healh (in press)   
 
 *   Phase transition in the recoverability of network history  
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
