@@ -31,7 +31,7 @@ weight: 2
     Proceedings of NetSciX 2020 (in press)   
 
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
-    L.A. Skrip, J. Bedson, S. Abramowitz, et al., N. Cheney, **L. Hébert-Dufresne**, and B.M. Althouse  
+    L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
     Lancet Planetary Healh (in press)   
 
 *   Phase transition in the recoverability of network history  
