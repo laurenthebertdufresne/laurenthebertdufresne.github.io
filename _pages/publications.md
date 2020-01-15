@@ -12,7 +12,7 @@ weight: 2
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
-    J. Bedson, M.F. Jalloh, D. Pedi, ..., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
+    J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 ## Peer-reviewed articles:    
@@ -32,7 +32,7 @@ weight: 2
 
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
-    Lancet Planetary Healh (in press)   
+    Lancet Planetary Health (in press)   
 
 *   Phase transition in the recoverability of network history  
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
