@@ -22,17 +22,19 @@ weight: 2
     Nature Physics (in press)   
     [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
-*   Connected graphs with a given degree sequence: Efficient sampling, correlations, community detection and robustness  
-    John H. Ring IV, Jean-Gabriel Young and **Laurent Hébert-Dufresne**  
-    Proceedings of NetSciX 2020 (in press)   
-
-*   Effective Implementation of Energy Aware Polarization Diversity for IoT Networks Using Eigenvector Centrality  
-    Sakil Chowdhury, **Laurent Hébert-Dufresne** and Jeff Frolik  
-    Proceedings of NetSciX 2020 (in press)   
-
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
     Lancet Planetary Health (in press)   
+
+*   Connected graphs with a given degree sequence: Efficient sampling, correlations, community detection and robustness  
+    John H. Ring IV, Jean-Gabriel Young and **Laurent Hébert-Dufresne**  
+    Proceedings of NetSciX 2020 (in press)   
+    [Full text](https://link.springer.com/chapter/10.1007/978-3-030-38965-9_3) | [pdf](/file/Ring_etal_ConnectedCM.pdf)  
+
+*   Effective Implementation of Energy Aware Polarization Diversity for IoT Networks Using Eigenvector Centrality  
+    Sakil Chowdhury, **Laurent Hébert-Dufresne** and Jeff Frolik  
+    Proceedings of NetSciX 2020  
+    [Full text](https://link.springer.com/chapter/10.1007/978-3-030-38965-9_17) | [pdf](/file/Chowdhury_etal_IoT.pdf)  
 
 *   Phase transition in the recoverability of network history  
     Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, **Laurent Hébert-Dufresne** and Patrick Desrosiers  
