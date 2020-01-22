@@ -28,12 +28,12 @@ weight: 2
 
 *   Connected graphs with a given degree sequence: Efficient sampling, correlations, community detection and robustness  
     John H. Ring IV, Jean-Gabriel Young and **Laurent Hébert-Dufresne**  
-    Proceedings of NetSci-X 2020   
+    Proceedings of NetSci-X 2020, Springer Proceedings in Complexity. Springer, Cham   
     [Full text](https://link.springer.com/chapter/10.1007/978-3-030-38965-9_3) | [pdf](/file/Ring_etal_ConnectedCM.pdf)  
 
 *   Effective Implementation of Energy Aware Polarization Diversity for IoT Networks Using Eigenvector Centrality  
     Sakil Chowdhury, **Laurent Hébert-Dufresne** and Jeff Frolik  
-    Proceedings of NetSci-X 2020  
+    Proceedings of NetSci-X 2020, Springer Proceedings in Complexity. Springer, Cham  
     [Full text](https://link.springer.com/chapter/10.1007/978-3-030-38965-9_17) | [pdf](/file/Chowdhury_etal_IoT.pdf)  
 
 *   Phase transition in the recoverability of network history  
