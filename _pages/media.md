@@ -13,6 +13,10 @@ weight: 4
 
 # A Sample of Recent Media Coverage
 
+*   [CBC radio interview: Modelling the coronavirus outbreak (in French)](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
+
+*   [WCAX TV interview: UVM gets $1M from Google for open source research](https://www.wcax.com/content/news/UVM-gets-1-million-from-Google-for-open-source-research-566940401.html)
+
 *   [New Scientist: Warmer weather could bring fresh Zika misery](https://www.newscientist.com/article/mg23331164-400-warmer-weather-could-bring-fresh-zika-misery/)
 
 *   [Smithsonian: Going Home Sick? Your Substitute Could Spread Disease More Widely](http://www.smithsonianmag.com/smart-news/substitute-workers-could-make-workplace-illness-worse-180959979/?no-ist)
