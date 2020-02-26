@@ -23,8 +23,8 @@ weight: 2
 
 *   Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
-    Nature Physics (in press)   
-    [arXiv.org](https://arxiv.org/abs/1906.01147)  
+    Nature Physics (2020)   
+    [Full text](https://www.nature.com/articles/s41567-020-0791-2) | [arXiv.org](https://arxiv.org/abs/1906.01147)  
 
 *   Unmet needs and behavior during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
