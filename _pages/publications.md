@@ -29,7 +29,7 @@ weight: 2
 *   Unmet needs and behaviour during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
     Lancet Planetary Health 4(2): e74-e85 (2020)   
-    [Full text](https://www.sciencedirect.com/science/article/pii/S2542519620300085)
+    [Full text](https://www.sciencedirect.com/science/article/pii/S2542519620300085)  
 
 *   Connected graphs with a given degree sequence: Efficient sampling, correlations, community detection and robustness  
     John H. Ring IV, Jean-Gabriel Young and **Laurent Hébert-Dufresne**  
