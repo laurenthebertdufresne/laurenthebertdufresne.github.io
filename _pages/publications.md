@@ -251,14 +251,14 @@ weight: 2
 
 *   On the growth and structure of social systems following preferential attachment  
     **Laurent Hébert-Dufresne** (Ph.D., Université Laval, 2014)  
-    _Available at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [dynamica.phy.ulaval.ca](http://www.dynamica.phy.ulaval.ca/theses/)
 
 *   La structure communautaire comme paradigme d'organisation des réseaux complexes (in French)  
     **Laurent Hébert-Dufresne** (M.Sc., Université Laval, 2011)  
-    _Available at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [dynamica.phy.ulaval.ca](http://www.dynamica.phy.ulaval.ca/theses/)
 
 ## Other writings:  
 
 *   COVID-19: Cancel your next large event, and tell your friends to cancel theirs  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
-    _Available at:_ [https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
+    _Available at:_ [medium.org](https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
