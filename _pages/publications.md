@@ -15,6 +15,10 @@ weight: 2
     **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2002.04004)  
 
+*   School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure  
+    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2003.05924)  
+
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
@@ -252,3 +256,9 @@ weight: 2
 *   La structure communautaire comme paradigme d'organisation des réseaux complexes (in French)  
     **Laurent Hébert-Dufresne** (M.Sc., Université Laval, 2011)  
     _Available at:_ [http://www.dynamica.phy.ulaval.ca/theses/](http://www.dynamica.phy.ulaval.ca/theses/)
+
+## Other writings:  
+
+*   COVID-19: Cancel your next large event, and tell your friends to cancel theirs  
+    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    _Available at:_ [https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
