@@ -251,11 +251,11 @@ weight: 2
 
 *   On the growth and structure of social systems following preferential attachment  
     **Laurent Hébert-Dufresne** (Ph.D., Université Laval, 2014)  
-    _Available at:_ [dynamica.phy.ulaval.ca](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [dynamicalab.github.io](https://dynamicalab.github.io/assets/pdf/theses/hebert-dufresne14_thesis.pdf)
 
 *   La structure communautaire comme paradigme d'organisation des réseaux complexes (in French)  
     **Laurent Hébert-Dufresne** (M.Sc., Université Laval, 2011)  
-    _Available at:_ [dynamica.phy.ulaval.ca](http://www.dynamica.phy.ulaval.ca/theses/)
+    _Available at:_ [dynamicalab.github.io](https://dynamicalab.github.io/assets/pdf/theses/hebert-dufresne11_master.pdf)
 
 ## Other writings:  
 
