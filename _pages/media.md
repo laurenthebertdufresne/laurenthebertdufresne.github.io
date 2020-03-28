@@ -19,6 +19,8 @@ weight: 4
 
 *   [WIRED: No, a Border Wall Won't Stop Coronavirus](https://www.wired.com/story/border-wall-wont-stop-coronavirus/)
 
+*   [Data Skeptic podcast: AlphaGo, COVID-19 Contact Tracing and New Data Set](http://dataskeptic.libsyn.com/alphago-covid-19-contact-tracing-and-new-data-set-0)
+
 *   [CBC radio interview: Modelling the coronavirus outbreak (in French)](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
 
 *   [WCAX TV interview: UVM gets $1M from Google for open source research](https://www.wcax.com/content/news/UVM-gets-1-million-from-Google-for-open-source-research-566940401.html)
