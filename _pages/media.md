@@ -5,6 +5,10 @@ permalink: /media/
 weight: 4
 ---
 
+# Complexity podcast from the Santa Fe Institute (2020)
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7ec07c50-5eb1-4340-98fd-3095731addfd?dark=false"></iframe>
+
 # Reckless Idea public lecture, Burlington VT (2018)
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/RZGdnAM9Kis" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -12,6 +16,8 @@ weight: 4
 * * *
 
 # A Sample of Recent Media Coverage
+
+*   [WIRED: No, a Border Wall Won't Stop Coronavirus](https://www.wired.com/story/border-wall-wont-stop-coronavirus/)
 
 *   [CBC radio interview: Modelling the coronavirus outbreak (in French)](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
 
