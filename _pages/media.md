@@ -17,6 +17,10 @@ weight: 4
 
 # A Sample of Recent Media Coverage
 
+*   [Science News: How large a gathering is too large during the coronavirus pandemic?](https://www.sciencenews.org/article/coronavirus-covid19-social-gathering-size-math-pandemic)
+
+*   [Santa Fe Reporter: Get the Message](https://www.sfreporter.com/news/2020/04/01/get-the-message/)
+
 *   [WIRED: No, a Border Wall Won't Stop Coronavirus](https://www.wired.com/story/border-wall-wont-stop-coronavirus/)
 
 *   [Data Skeptic podcast: AlphaGo, COVID-19 Contact Tracing and New Data Set](http://dataskeptic.libsyn.com/alphago-covid-19-contact-tracing-and-new-data-set-0)
