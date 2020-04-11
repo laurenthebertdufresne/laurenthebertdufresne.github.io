@@ -9,7 +9,7 @@ weight: 4
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7ec07c50-5eb1-4340-98fd-3095731addfd?dark=false"></iframe>
 
-# Introduction to network epidemiology, Net-COVID online workshop (2020)
+# Introduction to network epidemiology, Net-COVID (2020)
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/5NGFDnJKiKA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
