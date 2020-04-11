@@ -19,9 +19,17 @@ weight: 2
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2003.05924)  
 
+*   Approximate master-equation analysis of mesoscopic localization for contagions on networks with higher-order structure  
+    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/)  
+
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2003.10604)  
+
+*   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries  
+    L. Skrip, et al., **L. Hébert-Dufresne**, S.V. Scarpino, B.M. Althouse  
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
@@ -262,6 +270,10 @@ weight: 2
     _Available at:_ [dynamicalab.github.io](https://dynamicalab.github.io/assets/pdf/theses/hebert-dufresne11_master.pdf)
 
 ## Other writings:  
+
+*   Misinformation about an outbreak like Covid-19 is important public health data  
+    **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
+    _Available at:_ [statnews.com](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/)
 
 *   COVID-19: Cancel your next large event, and tell your friends to cancel theirs  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
