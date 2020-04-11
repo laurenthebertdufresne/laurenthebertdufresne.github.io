@@ -11,7 +11,7 @@ weight: 4
 
 # Introduction to network epidemiology, Net-COVID online workshop (2020)
 
-<iframe width="100%" height="315" src="http://www.youtube.com/watch?v=5NGFDnJKiKA&t=10m00s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="100%" height="315" src="http://www.youtube.com/embed/5NGFDnJKiKA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 # Reckless Idea public lecture, Burlington VT (2018)
 
