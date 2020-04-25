@@ -21,6 +21,8 @@ weight: 4
 
 # A Sample of Recent Media Coverage
 
+*   [VTDigger: State ramps up contact tracing teams to contain Covid-19](https://vtdigger.org/2020/04/17/state-ramps-up-contact-tracing-teams-to-contain-covid-19/)
+
 *   [Science News: How large a gathering is too large during the coronavirus pandemic?](https://www.sciencenews.org/article/coronavirus-covid19-social-gathering-size-math-pandemic)
 
 *   [Santa Fe Reporter: Get the Message](https://www.sfreporter.com/news/2020/04/01/get-the-message/)

@@ -11,35 +11,48 @@ weight: 2
     Antoine Allard and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
-*   Beyond R0: the importance of contact tracing when predicting epidemics  
+*   Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting  
     **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2002.04004)  
 
-*   School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure  
+*   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2003.05924)  
 
-*   Approximate master-equation analysis of mesoscopic localization for contagions on networks with higher-order structure  
+*   Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2004.10203)  
+
+*   Containing Future Epidemics with Trustworthy Federated Systems for Ubiquitous Warning and Response  
+    Dick Carrillo et al.  
     [arXiv.org](https://arxiv.org/)  
+
+*   State-level variation of initial COVID-19 dynamics in the United States: The role of local government interventions  
+    Easton R. White and **Laurent Hébert-Dufresne**  
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1)  
 
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2003.10604)  
 
 *   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries  
-    L. Skrip, et al., **L. Hébert-Dufresne**, S.V. Scarpino, B.M. Althouse  
+    L. Skrip, et al., **L. Hébert-Dufresne**  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
-
-*   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
-    J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
-    [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 ## Peer-reviewed articles:    
 
+*   Immunization Strategies in Networks with Missing Data  
+    Samuel F. Rosenblatt, Jeffrey A. Smith, G. Robin Gauthier, and **Laurent Hébert-Dufresne**  
+    PLoS Comput. Biol. (in press)   
+
+*   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
+    J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
+    BMJ Global Health (in press)   
+    [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
+
 *   Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
-    Nature Physics (2020)   
+    Nature Physics 16, 426–431 (2020)   
     [Full text](https://www.nature.com/articles/s41567-020-0791-2) | [arXiv.org](https://arxiv.org/abs/1906.01147) | ['News and Views' by Sune Lehmann](https://www.nature.com/articles/s41567-020-0817-9)  
 
 *   Unmet needs and behaviour during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
@@ -271,7 +284,7 @@ weight: 2
 
 ## Other writings:  
 
-*   Misinformation about an outbreak like Covid-19 is important public health data  
+*   Misinformation about an outbreak like COVIDsss-19 is important public health data  
     **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
     _Available at:_ [statnews.com](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/)
 

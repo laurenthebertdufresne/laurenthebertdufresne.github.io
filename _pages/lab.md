@@ -33,4 +33,6 @@ Our research tackles the coevolution of structure and dynamics in complex system
 
 *   Guillaume St-Onge (Ph.D. student in Physics, at Université Laval)
 
+*   Milo Trujillo (Ph.D. student in Complex Systems & Data Science, OCEAN project)
+
 *   Blake Williams (M.Sc. student in Complex Systems & Data Science)
