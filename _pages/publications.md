@@ -23,10 +23,6 @@ weight: 2
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2004.10203)  
 
-*   Containing Future Epidemics with Trustworthy Federated Systems for Ubiquitous Warning and Response  
-    Dick Carrillo et al.  
-    [arXiv.org](https://arxiv.org/)  
-
 *   State-level variation of initial COVID-19 dynamics in the United States: The role of local government interventions  
     Easton R. White and **Laurent Hébert-Dufresne**  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1)  
