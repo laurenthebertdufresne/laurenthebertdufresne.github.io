@@ -21,7 +21,7 @@ weight: 4
 
 # A Sample of Recent Media Coverage
 
-*   [Figaro: L’épidémie s’essouffle, l’espoir](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
+*   [Figaro: L’épidémie s’essouffle, l’espoir revient](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
 
 *   [Mediapart: Des chercheurs revoient le seuil d’immunité collective à la baisse](https://www.mediapart.fr/journal/france/220520/des-chercheurs-revoient-le-seuil-d-immunite-collective-la-baisse)
 
