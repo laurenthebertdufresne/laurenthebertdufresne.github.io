@@ -15,6 +15,10 @@ weight: 2
     **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2002.04004)  
 
+*   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
+    Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2005.11283)  
+
 *   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2003.05924)  
@@ -44,6 +48,7 @@ weight: 2
 *   Immunization Strategies in Networks with Missing Data  
     Samuel F. Rosenblatt, Jeffrey A. Smith, G. Robin Gauthier, and **Laurent Hébert-Dufresne**  
     PLoS Comput. Biol. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2005.07632)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
