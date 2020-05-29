@@ -19,6 +19,10 @@ weight: 2
     Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2005.11283)  
 
+*   Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2  
+    Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, **Laurent Hébert-Dufresne**, and Hao Hu  
+    [arXiv.org](https://arxiv.org/abs/2005.13689)  
+
 *   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2003.05924)  
