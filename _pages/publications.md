@@ -44,7 +44,7 @@ weight: 2
     [arXiv.org](http://arxiv.org/abs/2005.02362)  
 
 *   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries  
-    L. Skrip, et al., **L. Hébert-Dufresne**  
+    L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
 ## Peer-reviewed articles:    
