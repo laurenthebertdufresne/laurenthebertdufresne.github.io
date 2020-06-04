@@ -47,6 +47,10 @@ weight: 2
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
+*   Countering hate on social media: Large scale classification of hate and counter speech  
+    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **L. Hébert-Dufresne**, and Mirta Galesic  
+    [arXiv.org](https://arxiv.org/abs/2006.01974)  
+
 ## Peer-reviewed articles:    
 
 *   Immunization Strategies in Networks with Missing Data  
