@@ -39,6 +39,8 @@ weight: 4
 
 *   [New Zealand Herald: What viral internet memes may tell us about Covid-19's spread](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12315132)
 
+*   [The Vermont Cynic's ProfTalk podcast: OCEAN project](https://vtcynic.com/multimedia/proftalk-ocean-project/)
+
 *   [CBC radio interview: Modelling the coronavirus outbreak (in French)](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
 
 *   [WCAX TV interview: UVM gets $1M from Google for open source research](https://www.wcax.com/content/news/UVM-gets-1-million-from-Google-for-open-source-research-566940401.html)
