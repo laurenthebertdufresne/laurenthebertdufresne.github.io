@@ -21,7 +21,7 @@ weight: 4
 
 # Recent science communication:  
 
-*   Misinformation about an outbreak like COVIDsss-19 is important public health data  
+*   Misinformation about an outbreak like COVID-19 is important public health data  
     **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
     _Available at:_ [statnews.com](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/)
 
