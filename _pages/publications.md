@@ -285,16 +285,6 @@ weight: 2
     Mathematical Modelling of Zombies, Robert Smith? (Ed.), University of Ottawa Press, (2014)  
     [University of Ottawa Press](http://www.press.uottawa.ca/mathematical-modelling-of-zombies) | [amazon.com](http://www.amazon.com/Mathematical-Modelling-Zombies-Robert-Smith/dp/0776622102/ref=sr_1_1?ie=UTF8&qid=1410368412&sr=8-1&keywords=Mathematical+Modelling+of+Zombies)
 
-## Other writings:  
-
-*   Misinformation about an outbreak like COVIDsss-19 is important public health data  
-    **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
-    _Available at:_ [statnews.com](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/)
-
-*   COVID-19: Cancel your next large event, and tell your friends to cancel theirs  
-    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
-    _Available at:_ [medium.org](https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
-
 ## Theses:  
 
 *   On the growth and structure of social systems following preferential attachment  
