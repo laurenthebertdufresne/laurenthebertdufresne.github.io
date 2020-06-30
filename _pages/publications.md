@@ -37,7 +37,7 @@ weight: 2
 
 *   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
     Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
-    [researchsquare](https://www.c/article/rs-38176/v1)  
+    [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
 
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
