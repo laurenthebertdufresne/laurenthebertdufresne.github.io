@@ -35,6 +35,10 @@ weight: 2
     Easton R. White and **Laurent Hébert-Dufresne**  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1)  
 
+*   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
+    Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
+    [researchsquare](https://www.c/article/rs-38176/v1)  
+
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2003.10604)  
@@ -50,6 +54,10 @@ weight: 2
 *   Countering hate on social media: Large scale classification of hate and counter speech  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2006.01974)  
+
+*   Distributed consent and its impact on privacy and observability in social networks  
+    Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2006.16140)  
 
 ## Peer-reviewed articles:    
 
