@@ -61,15 +61,15 @@ weight: 2
 
 ## Peer-reviewed articles:    
 
-*   Immunization Strategies in Networks with Missing Data  
-    Samuel F. Rosenblatt, Jeffrey A. Smith, G. Robin Gauthier, and **Laurent Hébert-Dufresne**  
-    PLoS Comput. Biol. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2005.07632)  
-
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
     BMJ Global Health (in press)   
     [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
+
+*   Immunization strategies in networks with missing data  
+    Samuel F. Rosenblatt, Jeffrey A. Smith, G. Robin Gauthier, and **Laurent Hébert-Dufresne**  
+    PLoS Comput. Biol. 16(7): e1007897 (2020)   
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007897) | [arXiv.org](https://arxiv.org/abs/2005.07632)  
 
 *   Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  

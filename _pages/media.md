@@ -31,9 +31,11 @@ weight: 4
 
 * * *
 
-# A Sample of Recent Media Coverage
+# Sample of recent media stories:
 
-*   [Figaro: L’épidémie s’essouffle, l’espoir revient](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
+*   [Mediapart: Données épidémiologiques: la pénurie cachée](https://www.mediapart.fr/journal/france/110720/donnees-epidemiologiques-la-penurie-cachee)
+
+*   [Figaro: L'épidémie s'essouffle, l'espoir revient](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
 
 *   [Mediapart: Des chercheurs revoient le seuil d’immunité collective à la baisse](https://www.mediapart.fr/journal/france/220520/des-chercheurs-revoient-le-seuil-d-immunite-collective-la-baisse)
 
@@ -53,7 +55,7 @@ weight: 4
 
 *   [The Vermont Cynic's ProfTalk podcast: OCEAN project](https://vtcynic.com/multimedia/proftalk-ocean-project/)
 
-*   [CBC radio interview: Modelling the coronavirus outbreak (in French)](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
+*   [CBC radio interview: Modéliser l'épidémie du coronavirus](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
 
 *   [WCAX TV interview: UVM gets $1M from Google for open source research](https://www.wcax.com/content/news/UVM-gets-1-million-from-Google-for-open-source-research-566940401.html)
 
