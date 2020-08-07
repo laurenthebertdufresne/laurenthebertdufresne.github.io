@@ -51,6 +51,10 @@ weight: 2
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2006.01974)  
 
+*   Emergence of multistrain epidemics with an underlying genotype networke  
+    Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2007.07429)  
+
 *   Network comparison and the within-ensemble graph distance  
     Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels, Guillaume St-Onge, Charles Murphy, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2008.02415)  
