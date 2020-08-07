@@ -23,6 +23,8 @@ Our research tackles the coevolution of structure and dynamics in complex system
 
 *   Alexander Daniels (Ph.D. student in Complex Systems & Data Science)
 
+*   Laurent Hébert-Dufresne (Assistant Professor)
+
 *   Connor Klopfer (M.Sc. student in Complex Systems & Data Science)
 
 *   John Meluso (OCEAN Postdoctoral Fellow)
@@ -36,3 +38,5 @@ Our research tackles the coevolution of structure and dynamics in complex system
 *   Milo Trujillo (Ph.D. student in Complex Systems & Data Science, OCEAN project)
 
 *   Blake Williams (M.Sc. student in Complex Systems & Data Science)
+
+*   Jean-Gabriel Young (Research Assistant Professor)

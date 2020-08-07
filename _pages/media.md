@@ -29,6 +29,10 @@ weight: 4
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     _Available at:_ [medium.org](https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
 
+*   A How-To: reflections on planning virtual science conferences  
+    Juniper Lovato and **Laurent Hébert-Dufresne**  
+    _Available at:_ [medium.org](https://medium.com/@juniper.lovato/a-how-to-reflections-on-planning-virtual-science-conferences-eeb754ed404b)
+
 * * *
 
 # Sample of recent media stories:

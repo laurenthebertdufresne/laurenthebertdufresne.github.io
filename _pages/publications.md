@@ -39,10 +39,6 @@ weight: 2
     Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
     [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
 
-*   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
-    **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
-    [arXiv.org](https://arxiv.org/abs/2003.10604)  
-
 *   The effectiveness of contact tracing in heterogeneous networks  
     Sadamori Kojaku, **Laurent Hébert-Dufresne**, and Yong-Yeol Ahn  
     [arXiv.org](http://arxiv.org/abs/2005.02362)  
@@ -55,11 +51,20 @@ weight: 2
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2006.01974)  
 
+*   Network comparison and the within-ensemble graph distance  
+    Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels, Guillaume St-Onge, Charles Murphy, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2008.02415)  
+
 *   Distributed consent and its impact on privacy and observability in social networks  
     Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2006.16140)  
 
 ## Peer-reviewed articles:    
+
+*   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
+    **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
+    Phys. Rev. Research(in press)   
+    [arXiv.org](https://arxiv.org/abs/2003.10604)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
@@ -286,7 +291,12 @@ weight: 2
     Phys. Rev. E 82, 036115 (2010)  
     [Full text](http://dx.doi.org/10.1103/PhysRevE.82.036115) | [arXiv.org](http://arxiv.org/abs/1005.1397)
 
-## In peer-reviewed books:  
+## In peer-reviewed books and other edited works:  
+
+*   The 2020 Conference on Artificial Life  
+    Josh Bongard, Juniper Lovato, **Laurent Hébert-Dufresne**, Radhakrishna Dasari, and Lisa Soros  
+    ALIFE 2020: The 2020 Conference on Artificial Life, pp. i–782, MIT Press, (2020)  
+    [MIT Press Journals](https://www.mitpressjournals.org/toc/isal/32)
 
 *   The Social Zombie: Modelling undead outbreaks on social networks  
     **Laurent Hébert-Dufresne**, Vincent Marceau, Pierre-André Noël, Antoine Allard and Louis J. Dubé  
