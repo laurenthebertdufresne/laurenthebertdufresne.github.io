@@ -63,7 +63,7 @@ weight: 2
 
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
-    Phys. Rev. Research(in press)   
+    Phys. Rev. Research (in press)   
     [arXiv.org](https://arxiv.org/abs/2003.10604)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
@@ -295,12 +295,12 @@ weight: 2
 
 *   The 2020 Conference on Artificial Life  
     Josh Bongard, Juniper Lovato, **Laurent Hébert-Dufresne**, Radhakrishna Dasari, and Lisa Soros  
-    ALIFE 2020: The 2020 Conference on Artificial Life, pp. i–782, MIT Press, (2020)  
+    ALIFE 2020: The 2020 Conference on Artificial Life, pp. i–782, MIT Press (2020)  
     [MIT Press Journals](https://www.mitpressjournals.org/toc/isal/32)
 
 *   The Social Zombie: Modelling undead outbreaks on social networks  
     **Laurent Hébert-Dufresne**, Vincent Marceau, Pierre-André Noël, Antoine Allard and Louis J. Dubé  
-    Mathematical Modelling of Zombies, Robert Smith? (Ed.), University of Ottawa Press, (2014)  
+    Mathematical Modelling of Zombies, Robert Smith? (Ed.), University of Ottawa Press (2014)  
     [University of Ottawa Press](http://www.press.uottawa.ca/mathematical-modelling-of-zombies) | [amazon.com](http://www.amazon.com/Mathematical-Modelling-Zombies-Robert-Smith/dp/0776622102/ref=sr_1_1?ie=UTF8&qid=1410368412&sr=8-1&keywords=Mathematical+Modelling+of+Zombies)
 
 ## Theses:  
