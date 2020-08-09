@@ -9,11 +9,13 @@ weight: 3
 
 <img src="/img/networks.png?height=137&amp;width=320" border="0" width="100%">
 
-Our research deals with the interaction and coevolution of structure and dynamics. Our focus is on network theory, but also general nonlinear dynamics in structured systems. Examples include social networks interacting with the spread of diseases and ideas, the shape of forests coevolving with forest fires, and the structure of metabolic networks influencing interactions in microbial communities.
+Our research tackles the coevolution of structure and dynamics in complex systems. Recent examples include theoretical work on interacting contagions, network comparison, spread of ideas and creativity, as well as applied projects on infectious diseases, how the shape of forests coevolves with forest fires, and how the structure of metabolic networks drive the organization of microbial communities.
 
 * * *
 
 # Current lab members
+
+*   Andrea Allen (M.Sc. student in Complex Systems & Data Science)
 
 *   Mariah Boudreau (Ph.D. student in Mathematics, QuEST trainee)
 
@@ -21,10 +23,20 @@ Our research deals with the interaction and coevolution of structure and dynamic
 
 *   Alexander Daniels (Ph.D. student in Complex Systems & Data Science)
 
+*   Laurent Hébert-Dufresne (Assistant Professor)
+
 *   Connor Klopfer (M.Sc. student in Complex Systems & Data Science)
+
+*   John Meluso (OCEAN Postdoctoral Fellow)
+
+*   Nicholas Roberts (Ph.D. student in Complex Systems & Data Science)
 
 *   Samuel Rosenblatt (Ph.D. student in Computer Science, QuEST trainee)
 
 *   Guillaume St-Onge (Ph.D. student in Physics, at Université Laval)
 
+*   Milo Trujillo (Ph.D. student in Complex Systems & Data Science, OCEAN project)
+
 *   Blake Williams (M.Sc. student in Complex Systems & Data Science)
+
+*   Jean-Gabriel Young (Research Assistant Professor)

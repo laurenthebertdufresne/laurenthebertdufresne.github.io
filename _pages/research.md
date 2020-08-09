@@ -35,13 +35,15 @@ The societal aim of epidemiology is to reduce disease burden by better understan
 
 [Antoine Allard, Samuel V. Scarpino, Benjamin M. Althouse & Laurent Hébert-Dufresne, PNAS 114, 34 (2017)](http://www.pnas.org/content/early/2017/08/07/1703073114.full)
 
+[Laurent Hébert-Dufresne, Samuel V. Scarpino & Jean-Gabriel Young, Nature Physics 16, 426-431 (2020)](https://www.nature.com/articles/s41567-020-0791-2)
+
 * * *
 
 ## Complexity and criticality
 
 <img src="/img/system.png?height=61&amp;width=160" border="0" width="50%">
 
-Myriads of real complex systems, from works of art to biological systems, share common, universal, features of organization. Many of the models proposed to explain the emergence of such properties (e.g. self-organized criticality and other critical processes) also share common features or rules. I am interested in finding these "hidden" laws of organization in the hope of gaining further insights on the necessary ingredients of complexity.
+Myriads of real complex systems, from works of art to biological systems, share common features of organization. Many of the models proposed to explain the emergence of such properties (e.g. self-organized criticality and other critical processes) also share common features or rules. I am interested in finding these "hidden" laws of organization in the hope of gaining further insights on the necessary ingredients of complexity.
 
 ### Selected publication:
 
