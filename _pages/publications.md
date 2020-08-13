@@ -16,7 +16,7 @@ weight: 2
     {{ publications_include | markdownify }}
 </details>
 <details>
-    <summary>In peer-reviewed books and other edited works</summary>
+    <summary>Peer-reviewed books and other edited works</summary>
     {% capture publications_include %}{% include in-peer-reviewed.md %}{% endcapture %}
     {{ publications_include | markdownify }}
 </details>
