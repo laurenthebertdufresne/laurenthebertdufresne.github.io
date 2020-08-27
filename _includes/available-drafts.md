@@ -26,6 +26,10 @@
     Laura Skrip, Mosoka P Fallah, Jamie Bedson, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.11.20172031v1)  
 
+*   The unintended consequences of inconsistent pandemic control policies  
+    Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
+
 *   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
     Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
     [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  

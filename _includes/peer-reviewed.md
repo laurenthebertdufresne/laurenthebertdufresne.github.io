@@ -1,12 +1,12 @@
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
-    Phys. Rev. Research (in press)   
-    [arXiv.org](https://arxiv.org/abs/2003.10604)  
+    Phys. Rev. Research 2, 033306 (2020)   
+    [Full text](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033306) | [arXiv.org](https://arxiv.org/abs/2003.10604)  
 
 *   Community Engagement during outbreak response: standards, approaches, and lessons from the Ebola outbreak in Sierra Leone  
     J. Bedson, M.F. Jalloh, D. Pedi, et al., L.A. Skrip, B.M. Althouse, and **L. Hébert-Dufresne**  
-    BMJ Global Health (in press)   
-    [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
+    BMJ Global Health 5:e002145 (2020)   
+    [Full text](https://gh.bmj.com/content/5/8/e002145) | [bioRxiv.org](https://www.biorxiv.org/content/10.1101/661959v1) | [Data](https://figshare.com/articles/Social_Mobilization_Action_Consortium_Community_Engagement_data_from_the_2014-2016_Sierra_Leone_Ebola_outbreak/8247002)  
 
 *   Immunization strategies in networks with missing data  
     Samuel F. Rosenblatt, Jeffrey A. Smith, G. Robin Gauthier, and **Laurent Hébert-Dufresne**  

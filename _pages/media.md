@@ -37,6 +37,8 @@ weight: 4
 
 # Sample of recent media stories:
 
+*   [Le Monde: Covid-19: comment certains malades deviennent des supercontaminateurs](https://www.youtube.com/watch?v=_2MT1r-Cmsw)
+
 *   [Mediapart: Données épidémiologiques: la pénurie cachée](https://www.mediapart.fr/journal/france/110720/donnees-epidemiologiques-la-penurie-cachee)
 
 *   [Figaro: L'épidémie s'essouffle, l'espoir revient](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
