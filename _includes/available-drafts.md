@@ -46,6 +46,10 @@
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2006.01974)  
 
+*   Impact and dynamics of hate and counter speech online  
+    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
+    [arXiv.org](https://arxiv.org/abs/2009.08392)  
+
 *   Emergence of multistrain epidemics with an underlying genotype networke  
     Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2007.07429)  
