@@ -1,3 +1,8 @@
+*   Dossier: Bifurcation  
+    Co-edited by **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
+    Magazine de l'ACFAS (2020)  
+    [ACFAS](https://www.acfas.ca/publications/magazine/dossier/bifurcation)
+
 *   The 2020 Conference on Artificial Life  
     Josh Bongard, Juniper Lovato, **Laurent Hébert-Dufresne**, Radhakrishna Dasari, and Lisa Soros  
     ALIFE 2020: The 2020 Conference on Artificial Life, pp. i–782, MIT Press (2020)  

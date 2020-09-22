@@ -21,6 +21,22 @@ weight: 4
 
 # Recent science communication:  
 
+*   La modélisation mathématique pour cartographier le complexe et l’inconnu  
+    Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/modelisation-mathematique-cartographier-complexe-inconnu)
+
+*   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses  
+    Stefani Crabtree and **Laurent Hébert-Dufresne**  
+    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/face-aux-changements-environnementaux-transdisciplinarite-cas)
+
+*   Dossier bifurcation : conversation éditoriale  
+    **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
+    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/dossier-bifurcation-conversation-editoriale)
+
+*   A How-To: reflections on planning virtual science conferences  
+    Juniper Lovato and **Laurent Hébert-Dufresne**  
+    _Available at:_ [medium.org](https://medium.com/@juniper.lovato/a-how-to-reflections-on-planning-virtual-science-conferences-eeb754ed404b)
+
 *   Misinformation about an outbreak like COVID-19 is important public health data  
     **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
     _Available at:_ [statnews.com](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/)
@@ -28,10 +44,6 @@ weight: 4
 *   COVID-19: Cancel your next large event, and tell your friends to cancel theirs  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     _Available at:_ [medium.org](https://medium.com/@antoine.allard/covid-19-cancel-your-next-large-event-and-tell-your-friends-to-cancel-theirs-7c06e688474e)
-
-*   A How-To: reflections on planning virtual science conferences  
-    Juniper Lovato and **Laurent Hébert-Dufresne**  
-    _Available at:_ [medium.org](https://medium.com/@juniper.lovato/a-how-to-reflections-on-planning-virtual-science-conferences-eeb754ed404b)
 
 * * *
 
