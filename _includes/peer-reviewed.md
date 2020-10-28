@@ -1,3 +1,33 @@
+*   Countering hate on social media: Large scale classification of hate and counter speech  
+    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
+    ACL Workshop on Online Abuse and Harms (in press)   
+    [arXiv.org](https://arxiv.org/abs/2006.01974)  
+
+*   Superspreading events in the transmission dynamics of SARS-CoV-2: opportunities for interventions and control  
+    Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, **Laurent Hébert-Dufresne**, and Hao Hu  
+    PLoS Biology (in press)   
+    [arXiv.org](https://arxiv.org/abs/2005.13689)  
+
+*   Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting  
+    **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
+    J. R. Soc. Interface (in press)   
+    [arXiv.org](https://arxiv.org/abs/2002.04004)  
+
+*   Network comparison and the within-ensemble graph distance  
+    Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels, Guillaume St-Onge, Charles Murphy, and **Laurent Hébert-Dufresne**  
+    Proc. R. Soc. Lond. A (in press)   
+    [arXiv.org](https://arxiv.org/abs/2008.02415)  
+
+*   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
+    Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
+    BMC Public Health (in press)   
+    [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
+
+*   State-level variation of initial COVID-19 dynamics in the United States  
+    Easton R. White and **Laurent Hébert-Dufresne**  
+    PLoS ONE 15(10): e0240648 (2020)   
+    [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240648) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1)  
+
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
     Phys. Rev. Research 2, 033306 (2020)   

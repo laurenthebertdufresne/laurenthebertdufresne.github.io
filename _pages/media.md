@@ -49,6 +49,8 @@ weight: 4
 
 # Sample of recent media stories:
 
+*   [WIRED: The Science That Spans #MeToo, Memes, and Covid-19](https://www.wired.com/story/the-science-that-spans-metoo-memes-and-covid-19/)
+
 *   [Le Monde: Covid-19: comment certains malades deviennent des supercontaminateurs](https://www.youtube.com/watch?v=_2MT1r-Cmsw)
 
 *   [Mediapart: Données épidémiologiques: la pénurie cachée](https://www.mediapart.fr/journal/france/110720/donnees-epidemiologiques-la-penurie-cachee)
