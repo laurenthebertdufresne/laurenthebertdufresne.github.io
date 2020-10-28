@@ -4,7 +4,7 @@
     [arXiv.org](https://arxiv.org/abs/2006.01974)  
 
 *   Superspreading events in the transmission dynamics of SARS-CoV-2: opportunities for interventions and control  
-    Benjamin M. Althouse, Edward A. Wenger, Joel C. Miller, Samuel V. Scarpino, Antoine Allard, **Laurent Hébert-Dufresne**, and Hao Hu  
+    B.M. Althouse, E.A. Wenger, J.C. Miller, S.V. Scarpino, A. Allard, **L. Hébert-Dufresne**, and H. Hu  
     PLoS Biology (in press)   
     [arXiv.org](https://arxiv.org/abs/2005.13689)  
 
@@ -14,7 +14,7 @@
     [arXiv.org](https://arxiv.org/abs/2002.04004)  
 
 *   Network comparison and the within-ensemble graph distance  
-    Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels, Guillaume St-Onge, Charles Murphy, and **Laurent Hébert-Dufresne**  
+    H. Hartle, B. Klein, S. McCabe, A. Daniels, G. St-Onge, C. Murphy, and **L. Hébert-Dufresne**  
     Proc. R. Soc. Lond. A (in press)   
     [arXiv.org](https://arxiv.org/abs/2008.02415)  
 
