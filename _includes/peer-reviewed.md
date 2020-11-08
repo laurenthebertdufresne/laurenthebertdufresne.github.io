@@ -8,20 +8,20 @@
     PLoS Biology (in press)   
     [arXiv.org](https://arxiv.org/abs/2005.13689)  
 
-*   Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting  
-    **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
-    J. R. Soc. Interface (in press)   
-    [arXiv.org](https://arxiv.org/abs/2002.04004)  
-
-*   Network comparison and the within-ensemble graph distance  
-    H. Hartle, B. Klein, S. McCabe, A. Daniels, G. St-Onge, C. Murphy, and **L. Hébert-Dufresne**  
-    Proc. R. Soc. Lond. A (in press)   
-    [arXiv.org](https://arxiv.org/abs/2008.02415)  
-
 *   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
     Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
     BMC Public Health (in press)   
     [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
+
+*   Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting  
+    **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
+    J. R. Soc. Interface 17, 172   
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0393) | [arXiv.org](https://arxiv.org/abs/2002.04004)  
+
+*   Network comparison and the within-ensemble graph distance  
+    H. Hartle, B. Klein, S. McCabe, A. Daniels, G. St-Onge, C. Murphy, and **L. Hébert-Dufresne**  
+    Proc. R. Soc. Lond. A 476, 2243   
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0744) | [arXiv.org](https://arxiv.org/abs/2008.02415)  
 
 *   State-level variation of initial COVID-19 dynamics in the United States  
     Easton R. White and **Laurent Hébert-Dufresne**  

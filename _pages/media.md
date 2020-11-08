@@ -49,6 +49,8 @@ weight: 4
 
 # Sample of recent media stories:
 
+*   [la Repubblica: Coronavirus, ecco perché non sappiamo prevedere i contagi](https://www.repubblica.it/salute/2020/11/05/news/coronavirus_ecco_perche_r0_non_racconta_tutta_la_storia_-273087946/)
+
 *   [WIRED: The Science That Spans #MeToo, Memes, and Covid-19](https://www.wired.com/story/the-science-that-spans-metoo-memes-and-covid-19/)
 
 *   [Le Monde: Covid-19: comment certains malades deviennent des supercontaminateurs](https://www.youtube.com/watch?v=_2MT1r-Cmsw)
