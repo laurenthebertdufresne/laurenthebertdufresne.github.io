@@ -1,26 +1,26 @@
 *   Countering hate on social media: Large scale classification of hate and counter speech  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
-    ACL Workshop on Online Abuse and Harms (in press)   
-    [arXiv.org](https://arxiv.org/abs/2006.01974)  
+    ACL Workshop on Online Abuse and Harms 102-112 (2020)   
+    [Full text](https://www.aclweb.org/anthology/2020.alw-1.13/) | [arXiv.org](https://arxiv.org/abs/2006.01974)  
 
 *   Superspreading events in the transmission dynamics of SARS-CoV-2: opportunities for interventions and control  
     B.M. Althouse, E.A. Wenger, J.C. Miller, S.V. Scarpino, A. Allard, **L. Hébert-Dufresne**, and H. Hu  
-    PLoS Biology (in press)   
-    [arXiv.org](https://arxiv.org/abs/2005.13689)  
+    PLoS Biology 18(11): e3000897 (2020)   
+    [Full text](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000897) | [arXiv.org](https://arxiv.org/abs/2005.13689)  
 
 *   Modeling the Impact of School Reopening on SARS-CoV-2 Transmission  
     Benjamin Lee, John P. Hanley, Sarah Nowak, Jason H.T. Bates, and **Laurent Hébert-Dufresne**  
-    BMC Public Health (in press)   
-    [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
+    BMC Public Health 20, 1713 (2020)   
+    [Full text](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09799-8) | [researchsquare.com](https://www.researchsquare.com/article/rs-38176/v1)  
 
 *   Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting  
     **Laurent Hébert-Dufresne**, Benjamin M. Althouse, Samuel V. Scarpino, and Antoine Allard  
-    J. R. Soc. Interface 17, 172   
+    J. R. Soc. Interface 17, 172 (2020)   
     [Full text](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0393) | [arXiv.org](https://arxiv.org/abs/2002.04004)  
 
 *   Network comparison and the within-ensemble graph distance  
     H. Hartle, B. Klein, S. McCabe, A. Daniels, G. St-Onge, C. Murphy, and **L. Hébert-Dufresne**  
-    Proc. R. Soc. Lond. A 476, 2243   
+    Proc. R. Soc. Lond. A 476, 2243 (2020)   
     [Full text](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0744) | [arXiv.org](https://arxiv.org/abs/2008.02415)  
 
 *   State-level variation of initial COVID-19 dynamics in the United States  

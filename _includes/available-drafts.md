@@ -23,7 +23,7 @@
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
 
 *   The effectiveness of contact tracing in heterogeneous networks  
-    Sadamori Kojaku, **Laurent Hébert-Dufresne**, and Yong-Yeol Ahn  
+    Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
     [arXiv.org](http://arxiv.org/abs/2005.02362)  
 
 *   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 40 countries  
