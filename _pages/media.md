@@ -49,7 +49,7 @@ weight: 4
 
 # Sample of recent media stories:
 
-*   [USA Today: Officials worry about virus spread at restaurants, but failed contact tracing leaves diners in the dark](https://eu.usatoday.com/story/news/health/2020/11/26/officials-worry-covid-19-restaurants-but-need-better-data/6411671002/)
+*   [USA Today: Officials worry about virus spread at restaurants...](https://eu.usatoday.com/story/news/health/2020/11/26/officials-worry-covid-19-restaurants-but-need-better-data/6411671002/)
 
 *   [la Repubblica: Coronavirus, ecco perché non sappiamo prevedere i contagi](https://www.repubblica.it/salute/2020/11/05/news/coronavirus_ecco_perche_r0_non_racconta_tutta_la_storia_-273087946/)
 
