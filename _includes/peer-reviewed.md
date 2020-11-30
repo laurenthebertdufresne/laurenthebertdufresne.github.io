@@ -26,7 +26,7 @@
 *   State-level variation of initial COVID-19 dynamics in the United States  
     Easton R. White and **Laurent Hébert-Dufresne**  
     PLoS ONE 15(10): e0240648 (2020)   
-    [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240648) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.14.20065318v1)  
+    [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240648)  
 
 *   Spread of infectious disease and social awareness as parasitic contagions on clustered networks  
     **Laurent Hébert-Dufresne**, Dina Mistry, and Benjamin M. Althouse  
@@ -212,11 +212,6 @@
     Benjamin M. Althouse, Oscar Patterson-Lomba, Georg M. Goerg and **Laurent Hébert-Dufresne**  
     PLOS Comput Biol 9(2): e1002912 (2013)  
     [Full text](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002912)
-
-*   Escaping the poverty trap: modeling the interplay between economic growth and the ecology of infectious disease  
-    Georg M. Goerg, Oscar Patterson-Lomba, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
-    SFI's Complex System Summer School paper (2012)  
-    [arXiv.org](http://arxiv.org/abs/1311.4079)
 
 *   Bond percolation on a class of correlated and clustered random graphs  
     Antoine Allard, **Laurent Hébert-Dufresne**, Pierre-André Noël, Vincent Marceau and Louis J. Dubé  
