@@ -34,9 +34,9 @@
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2009.08392)  
 
-*   Emergence of multistrain epidemics with an underlying genotype networke  
-    Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2007.07429)  
+*   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
+    John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
+    [pdf](https://bit.ly/meluso-et-al-mcc-ic)  
 
 *   Distributed consent and its impact on privacy and observability in social networks  
     Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  

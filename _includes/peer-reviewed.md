@@ -1,3 +1,12 @@
+*   Open-source ecosystems need equitable credit across contributions  
+    A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **Laurent Hébert-Dufresne**  
+    Nature Computational Science (in press)   
+
+*   Emergence of multistrain epidemics with an underlying genotype network  
+    Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
+    PLoS Comput. Biol. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2007.07429)  
+
 *   Countering hate on social media: Large scale classification of hate and counter speech  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     ACL Workshop on Online Abuse and Harms 102-112 (2020)   
