@@ -1,11 +1,27 @@
-*   Open-source ecosystems need equitable credit across contributions  
-    A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **Laurent Hébert-Dufresne**  
-    Nature Computational Science (in press)   
+*   The effectiveness of contact tracing in heterogeneous networks  
+    Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
+    Nature Physics (in press)   
+    [arXiv.org](http://arxiv.org/abs/2005.02362)  
+
+*   Social confinement and mesoscopic localization of epidemics on networks  
+    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    Phys. Rev. Lett. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2003.05924)  
+
+*   Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks  
+    Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
+    Phys. Rev. E (in press)   
+    [arXiv.org](https://arxiv.org/abs/2004.10203)  
 
 *   Emergence of multistrain epidemics with an underlying genotype network  
     Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
     PLoS Comput. Biol. (in press)   
     [arXiv.org](https://arxiv.org/abs/2007.07429)  
+
+*   Open-source ecosystems need equitable credit across contributions  
+    A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **Laurent Hébert-Dufresne**  
+    Nature Computational Science 1, 2 (2021)   
+    [Full text](https://www.nature.com/articles/s43588-020-00011-w)  
 
 *   Countering hate on social media: Large scale classification of hate and counter speech  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
