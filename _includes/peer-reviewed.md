@@ -1,3 +1,8 @@
+*   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 49 countries  
+    L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
+    Am. J. Trop. Med. Hyg. (in press)   
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
+
 *   The effectiveness of contact tracing in heterogeneous networks  
     Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
     Nature Physics (in press)   
