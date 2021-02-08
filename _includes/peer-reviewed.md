@@ -3,7 +3,7 @@
     Am. J. Trop. Med. Hyg. (in press)   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
-*   The effectiveness of contact tracing in heterogeneous networks  
+*   The effectiveness of backward contact tracing in networks  
     Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
     Nature Physics (in press)   
     [arXiv.org](http://arxiv.org/abs/2005.02362)  
