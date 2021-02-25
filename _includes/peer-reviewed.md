@@ -3,11 +3,6 @@
     Am. J. Trop. Med. Hyg. (in press)   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
-*   The effectiveness of backward contact tracing in networks  
-    Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
-    Nature Physics (in press)   
-    [arXiv.org](http://arxiv.org/abs/2005.02362)  
-
 *   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
     Phys. Rev. Lett. (in press)   
@@ -18,10 +13,15 @@
     Phys. Rev. E (in press)   
     [arXiv.org](https://arxiv.org/abs/2004.10203)  
 
-*   Emergence of multistrain epidemics with an underlying genotype network  
+*   The effectiveness of backward contact tracing in networks  
+    Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
+    Nature Physics   
+    [Full text](https://www.nature.com/articles/s41567-021-01187-2) | [arXiv.org](http://arxiv.org/abs/2005.02362) | [News and Views](https://www.nature.com/articles/s41567-021-01188-1)  
+
+*   Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network  
     Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
-    PLoS Comput. Biol. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2007.07429)  
+    PLoS Comput Biol 17(2): e1008606.   
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008606) | [arXiv.org](https://arxiv.org/abs/2007.07429)  
 
 *   Open-source ecosystems need equitable credit across contributions  
     A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **Laurent Hébert-Dufresne**  
@@ -76,7 +76,7 @@
 *   Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement  
     **Laurent Hébert-Dufresne**, Samuel V. Scarpino and Jean-Gabriel Young  
     Nature Physics 16, 426–431 (2020)   
-    [Full text](https://www.nature.com/articles/s41567-020-0791-2) | [arXiv.org](https://arxiv.org/abs/1906.01147) | ['News and Views' by Sune Lehmann](https://www.nature.com/articles/s41567-020-0817-9)  
+    [Full text](https://www.nature.com/articles/s41567-020-0791-2) | [arXiv.org](https://arxiv.org/abs/1906.01147) | [News and Views](https://www.nature.com/articles/s41567-020-0817-9)  
 
 *   Unmet needs and behaviour during the Ebola response in Sierra Leone: a retrospective, mixed-methods analysis of community feedback from the Social Mobilization Action Consortium  
     L.A. Skrip, J. Bedson, S. Abramowitz, et al., **L. Hébert-Dufresne**, and B.M. Althouse  
@@ -171,7 +171,7 @@
 *   The effect of a prudent adaptive behaviour on disease transmission  
     Samuel V. Scarpino, Antoine Allard and **Laurent Hébert-Dufresne**  
     Nature Physics 12, 1042-1046 (2016)  
-    [Full text](http://www.nature.com/nphys/journal/v12/n11/full/nphys3832.html) | [arXiv.org](http://arxiv.org/abs/1509.00801) | ['News and Views' by Thilo Gross](http://www.nature.com/nphys/journal/v12/n11/full/nphys3939.html?WT.ec_id=NPHYS-201611)
+    [Full text](http://www.nature.com/nphys/journal/v12/n11/full/nphys3832.html) | [arXiv.org](http://arxiv.org/abs/1509.00801) | [News and Views](http://www.nature.com/nphys/journal/v12/n11/full/nphys3939.html?WT.ec_id=NPHYS-201611)
 
 *   On the constrained growth of complex scale-independent systems  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young and Louis J. Dubé  

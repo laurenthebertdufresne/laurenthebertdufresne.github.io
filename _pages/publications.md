@@ -11,7 +11,7 @@ weight: 2
     {{ publications_include | markdownify }}
 </details>
 <details>
-    <summary>Journal publications</summary>
+    <summary>Published papers</summary>
     {% capture publications_include %}{% include peer-reviewed.md %}{% endcapture %}
     {{ publications_include | markdownify }}
 </details>
