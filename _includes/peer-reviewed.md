@@ -5,22 +5,22 @@
 
 *   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
-    Phys. Rev. Lett. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2003.05924)  
+    Phys. Rev. Lett. 126, 098301 (2021)   
+    [Full text](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098301) | [arXiv.org](https://arxiv.org/abs/2003.05924)  
 
 *   Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
-    Phys. Rev. E (in press)   
-    [arXiv.org](https://arxiv.org/abs/2004.10203)  
+    Phys. Rev. E 103, 032301 (2021)   
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.032301) | [arXiv.org](https://arxiv.org/abs/2004.10203)  
 
 *   The effectiveness of backward contact tracing in networks  
     Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
-    Nature Physics   
+    Nature Physics (2021)   
     [Full text](https://www.nature.com/articles/s41567-021-01187-2) | [arXiv.org](http://arxiv.org/abs/2005.02362) | [News and Views](https://www.nature.com/articles/s41567-021-01188-1)  
 
 *   Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network  
     Blake J. M. Williams, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
-    PLoS Comput Biol 17(2): e1008606.   
+    PLoS Comput Biol 17(2): e1008606 (2021)   
     [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008606) | [arXiv.org](https://arxiv.org/abs/2007.07429)  
 
 *   Open-source ecosystems need equitable credit across contributions  
