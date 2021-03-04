@@ -24,7 +24,7 @@
     [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008606) | [arXiv.org](https://arxiv.org/abs/2007.07429)  
 
 *   Open-source ecosystems need equitable credit across contributions  
-    A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **Laurent Hébert-Dufresne**  
+    A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **L. Hébert-Dufresne**  
     Nature Computational Science 1, 2 (2021)   
     [Full text](https://www.nature.com/articles/s43588-020-00011-w)  
 
