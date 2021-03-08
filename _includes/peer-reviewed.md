@@ -1,7 +1,7 @@
-*   Seeding COVID-19 across sub-Saharan Africa: an analysis of reported importation events across 49 countries  
+*   Seeding COVID-19 across Sub-Saharan Africa: An Analysis of Reported Importation Events across 49 Countries  
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
-    Am. J. Trop. Med. Hyg. (in press)   
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
+    Am. J. Trop. Med. Hyg. (2021)   
+    [Full text](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1502/article-10.4269-ajtmh.20-1502.xml) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
 *   Social confinement and mesoscopic localization of epidemics on networks  
     Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
