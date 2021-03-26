@@ -22,6 +22,10 @@
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
     [pdf](https://bit.ly/meluso-et-al-mcc-ic)  
 
+*   A Review & Framework for Modeling Complex Engineered System Development Processes  
+    John Meluso, Jesse Austin-Breneman, James P. Bagrow, and **Laurent Hébert-Dufresne**   
+    [arXiv.org](https://arxiv.org/abs/2103.12820)  
+
 *   Impact and dynamics of hate and counter speech online  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
     [arXiv.org](https://arxiv.org/abs/2009.08392)  

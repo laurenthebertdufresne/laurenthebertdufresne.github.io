@@ -1,3 +1,8 @@
+*   Which contributions count? Analysis of attribution in open source  
+    J.-G. Young, A. Casari, K. McLaughlin, M.Z. Trujillo, **L. Hébert-Dufresne** and J.P. Bagrow  
+    2021 Mining Software Repositories Conference (in press)   
+    [arXiv.org](https://arxiv.org/abs/2103.11007)  
+
 *   Seeding COVID-19 across Sub-Saharan Africa: An Analysis of Reported Importation Events across 49 Countries  
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
     Am. J. Trop. Med. Hyg. (2021)   
