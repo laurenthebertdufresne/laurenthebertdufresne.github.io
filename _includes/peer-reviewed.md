@@ -1,3 +1,11 @@
+*   A review and agenda for integrated disease models including social and behavioral factors  
+    J. Bedson, L. A. Skrip, et al., **L. Hébert-Dufresne**, and B. M. Althouse  
+    Nature Human Behaviour (in press)   
+
+*   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
+    P. Burnham, S. Alger, B. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
+    J. Appl. Ecol. (in press)   
+
 *   Which contributions count? Analysis of attribution in open source  
     J.-G. Young, A. Casari, K. McLaughlin, M.Z. Trujillo, **L. Hébert-Dufresne** and J.P. Bagrow  
     2021 Mining Software Repositories Conference (in press)   
@@ -32,6 +40,11 @@
     A. Casari, K. McLaughlin, M.Z. Trujillo, J.-G. Young, J.P. Bagrow, and **L. Hébert-Dufresne**  
     Nature Computational Science 1, 2 (2021)   
     [Full text](https://www.nature.com/articles/s43588-020-00011-w)  
+
+*   Containing future epidemics with trustworthy federated systems for ubiquitous warning and response  
+    D. Carrillo, L. D. Nguyen, P. H. J. Nardelli, E. Pournaras, P. Morita, D. Z. Rodríguez, M. Dzaferagic, H. Siljak, A Jung, **L. Hébert-Dufresne**, I. Macaluso, M. Ullah, G. Fraidenraich, and P. Popovski  
+    Front. Comms. Net. 2:621264 (2021)   
+    [Full text](https://www.frontiersin.org/articles/10.3389/frcmn.2021.621264/full)  
 
 *   Countering hate on social media: Large scale classification of hate and counter speech  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
