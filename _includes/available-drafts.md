@@ -18,10 +18,6 @@
     Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
     [arXiv.org](https://arxiv.org/abs/2101.07229)  
 
-*   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
-    John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
-    [pdf](https://bit.ly/meluso-et-al-mcc-ic)  
-
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James P. Bagrow, and **Laurent Hébert-Dufresne**   
     [arXiv.org](https://arxiv.org/abs/2103.12820)  

@@ -1,3 +1,16 @@
+*   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
+    E. Aguilar, N.J. Roberts, I. Uluturk, P. Kaminski, J.W. Barlow, A.G. Zori, **L. Hébert-Dufresne**, and B.D. Zusman  
+    Proc. Natl. Acad. Sci. U.S.A. (in press)   
+
+*   When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban  
+    M.Z. Trujillo, S.F. Rosenblatt, G. de Anda Jáuregui, E. Moog, **L. Hébert-Dufresne**, and A.M. Roth  
+    ACL Workshop on Online Abuse and Harms (in press)   
+
+*   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
+    John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
+    Research on Social Issues in Management (in press)   
+    [pdf](https://bit.ly/meluso-et-al-mcc-ic)  
+
 *   A review and agenda for integrated disease models including social and behavioral factors  
     J. Bedson, L. A. Skrip, et al., **L. Hébert-Dufresne**, and B. M. Althouse  
     Nature Human Behaviour (in press)   
@@ -13,7 +26,7 @@
 
 *   Seeding COVID-19 across Sub-Saharan Africa: An Analysis of Reported Importation Events across 49 Countries  
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
-    Am. J. Trop. Med. Hyg. (2021)   
+    Am. J. Trop. Med. Hyg. 104(5): 1694-1702 (2021)   
     [Full text](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1502/article-10.4269-ajtmh.20-1502.xml) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.04.01.20050203v1)  
 
 *   Social confinement and mesoscopic localization of epidemics on networks  
@@ -28,7 +41,7 @@
 
 *   The effectiveness of backward contact tracing in networks  
     Sadamori Kojaku, **Laurent Hébert-Dufresne**, Enys Mones, Sune Lehmann, and Yong-Yeol Ahn  
-    Nature Physics (2021)   
+    Nature Physics 17, 652-658 (2021)   
     [Full text](https://www.nature.com/articles/s41567-021-01187-2) | [arXiv.org](http://arxiv.org/abs/2005.02362) | [News and Views](https://www.nature.com/articles/s41567-021-01188-1)  
 
 *   Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network  
