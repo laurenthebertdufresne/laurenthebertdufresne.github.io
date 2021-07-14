@@ -29,3 +29,15 @@
 *   Distributed consent and its impact on privacy and observability in social networks  
     Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2006.16140)  
+
+*   The penumbra of open source: projects outside of centralized platforms are longer maintained, more academic and more collaborative  
+    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James P. Bagrow  
+    [arXiv.org](https://arxiv.org/abs/2106.15611)  
+
+*   Predicting the diversity of early epidemic spread on networks  
+    Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Robers, Antoine Allard and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2107.03334)  
+
+*   Influential groups for seeding and sustaining hypergraph contagions  
+    Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2105.07092)  
