@@ -1,6 +1,7 @@
 *   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
     E. Aguilar, N.J. Roberts, I. Uluturk, P. Kaminski, J.W. Barlow, A.G. Zori, **L. Hébert-Dufresne**, and B.D. Zusman  
-    Proc. Natl. Acad. Sci. U.S.A. (in press)   
+    Proc. Natl. Acad. Sci. U.S.A. 118:34 (2021)    
+    [Full text](https://www.pnas.org/content/118/34/e2105337118)  
 
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
@@ -9,22 +10,23 @@
 
 *   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
     P. Burnham, S. Alger, B. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
-    J. Appl. Ecol. (in press)   
+    J. Appl. Ecol. (2021)   
+    [Full text](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13962)  
 
 *   When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban  
     M.Z. Trujillo, S.F. Rosenblatt, G. de Anda Jáuregui, E. Moog, **L. Hébert-Dufresne**, and A.M. Roth  
     ACL Workshop on Online Abuse and Harms (2021)   
-    [arXiv.org](https://arxiv.org/abs/2106.16207)  
+    [Full text](https://ieeexplore.ieee.org/document/9463079) |  [arXiv.org](https://arxiv.org/abs/2106.16207)  
 
 *   A review and agenda for integrated disease models including social and behavioral factors  
     J. Bedson, L. A. Skrip, et al., **L. Hébert-Dufresne**, and B. M. Althouse  
-    Nature Human Behaviour (2021)   
+    Nature Human Behaviour 5, 834-846 (2021)   
     [Full text](https://www.nature.com/articles/s41562-021-01136-2)  
 
 *   Which contributions count? Analysis of attribution in open source  
     J.-G. Young, A. Casari, K. McLaughlin, M.Z. Trujillo, **L. Hébert-Dufresne** and J.P. Bagrow  
     2021 Mining Software Repositories Conference (2021)   
-    [Full text](https://ieeexplore.ieee.org/document/9463079) | [arXiv.org](https://arxiv.org/abs/2103.11007)  
+    [Full text](https://aclanthology.org/2021.woah-1.18/) | [arXiv.org](https://arxiv.org/abs/2103.11007)  
 
 *   Seeding COVID-19 across Sub-Saharan Africa: An Analysis of Reported Importation Events across 49 Countries  
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  
