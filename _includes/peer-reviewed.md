@@ -1,3 +1,8 @@
+*   Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks  
+    Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
+    Phys. Rev. Lett. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2101.07229)  
+
 *   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
     E. Aguilar, N.J. Roberts, I. Uluturk, P. Kaminski, J.W. Barlow, A.G. Zori, **L. Hébert-Dufresne**, and B.D. Zusman  
     Proc. Natl. Acad. Sci. U.S.A. 118:34 (2021)    

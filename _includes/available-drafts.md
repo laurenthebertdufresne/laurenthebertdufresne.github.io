@@ -14,10 +14,6 @@
     Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
 
-*   Bursty exposure on higher-order networks leads to nonlinear infection kernels  
-    Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
-    [arXiv.org](https://arxiv.org/abs/2101.07229)  
-
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James P. Bagrow, and **Laurent Hébert-Dufresne**   
     [arXiv.org](https://arxiv.org/abs/2103.12820)  
