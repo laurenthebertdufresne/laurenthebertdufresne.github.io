@@ -34,6 +34,10 @@
     Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Robers, Antoine Allard and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2107.03334)  
 
-*   Influential groups for seeding and sustaining hypergraph contagions  
-    Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2105.07092)  
+*   Source-sink cooperation dynamics constrain institutional evolution in a group-structured society  
+    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
+    [arXiv.org](https://arxiv.org/abs/2109.08106)  
+
+*   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
+    Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2109.12407)  

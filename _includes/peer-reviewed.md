@@ -1,3 +1,9 @@
+
+*   Influential groups for seeding and sustaining hypergraph contagions  
+    Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard and **Laurent Hébert-Dufresne**  
+    Communication Physics (in press)   
+    [arXiv.org](https://arxiv.org/abs/2105.07092)  
+
 *   Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks  
     Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
     Phys. Rev. Lett. (in press)   
