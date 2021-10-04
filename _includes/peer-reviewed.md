@@ -1,6 +1,6 @@
 
 *   Influential groups for seeding and sustaining hypergraph contagions  
-    Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard and **Laurent Hébert-Dufresne**  
+    G. St-Onge, I. Iacopini, V. Latora, A. Barrat, G. Petri, A. Allard and **L. Hébert-Dufresne**  
     Communication Physics (in press)   
     [arXiv.org](https://arxiv.org/abs/2105.07092)  
 
