@@ -19,11 +19,11 @@ weight: 4
 
 * * *
 
-# Recent science communication:  
+# Recent science communication:  https://www.sfipress.org/books-coming-soon/the-complex-alternative
 
-*   La modélisation mathématique pour cartographier le complexe et l’inconnu  
-    Antoine Allard, Louis J. Dubé, and **Laurent Hébert-Dufresne**  
-    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/modelisation-mathematique-cartographier-complexe-inconnu)
+*   Halthing the Spread of COVID-19 and Escaping the Madness of Crowds  
+    **Laurent Hébert-Dufresne**  
+    _In press:_ [sfipress.org](https://www.sfipress.org/books-coming-soon/the-complex-alternative)
 
 *   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses  
     Stefani Crabtree and **Laurent Hébert-Dufresne**  

@@ -6,8 +6,8 @@
 
 *   Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks  
     Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
-    Phys. Rev. Lett. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2101.07229)  
+    Phys. Rev. Lett. 127, 158301   
+    [Full text](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301) | [arXiv.org](https://arxiv.org/abs/2101.07229)  
 
 *   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
     E. Aguilar, N.J. Roberts, I. Uluturk, P. Kaminski, J.W. Barlow, A.G. Zori, **L. Hébert-Dufresne**, and B.D. Zusman  
@@ -21,7 +21,7 @@
 
 *   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
     P. Burnham, S. Alger, B. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
-    J. Appl. Ecol. (2021)   
+    Journal of Applied Ecology 58:10 2065-2074 (2021)   
     [Full text](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13962)  
 
 *   When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban  
