@@ -39,5 +39,5 @@
     [arXiv.org](https://arxiv.org/abs/2109.12407)  
 
 *   Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata  
-    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**  and Lori Stevens
+    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**  and Lori Stevens  
     [arXiv.org](https://arxiv.org/abs/2111.05964)  
