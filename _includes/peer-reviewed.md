@@ -4,9 +4,14 @@
     Communication Physics (in press)   
     [arXiv.org](https://arxiv.org/abs/2105.07092)  
 
+*   Coordinated support for local action: A modeling study of strategies to facilitate behavior adoption in urban poor communities of Liberia for sustained COVID-19 suppression  
+    Laura Skrip, Mosoka P Fallah, Jamie Bedson, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
+    Epidemics (in press)   
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.11.20172031v1)  
+
 *   Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks  
     Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
-    Phys. Rev. Lett. 127, 158301   
+    Phys. Rev. Lett. 127, 158301 (2021)   
     [Full text](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301) | [arXiv.org](https://arxiv.org/abs/2101.07229)  
 
 *   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
@@ -27,7 +32,7 @@
 *   When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban  
     M.Z. Trujillo, S.F. Rosenblatt, G. de Anda Jáuregui, E. Moog, **L. Hébert-Dufresne**, and A.M. Roth  
     ACL Workshop on Online Abuse and Harms (2021)   
-    [Full text](https://ieeexplore.ieee.org/document/9463079) |  [arXiv.org](https://arxiv.org/abs/2106.16207)  
+    [Full text](https://aclanthology.org/2021.woah-1.18/) |  [arXiv.org](https://arxiv.org/abs/2106.16207)  
 
 *   A review and agenda for integrated disease models including social and behavioral factors  
     J. Bedson, L. A. Skrip, et al., **L. Hébert-Dufresne**, and B. M. Althouse  
@@ -37,7 +42,7 @@
 *   Which contributions count? Analysis of attribution in open source  
     J.-G. Young, A. Casari, K. McLaughlin, M.Z. Trujillo, **L. Hébert-Dufresne** and J.P. Bagrow  
     2021 Mining Software Repositories Conference (2021)   
-    [Full text](https://aclanthology.org/2021.woah-1.18/) | [arXiv.org](https://arxiv.org/abs/2103.11007)  
+    [Full text](https://ieeexplore.ieee.org/document/9463079) | [arXiv.org](https://arxiv.org/abs/2103.11007)  
 
 *   Seeding COVID-19 across Sub-Saharan Africa: An Analysis of Reported Importation Events across 49 Countries  
     L. Skrip, P. Selvaraj, et al., **L. Hébert-Dufresne**, S.V Scarpino, and B.M. Althouse  

@@ -6,10 +6,6 @@
     Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2005.11283)  
 
-*   Coordinated support for local action: A modeling study of strategies to facilitate behavior adoption in urban poor communities of Liberia for sustained COVID-19 suppression  
-    Laura Skrip, Mosoka P Fallah, Jamie Bedson, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.11.20172031v1)  
-
 *   The unintended consequences of inconsistent pandemic control policies  
     Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
@@ -41,3 +37,7 @@
 *   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
     Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2109.12407)  
+
+*   Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata  
+    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**  and Lori Stevens
+    [arXiv.org](https://arxiv.org/abs/2111.05964)  
