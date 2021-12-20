@@ -21,7 +21,7 @@ weight: 4
 
 # Recent science communication:  
 
-<img src="/img/CA_SFI.jpeg?height=925&amp;width=1337" border="0" width="100%">
+<img src="/img/CA_SFI.png?height=315&amp;width=413" border="0" width="100%">
 
 *   Halthing the Spread of COVID-19 and Escaping the Madness of Crowds  
     **Laurent Hébert-Dufresne**  
