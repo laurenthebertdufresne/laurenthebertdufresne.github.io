@@ -21,9 +21,11 @@ weight: 4
 
 # Recent science communication:  
 
+<img src="/img/CA_SFI.jpeg?height=925&amp;width=1337" border="0" width="100%">
+
 *   Halthing the Spread of COVID-19 and Escaping the Madness of Crowds  
     **Laurent Hébert-Dufresne**  
-    _In press at:_ [sfipress.org](https://www.sfipress.org/books/the-complex-alternative)
+    _Available at:_ [sfipress.org](https://www.sfipress.org/books/the-complex-alternative)
 
 *   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses  
     Stefani Crabtree and **Laurent Hébert-Dufresne**  

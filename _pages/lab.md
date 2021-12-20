@@ -33,10 +33,12 @@ Our research tackles the coevolution of structure and dynamics in complex system
 
 *   Samuel Rosenblatt (Ph.D. student in Computer Science, QuEST trainee)
 
+*   Jonathan St-Onge (Ph.D. student in Complex Systems & Data Science)
+
 *   Guillaume St-Onge (Ph.D. student in Physics, at Université Laval)
 
-*   Milo Trujillo (Ph.D. student in Complex Systems & Data Science, OCEAN project)
+*   Milo Trujillo (Ph.D. student in Complex Systems & Data Science)
 
 *   Blake Williams (M.Sc. student in Complex Systems & Data Science)
 
-*   Jean-Gabriel Young (Research Assistant Professor)
+*   Erik Weiss (M.Sc. student in Complex Systems & Data Science)
