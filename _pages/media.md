@@ -41,9 +41,13 @@ weight: 4
     Antoine Allard, Louis J. Dubé and **Laurent Hébert-Dufresne**  
     _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/modelisation-mathematique-cartographier-complexe-inconnu)
 
+<img src="/img/alife.png?height=315&amp;width=413" border="0" width="100%">
+
 *   A How-To: reflections on planning virtual science conferences  
     Juniper Lovato and **Laurent Hébert-Dufresne**  
     _Available at:_ [medium.org](https://medium.com/@juniper.lovato/a-how-to-reflections-on-planning-virtual-science-conferences-eeb754ed404b)
+
+<img src="/img/covid.jpeg?height=315&amp;width=413" border="0" width="100%">
 
 *   Misinformation about an outbreak like COVID-19 is important public health data  
     **Laurent Hébert-Dufresne** and Vicky Chuqiao Yang  
