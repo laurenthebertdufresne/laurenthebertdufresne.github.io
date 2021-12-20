@@ -27,7 +27,7 @@ weight: 4
     **Laurent Hébert-Dufresne**  
     _Available at:_ [sfipress.org](https://www.sfipress.org/books/the-complex-alternative)
 
-<img src="/img/CA_SFI.png?height=315&amp;width=413" border="0" width="100%">
+<img src="/img/bifurcation.png?height=315&amp;width=413" border="0" width="100%">
 
 *   Dossier bifurcation : conversation éditoriale  
     **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
