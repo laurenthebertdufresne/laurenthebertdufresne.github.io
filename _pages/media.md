@@ -27,13 +27,19 @@ weight: 4
     **Laurent Hébert-Dufresne**  
     _Available at:_ [sfipress.org](https://www.sfipress.org/books/the-complex-alternative)
 
-*   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses  
-    Stefani Crabtree and **Laurent Hébert-Dufresne**  
-    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/face-aux-changements-environnementaux-transdisciplinarite-cas)
+<img src="/img/CA_SFI.png?height=315&amp;width=413" border="0" width="100%">
 
 *   Dossier bifurcation : conversation éditoriale  
     **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
     _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/dossier-bifurcation-conversation-editoriale)
+
+*   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses  
+    Stefani Crabtree and **Laurent Hébert-Dufresne**  
+    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/face-aux-changements-environnementaux-transdisciplinarite-cas)
+
+*   La modélisation mathématique pour cartographier le complexe et l’inconnu  
+    Antoine Allard, Louis J. Dubé and **Laurent Hébert-Dufresne**  
+    _Available at:_ [acfas.ca](https://www.acfas.ca/publications/magazine/2020/09/modelisation-mathematique-cartographier-complexe-inconnu)
 
 *   A How-To: reflections on planning virtual science conferences  
     Juniper Lovato and **Laurent Hébert-Dufresne**  
