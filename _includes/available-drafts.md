@@ -14,10 +14,6 @@
     John Meluso, Jesse Austin-Breneman, James P. Bagrow, and **Laurent Hébert-Dufresne**   
     [arXiv.org](https://arxiv.org/abs/2103.12820)  
 
-*   Impact and dynamics of hate and counter speech online  
-    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
-    [arXiv.org](https://arxiv.org/abs/2009.08392)  
-
 *   Distributed consent and its impact on privacy and observability in social networks  
     Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2006.16140)  

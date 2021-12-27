@@ -1,4 +1,8 @@
-
+*   Impact and dynamics of hate and counter speech online  
+    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
+    EPJ Data Science (in press)   
+    [arXiv.org](https://arxiv.org/abs/2009.08392)  
+  
 *   Influential groups for seeding and sustaining hypergraph contagions  
     G. St-Onge, I. Iacopini, V. Latora, A. Barrat, G. Petri, A. Allard and **L. Hébert-Dufresne**  
     Communication Physics (in press)   
@@ -6,8 +10,8 @@
 
 *   Coordinated support for local action: A modeling study of strategies to facilitate behavior adoption in urban poor communities of Liberia for sustained COVID-19 suppression  
     Laura Skrip, Mosoka P Fallah, Jamie Bedson, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
-    Epidemics (in press)   
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.11.20172031v1)  
+    Epidemics 37, 100529 (2021)   
+    [Full text](https://www.sciencedirect.com/science/article/pii/S1755436521000736) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.11.20172031v1)  
 
 *   Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks  
     Guillaume St-Onge, Hanlin Sun, Antoine Allard, **Laurent Hébert-Dufresne**, and Ginestra Bianconi  
