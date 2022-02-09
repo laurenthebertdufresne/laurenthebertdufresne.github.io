@@ -1,12 +1,32 @@
+*   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
+    Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
+    SIAM Review (in press)  
+    [arXiv.org](https://arxiv.org/abs/2005.11283)  
+
+*   Predicting the diversity of early epidemic spread on networks  
+    Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard and **Laurent Hébert-Dufresne**  
+    Phys. Rev. Research (in press)   
+    [arXiv.org](https://arxiv.org/abs/2107.03334)  
+
+*   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
+    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
+    Royal Society Open Science (in press)   
+    [arXiv.org](https://arxiv.org/abs/2109.08106)  
+
 *   Impact and dynamics of hate and counter speech online  
     Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
-    EPJ Data Science (in press)   
-    [arXiv.org](https://arxiv.org/abs/2009.08392)  
+    EPJ Data Science 11, 3 (2022)   
+    [Full text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00314-6) | [arXiv.org](https://arxiv.org/abs/2009.08392)  
+
+*   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
+    John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
+    Research on Social Issues in Management (in press)   
+    [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
   
 *   Influential groups for seeding and sustaining hypergraph contagions  
     G. St-Onge, I. Iacopini, V. Latora, A. Barrat, G. Petri, A. Allard and **L. Hébert-Dufresne**  
-    Communication Physics (in press)   
-    [arXiv.org](https://arxiv.org/abs/2105.07092)  
+    Communication Physics 5, 25 (2022)   
+    [Full text](https://www.nature.com/articles/s42005-021-00788-w) | [arXiv.org](https://arxiv.org/abs/2105.07092)  
 
 *   Coordinated support for local action: A modeling study of strategies to facilitate behavior adoption in urban poor communities of Liberia for sustained COVID-19 suppression  
     Laura Skrip, Mosoka P Fallah, Jamie Bedson, **Laurent Hébert-Dufresne** and Benjamin M. Althouse  
@@ -21,12 +41,7 @@
 *   Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic  
     E. Aguilar, N.J. Roberts, I. Uluturk, P. Kaminski, J.W. Barlow, A.G. Zori, **L. Hébert-Dufresne**, and B.D. Zusman  
     Proc. Natl. Acad. Sci. U.S.A. 118:34 (2021)    
-    [Full text](https://www.pnas.org/content/118/34/e2105337118)  
-
-*   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
-    John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
-    Research on Social Issues in Management (in press)   
-    [pdf](https://bit.ly/meluso-et-al-mcc-ic)  
+    [Full text](https://www.pnas.org/content/118/34/e2105337118)   
 
 *   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
     P. Burnham, S. Alger, B. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
