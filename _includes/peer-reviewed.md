@@ -44,7 +44,7 @@
     [Full text](https://www.pnas.org/content/118/34/e2105337118)   
 
 *   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
-    P. Burnham, S. Alger, B. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
+    P. Burnham, S. Alger, B. K. M. Case Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
     Journal of Applied Ecology 58:10 2065-2074 (2021)   
     [Full text](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13962)  
 
