@@ -3,25 +3,25 @@
     SIAM Review (in press)  
     [arXiv.org](https://arxiv.org/abs/2005.11283)  
 
-*   Predicting the diversity of early epidemic spread on networks  
-    Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard and **Laurent Hébert-Dufresne**  
-    Phys. Rev. Research (in press)   
-    [arXiv.org](https://arxiv.org/abs/2107.03334)  
-
 *   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
     **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
     Royal Society Open Science (in press)   
     [arXiv.org](https://arxiv.org/abs/2109.08106)  
 
-*   Impact and dynamics of hate and counter speech online  
-    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
-    EPJ Data Science 11, 3 (2022)   
-    [Full text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00314-6) | [arXiv.org](https://arxiv.org/abs/2009.08392)  
-
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
     Research on Social Issues in Management (in press)   
     [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
+
+*   Predicting the diversity of early epidemic spread on networks  
+    Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard and **Laurent Hébert-Dufresne**  
+    Phys. Rev. Research 4, 013123 (2022)   
+    [Full text](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013123) | [arXiv.org](https://arxiv.org/abs/2107.03334)  
+
+*   Impact and dynamics of hate and counter speech online  
+    Joshua Garland, Keyan Ghazi-Zahedi, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Mirta Galesic  
+    EPJ Data Science 11, 3 (2022)   
+    [Full text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00314-6) | [arXiv.org](https://arxiv.org/abs/2009.08392)  
   
 *   Influential groups for seeding and sustaining hypergraph contagions  
     G. St-Onge, I. Iacopini, V. Latora, A. Barrat, G. Petri, A. Allard and **L. Hébert-Dufresne**  
@@ -44,7 +44,7 @@
     [Full text](https://www.pnas.org/content/118/34/e2105337118)   
 
 *   Flowers as dirty doorknobs: Demonstration of a virus transmission mechanism between Apis mellifera and Bombus impatiens  
-    P. Burnham, S. Alger, B. K. M. Case Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
+    P. Burnham, S. Alger, B. K. M. Case, H. Boncristiani, **L. Hébert-Dufresne** and A. Brody  
     Journal of Applied Ecology 58:10 2065-2074 (2021)   
     [Full text](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13962)  
 
