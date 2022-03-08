@@ -7,7 +7,7 @@
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
 
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
-    John Meluso, Jesse Austin-Breneman, James P. Bagrow, and **Laurent Hébert-Dufresne**   
+    John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
     [arXiv.org](https://arxiv.org/abs/2103.12820)  
 
 *   Distributed consent and its impact on privacy and observability in social networks  
@@ -15,7 +15,7 @@
     [arXiv.org](https://arxiv.org/abs/2006.16140)  
 
 *   The penumbra of open source: projects outside of centralized platforms are longer maintained, more academic and more collaborative  
-    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James P. Bagrow  
+    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
     [arXiv.org](https://arxiv.org/abs/2106.15611)  
 
 *   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
@@ -27,5 +27,9 @@
     [arXiv.org](https://arxiv.org/abs/2111.05964)  
 
 *   The network epidemiology of an Ebola epidemic  
-    **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, B. M. Althouse  
+    **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  
+
+*   Hierarchical team structure and multidimensional localization (or siloing) on networks  
+    **Laurent Hébert-Dufresne**, Guillaume St-Onge, John Meluso, James Bagrow, and Antoine Allard  
+    [arXiv.org](https://arxiv.org/abs/2203.00745)  

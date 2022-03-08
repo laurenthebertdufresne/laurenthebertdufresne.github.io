@@ -13,6 +13,11 @@
     Research on Social Issues in Management (in press)   
     [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
 
+*   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  
+    M. Warrick, S. F. Rosenblatt, J.-G. Young, A. Casari, **L. Hébert-Dufresne**, and J. Bagrow  
+    2022 Mining Software Repositories Conference (in press)  
+    [pdf](https://bagrow.com/pdf/warrick2022-mailing-v1.pdf)  
+
 *   Predicting the diversity of early epidemic spread on networks  
     Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard and **Laurent Hébert-Dufresne**  
     Phys. Rev. Research 4, 013123 (2022)   
