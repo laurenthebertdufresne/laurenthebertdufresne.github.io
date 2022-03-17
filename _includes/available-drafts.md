@@ -6,10 +6,6 @@
     Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)  
 
-*   A Review & Framework for Modeling Complex Engineered System Development Processes  
-    John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
-    [arXiv.org](https://arxiv.org/abs/2103.12820)  
-
 *   Distributed consent and its impact on privacy and observability in social networks  
     Juniper Lovato, Antoine Allard, Randall Harp, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2006.16140)  
