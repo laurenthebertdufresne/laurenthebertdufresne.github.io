@@ -1,6 +1,6 @@
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
-    IEEE Transactions on Systems, Man, and Cybernetics: Systems (in press)
+    IEEE Transactions on Systems, Man, and Cybernetics: Systems (in press)  
     [arXiv.org](https://arxiv.org/abs/2103.12820)  
 
 *   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
