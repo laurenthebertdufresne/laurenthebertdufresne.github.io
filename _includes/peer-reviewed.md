@@ -10,8 +10,8 @@
 
 *   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
     **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
-    Royal Society Open Science (in press)   
-    [arXiv.org](https://arxiv.org/abs/2109.08106)  
+    Royal Society Open Science 9, 211743 (2022)   
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsos.211743) | [arXiv.org](https://arxiv.org/abs/2109.08106)  
 
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
