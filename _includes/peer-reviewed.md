@@ -1,17 +1,32 @@
+*   Limits of Individual Consent and Models of Distributed Consent in Online Social Networks  
+    Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, and **Laurent Hébert-Dufresne**  
+    In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (in press)  
+    [arXiv.org](https://arxiv.org/abs/2006.16140)  
+
+*   The penumbra of open source: projects outside of centralized platforms are longer maintained, more academic and more collaborative  
+    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
+    EPJ Data Science 11, 31 (2022)  
+    [Full text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00345-7) | [arXiv.org](https://arxiv.org/abs/2106.15611)  
+
+*   Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata  
+    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**, and Lori Stevens 
+    PLOS Neglected Tropical Diseases (in press)  
+    [arXiv.org](https://arxiv.org/abs/2111.05964)  
+
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
-    IEEE Transactions on Systems, Man, and Cybernetics: Systems (in press)  
-    [arXiv.org](https://arxiv.org/abs/2103.12820)  
+    IEEE Transactions on Systems, Man, and Cybernetics: Systems  
+    [Full text](https://ieeexplore.ieee.org/abstract/document/9754986) | [arXiv.org](https://arxiv.org/abs/2103.12820)  
+
+*   Distinguishing In-Groups and Onlookers by Language Use  
+    J.R. Minot, M.Z. Trujillo, S.F. Rosenblatt, G. de Anda Jáuregui, E. Moog, **L. Hébert-Dufresne**, and A.M. Roth   
+    Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 157–171  
+    [Full text](https://aclanthology.org/2022.wassa-1.15)
 
 *   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
     Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     SIAM Review (in press)  
     [arXiv.org](https://arxiv.org/abs/2005.11283)  
-
-*   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
-    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
-    Royal Society Open Science 9, 211743 (2022)   
-    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsos.211743) | [arXiv.org](https://arxiv.org/abs/2109.08106)  
 
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
@@ -21,7 +36,12 @@
 *   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  
     M. Warrick, S. F. Rosenblatt, J.-G. Young, A. Casari, **L. Hébert-Dufresne**, and J. Bagrow  
     2022 Mining Software Repositories Conference (in press)  
-    [pdf](https://bagrow.com/pdf/warrick2022-mailing-v1.pdf)  
+    [arXiv.org](https://arxiv.org/abs/2204.00603)  
+
+*   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
+    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
+    Royal Society Open Science 9, 211743 (2022)   
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsos.211743) | [arXiv.org](https://arxiv.org/abs/2109.08106)  
 
 *   Predicting the diversity of early epidemic spread on networks  
     Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard and **Laurent Hébert-Dufresne**  

@@ -9,40 +9,4 @@ weight: 3
 
 <img src="/img/networks.png?height=137&amp;width=320" border="0" width="100%">
 
-Our research tackles the coevolution of structure and dynamics in complex systems. Recent examples include theoretical work on interacting contagions, network comparison, spread of ideas and creativity, as well as applied projects on infectious diseases, how the shape of forests coevolves with forest fires, and how the structure of metabolic networks drive the organization of microbial communities.
-
-* * *
-
-# Current lab members
-
-*   Andrea Allen (M.Sc. student in Complex Systems & Data Science)
-
-*   Mariah Boudreau (Ph.D. student in Mathematics, QuEST trainee)
-
-*   Brendan Case (Ph.D. student in Computer Science, QuEST trainee)
-
-*   Alexander Daniels (Ph.D. student in Complex Systems & Data Science)
-
-*   Laurent Hébert-Dufresne (Associate Professor)
-
-*   John Meluso (OCEAN Postdoctoral Fellow)
-
-*   Nicholas Roberts (Ph.D. student in Complex Systems & Data Science)
-
-*   Samuel Rosenblatt (Ph.D. student in Computer Science, QuEST trainee)
-
-*   Jonathan St-Onge (Ph.D. student in Complex Systems & Data Science)
-
-*   Guillaume St-Onge (Ph.D. student in Physics, at Université Laval)
-
-*   Milo Trujillo (Ph.D. student in Complex Systems & Data Science)
-
-*   Erik Weis (M.Sc. student in Complex Systems & Data Science)
-
-* * *
-
-# Alumni
-
-*   Connor Klopfer (M.Sc. graduate in Complex Systems & Data Science)
-
-*   Blake Williams (M.Sc. student in Complex Systems & Data Science)
+My group is a member of the [Joint Lab](https://joint-lab.github.io/). Our research focuses on the coevolution of structure and dynamics in complex systems. Recent examples include theoretical work on interacting contagions, network comparison, spread of ideas and creativity, as well as applied projects on infectious diseases, how the shape of forests coevolves with forest fires, and how the structure of metabolic networks drive the organization of microbial communities. Visit the [Joint Lab](https://joint-lab.github.io/) website for more details.
