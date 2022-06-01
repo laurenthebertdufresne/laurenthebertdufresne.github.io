@@ -9,13 +9,13 @@
     [Full text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00345-7) | [arXiv.org](https://arxiv.org/abs/2106.15611)  
 
 *   Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata  
-    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**, and Lori Stevens 
+    B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**, and Lori Stevens  
     PLOS Neglected Tropical Diseases (in press)  
     [arXiv.org](https://arxiv.org/abs/2111.05964)  
 
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
-    IEEE Transactions on Systems, Man, and Cybernetics: Systems  
+    IEEE Transactions on Systems, Man, and Cybernetics: Systems (2022) 
     [Full text](https://ieeexplore.ieee.org/abstract/document/9754986) | [arXiv.org](https://arxiv.org/abs/2103.12820)  
 
 *   Distinguishing In-Groups and Onlookers by Language Use  
