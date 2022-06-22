@@ -1,7 +1,7 @@
 *   Limits of Individual Consent and Models of Distributed Consent in Online Social Networks  
     Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, and **Laurent Hébert-Dufresne**  
-    In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (in press)  
-    [arXiv.org](https://arxiv.org/abs/2006.16140)  
+    Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, 2251–2262  
+    [Full text](https://dl.acm.org/doi/10.1145/3531146.3534640) | [arXiv.org](https://arxiv.org/abs/2006.16140)  
 
 *   The penumbra of open source: projects outside of centralized platforms are longer maintained, more academic and more collaborative  
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
@@ -10,8 +10,8 @@
 
 *   Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata  
     B. K. M. Case, Jean-Gabriel Young, Daniel Penados, **Laurent Hébert-Dufresne**, and Lori Stevens  
-    PLOS Neglected Tropical Diseases (in press)  
-    [arXiv.org](https://arxiv.org/abs/2111.05964)  
+    PLOS Neglected Tropical Diseases 16(6): e0010436  
+    [Full text](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010436) | [arXiv.org](https://arxiv.org/abs/2111.05964)  
 
 *   A Review & Framework for Modeling Complex Engineered System Development Processes  
     John Meluso, Jesse Austin-Breneman, James Bagrow, and **Laurent Hébert-Dufresne**   
