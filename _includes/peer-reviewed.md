@@ -1,3 +1,8 @@
+*   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
+    Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
+    PNAS Nexus (in press)
+    [arXiv.org](https://arxiv.org/abs/2109.12407)  
+
 *   Limits of Individual Consent and Models of Distributed Consent in Online Social Networks  
     Juniper Lovato, Antoine Allard, Randall Harp, Jeremiah Onaolapo, and **Laurent Hébert-Dufresne**  
     ACM Conference on Fairness, Accountability, and Transparency, 2251–2262 (2022)  

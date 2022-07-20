@@ -6,10 +6,6 @@
     Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)   
 
-*   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
-    Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2109.12407)  
-
 *   The network epidemiology of an Ebola epidemic  
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  
