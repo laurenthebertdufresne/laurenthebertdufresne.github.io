@@ -59,11 +59,13 @@ weight: 4
 
 * * *
 
-# Sample of recent media stories:
+# Some stories:
+
+*   [Washington Post: The Omicron BA.5 Wave Is Starting to Ebb. We Need to Know Why.](https://www.washingtonpost.com/business/theomicronba5-wave-is-starting-to-ebb-we-need-to-know-why/2022/08/10/58b09a44-1910-11ed-b998-b2ab68f58468_story.html)
+
+*   [Discover Magazine: Study Probes How to Change Societal Behavior for the Better](https://www.discovermagazine.com/the-sciences/study-probes-how-to-change-societal-behavior-for-the-better)
 
 *   [USA Today: Officials worry about virus spread at restaurants...](https://eu.usatoday.com/story/news/health/2020/11/26/officials-worry-covid-19-restaurants-but-need-better-data/6411671002/)
-
-*   [la Repubblica: Coronavirus, ecco perché non sappiamo prevedere i contagi](https://www.repubblica.it/salute/2020/11/05/news/coronavirus_ecco_perche_r0_non_racconta_tutta_la_storia_-273087946/)
 
 *   [WIRED: The Science That Spans #MeToo, Memes, and Covid-19](https://www.wired.com/story/the-science-that-spans-metoo-memes-and-covid-19/)
 
@@ -72,8 +74,6 @@ weight: 4
 *   [Mediapart: Données épidémiologiques: la pénurie cachée](https://www.mediapart.fr/journal/france/110720/donnees-epidemiologiques-la-penurie-cachee)
 
 *   [Figaro: L'épidémie s'essouffle, l'espoir revient](https://sfrpresse.sfr.fr/article/c12f588d-bcdf-440f-8cf8-482b32d64996)
-
-*   [Mediapart: Des chercheurs revoient le seuil d’immunité collective à la baisse](https://www.mediapart.fr/journal/france/220520/des-chercheurs-revoient-le-seuil-d-immunite-collective-la-baisse)
 
 *   [cnet: How memes and social media shape the spread of coronavirus](https://www.cnet.com/news/how-memes-and-social-media-shape-the-spread-of-coronavirus/)
 
@@ -87,21 +87,15 @@ weight: 4
 
 *   [Data Skeptic podcast: AlphaGo, COVID-19 Contact Tracing and New Data Set](http://dataskeptic.libsyn.com/alphago-covid-19-contact-tracing-and-new-data-set-0)
 
-*   [New Zealand Herald: What viral internet memes may tell us about Covid-19's spread](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12315132)
-
 *   [The Vermont Cynic's ProfTalk podcast: OCEAN project](https://vtcynic.com/multimedia/proftalk-ocean-project/)
 
 *   [CBC radio interview: Modéliser l'épidémie du coronavirus](https://ici.radio-canada.ca/premiere/emissions/les-annees-lumiere/episodes/453906/rattrapage-du-dimanche-2-fevrier-2020/4)
 
 *   [WCAX TV interview: UVM gets $1M from Google for open source research](https://www.wcax.com/content/news/UVM-gets-1-million-from-Google-for-open-source-research-566940401.html)
 
-*   [New Scientist: Warmer weather could bring fresh Zika misery](https://www.newscientist.com/article/mg23331164-400-warmer-weather-could-bring-fresh-zika-misery/)
-
 *   [Smithsonian: Going Home Sick? Your Substitute Could Spread Disease More Widely](http://www.smithsonianmag.com/smart-news/substitute-workers-could-make-workplace-illness-worse-180959979/?no-ist)
 
 *   [gizmodo: Sending Sick Workers Home Makes More Workers Sick](http://gizmodo.com/sending-sick-workers-home-makes-more-workers-sick-1784713196)
-
-*   [FOX News: Substitute teachers, nurses may further spread illness, study suggests](http://www.foxnews.com/health/2016/08/04/substitute-teachers-nurses-may-further-spread-illness-study-suggests.html)
 
 *   [MIT Technology review: Why Beneficial Epidemics Spread More Quickly than Harmful Ones](https://www.technologyreview.com/s/601298/why-beneficial-epidemics-spread-more-quickly-than-harmful-ones/)
 

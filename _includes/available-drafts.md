@@ -21,3 +21,7 @@
 *   A network compression approach for quantifying the importance of temporal contact chronology  
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2205.11566)  
+
+*   Indirect social learning through collective performance favors decentralization  
+    John Meluso and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2208.11618)  
