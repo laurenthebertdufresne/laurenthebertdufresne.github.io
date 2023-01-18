@@ -1,6 +1,6 @@
 *   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
     Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
-    PNAS Nexus 1(4), pgac143  
+    PNAS Nexus 1(4), pgac143 (2022)  
     [Full text](https://academic.oup.com/pnasnexus/article/1/4/pgac143/6656375) | [arXiv.org](https://arxiv.org/abs/2109.12407)  
 
 *   Limits of Individual Consent and Models of Distributed Consent in Online Social Networks  
@@ -35,8 +35,8 @@
 
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
-    Research on Social Issues in Management (in press)   
-    [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
+    Research on Social Issues in Management (2022)
+    [volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
 
 *   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  
     M. Warrick, S. F. Rosenblatt, J.-G. Young, A. Casari, **L. Hébert-Dufresne**, and J. Bagrow  

@@ -3,8 +3,8 @@
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
 *   The unintended consequences of inconsistent pandemic control policies  
-    Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew Berdahl, Easton R. White, and **Laurent Hébert-Dufresne**   
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v1)   
+    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**   
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)   
 
 *   The network epidemiology of an Ebola epidemic  
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
@@ -25,3 +25,7 @@
 *   Indirect social learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2208.11618)  
+
+*   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
+    J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq and J. Onaolapo  
+    [arXiv.org](https://arxiv.org/abs/2210.10026)  
