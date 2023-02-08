@@ -35,7 +35,7 @@
 
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
-    Research on Social Issues in Management (2022)
+    Research on Social Issues in Management (2022)  
     [volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
 
 *   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  

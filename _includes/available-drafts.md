@@ -22,10 +22,22 @@
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2205.11566)  
 
+*   TRACE-Omicron: Policy Counterfactuals to Inform Mitigation of COVID-19 Spread in the United States  
+    D. O'Gara, S. F. Rosenblatt, **L. Hébert-Dufresne**, R. Purcell, M. Kasman, and R. A. Hammond  
+    [arXiv.org](https://arxiv.org/abs/2301.08175) 
+
+*   Temporal and probabilistic forecasts of epidemic interventions  
+    Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2302.03210)  
+
 *   Indirect social learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2208.11618)  
 
+*   Accurately summarizing an outbreak using epidemiological models takes time  
+    B. K. M. Case, Jean-Gabriel Young, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2301.08799)  
+ 
 *   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
-    J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq and J. Onaolapo  
+    J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq, and J. Onaolapo  
     [arXiv.org](https://arxiv.org/abs/2210.10026)  
