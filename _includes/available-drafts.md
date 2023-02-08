@@ -27,7 +27,7 @@
     [arXiv.org](https://arxiv.org/abs/2301.08175) 
 
 *   Temporal and probabilistic forecasts of epidemic interventions  
-    Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
+    M. C. Boudreau, A. J. Allen, N. J. Roberts, A. Allard, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2302.03210)  
 
 *   Indirect social learning through collective performance favors decentralization  
