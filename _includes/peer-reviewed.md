@@ -1,3 +1,14 @@
+
+*   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
+    Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
+    SIAM Review 62(2), 471-492 (2023)
+    [Full text](https://epubs.siam.org/doi/10.1137/20M1383811) | [arXiv.org](https://arxiv.org/abs/2005.11283)  
+
+*   TRACE-Omicron: Policy Counterfactuals to Inform Mitigation of COVID-19 Spread in the United States  
+    D. O'Gara, S. F. Rosenblatt, **L. Hébert-Dufresne**, R. Purcell, M. Kasman, and R. A. Hammond  
+    Advanced Theory and Simulations (2023)
+    [Full text](https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202300147) | [arXiv.org](https://arxiv.org/abs/2301.08175)  
+
 *   Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin  
     Blake J.M. Williams, C. Brandon Ogbunugafor, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     PNAS Nexus 1(4), pgac143 (2022)  
@@ -28,15 +39,15 @@
     12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (2022)  
     [Full text](https://aclanthology.org/2022.wassa-1.15)
 
-*   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
-    Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
-    SIAM Review (in press)  
-    [arXiv.org](https://arxiv.org/abs/2005.11283)  
-
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
     Research on Social Issues in Management (2022)  
-    [volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
+    
+*   TRACE-Omicron: Policy Counterfactuals to Inform Mitigation of COVID-19 Spread in the United States  
+    D. O'Gara, S. F. Rosenblatt, **L. Hébert-Dufresne**, R. Purcell, M. Kasman, and R. A. Hammond  
+    [arXiv.org](https://arxiv.org/abs/2301.08175) 
+
+[volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
 
 *   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  
     M. Warrick, S. F. Rosenblatt, J.-G. Young, A. Casari, **L. Hébert-Dufresne**, and J. Bagrow  

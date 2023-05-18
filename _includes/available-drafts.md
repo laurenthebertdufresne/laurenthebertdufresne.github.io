@@ -21,11 +21,7 @@
 *   A network compression approach for quantifying the importance of temporal contact chronology  
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2205.11566)  
-
-*   TRACE-Omicron: Policy Counterfactuals to Inform Mitigation of COVID-19 Spread in the United States  
-    D. O'Gara, S. F. Rosenblatt, **L. Hébert-Dufresne**, R. Purcell, M. Kasman, and R. A. Hammond  
-    [arXiv.org](https://arxiv.org/abs/2301.08175) 
-
+    
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2302.03210)  
