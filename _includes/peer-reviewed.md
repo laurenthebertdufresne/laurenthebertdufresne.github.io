@@ -42,12 +42,7 @@
 *   Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion  
     John Meluso, **Laurent Hébert-Dufresne**, James P. Bagrow, and Rob Razzante   
     Research on Social Issues in Management (2022)  
-    
-*   TRACE-Omicron: Policy Counterfactuals to Inform Mitigation of COVID-19 Spread in the United States  
-    D. O'Gara, S. F. Rosenblatt, **L. Hébert-Dufresne**, R. Purcell, M. Kasman, and R. A. Hammond  
-    [arXiv.org](https://arxiv.org/abs/2301.08175) 
-
-[volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
+    [volume](https://www.infoagepub.com/products/The-Future-of-Scholarship-on-Diversity-and-Inclusion-in-Organizations) | [pdf](https://bit.ly/meluso-et-al-mcc-ic) 
 
 *   The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories  
     M. Warrick, S. F. Rosenblatt, J.-G. Young, A. Casari, **L. Hébert-Dufresne**, and J. Bagrow  
