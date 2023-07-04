@@ -1,4 +1,13 @@
 
+*   Indirect social learning through collective performance favors decentralization  
+    John Meluso and **Laurent Hébert-Dufresne**  
+    Proc. Natl. Acad. Sci. U.S.A. (in press)  
+    [arXiv.org](https://arxiv.org/abs/2208.11618)  
+
+*   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
+    T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
+    Proc. R. Soc. Lond. B (in press)  
+
 *   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
     Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     SIAM Review 62(2), 471-492 (2023)  

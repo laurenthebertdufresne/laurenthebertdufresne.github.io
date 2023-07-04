@@ -21,7 +21,7 @@
 *   A network compression approach for quantifying the importance of temporal contact chronology  
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2205.11566)  
-    
+
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2302.03210)  
@@ -30,15 +30,11 @@
     E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
     In submission and available by request  
 
-*   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
-    T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
-    In submission and available by request  
-
 *   Indirect social learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2208.11618)  
 
-*   Accurately summarizing an outbreak using epidemiological models takes time  
+*   Accurately summarizing an outbreak using epidemiological ()models takes time  
     B. K. M. Case, Jean-Gabriel Young, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2301.08799)  
 
