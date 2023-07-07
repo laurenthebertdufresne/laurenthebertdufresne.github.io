@@ -8,6 +8,11 @@
     T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
     Proc. R. Soc. Lond. B (in press)  
 
+*   Hierarchical team structure and multidimensional localization (or siloing) on networks  
+    **Laurent Hébert-Dufresne**, Guillaume St-Onge, John Meluso, James Bagrow, and Antoine Allard  
+    Journal of Physics: Complexity (in press)  
+    [arXiv.org](https://arxiv.org/abs/2203.00745)  
+
 *   The role of directionality, heterogeneity and correlations in epidemic risk and spread  
     Antoine Allard, Cristopher Moore, Samuel V. Scarpino, Benjamin M. Althouse, and **Laurent Hébert-Dufresne**  
     SIAM Review 62(2), 471-492 (2023)  
