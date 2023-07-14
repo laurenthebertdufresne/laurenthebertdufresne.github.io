@@ -1,5 +1,5 @@
 
-*   Indirect social learning through collective performance favors decentralization  
+*   Multi-disciplinary learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
     Proc. Natl. Acad. Sci. U.S.A. (in press)  
     [arXiv.org](https://arxiv.org/abs/2208.11618)  
