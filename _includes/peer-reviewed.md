@@ -4,6 +4,11 @@
     Proc. Natl. Acad. Sci. U.S.A. (in press)  
     [arXiv.org](https://arxiv.org/abs/2208.11618)  
 
+*   Accurately summarizing an outbreak using epidemiological models takes time  
+    B. K. M. Case, Jean-Gabriel Young, and **Laurent Hébert-Dufresne**  
+    Royal Society Open Science (in press)    
+    [arXiv.org](https://arxiv.org/abs/2301.08799)  
+
 *   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
     T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
     Proc. R. Soc. Lond. B (in press)  

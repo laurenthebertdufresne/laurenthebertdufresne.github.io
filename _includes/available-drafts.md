@@ -2,6 +2,14 @@
     Antoine Allard and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
+*   Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations  
+    Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2307.11268)  
+
+*   Modeling critical connectivity constraints in random and empirical networks  
+    **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
+    [arXiv.org](https://arxiv.org/abs/2307.03559)  
+
 *   The unintended consequences of inconsistent pandemic control policies  
     B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)   
@@ -25,10 +33,6 @@
 *   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
     E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
     In submission and available by request  
-
-*   Accurately summarizing an outbreak using epidemiological ()models takes time  
-    B. K. M. Case, Jean-Gabriel Young, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2301.08799)  
 
 *   Heterogeneous transmission in groups induces a superlinear force of infection  
     Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
