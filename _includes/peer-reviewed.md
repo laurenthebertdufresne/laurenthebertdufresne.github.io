@@ -5,7 +5,7 @@
 
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2302.03210) 
+    [arXiv.org](https://arxiv.org/abs/2302.03210)  
     Bulletin of Mathematical Biology (in press)
 
 *   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
@@ -24,7 +24,7 @@
 
 *   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
     T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
-    Proc. R. Soc. Lond. B 378:1889 (2023)
+    Proc. R. Soc. Lond. B 378:1889 (2023)  
     [Full text](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0397)  
 
 *   Hierarchical team structure and multidimensional localization (or siloing) on networks  
