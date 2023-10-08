@@ -1,12 +1,13 @@
 *   The unintended consequences of inconsistent pandemic control policies  
-    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**   
+    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**
+    BMC Global and Public Health (in press)   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
-    BMC Global and Public Health (in press)
+
 
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2302.03210)  
-    Bulletin of Mathematical Biology (in press)
+    Bulletin of Mathematical Biology (in press)  
+    [arXiv.org](https://arxiv.org/abs/2302.03210)
 
 *   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
     E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
