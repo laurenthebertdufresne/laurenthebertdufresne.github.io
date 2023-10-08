@@ -1,17 +1,31 @@
+*   The unintended consequences of inconsistent pandemic control policies  
+    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**   
+    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
+    BMC Global and Public Health (in press)
+
+*   Temporal and probabilistic forecasts of epidemic interventions  
+    Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2302.03210) 
+    Bulletin of Mathematical Biology (in press)
+
+*   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
+    E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
+    PLOS Comp. Biol. (in press)  
 
 *   Multi-disciplinary learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
-    Proc. Natl. Acad. Sci. U.S.A. (in press)  
-    [arXiv.org](https://arxiv.org/abs/2208.11618)  
+    Proc. Natl. Acad. Sci. U.S.A. 120(34):e2303568120 (2023)  
+    [Full text](https://www.pnas.org/doi/10.1073/pnas.2303568120) | [arXiv.org](https://arxiv.org/abs/2208.11618)  
 
 *   Accurately summarizing an outbreak using epidemiological models takes time  
     B. K. M. Case, Jean-Gabriel Young, and **Laurent Hébert-Dufresne**  
-    Royal Society Open Science (in press)    
-    [arXiv.org](https://arxiv.org/abs/2301.08799)  
+    Royal Society Open Science 10:230634 (2023)    
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsos.230634) | [arXiv.org](https://arxiv.org/abs/2301.08799)  
 
 *   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
     T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
-    Proc. R. Soc. Lond. B (in press)  
+    Proc. R. Soc. Lond. B 378:1889 (2023)
+    [Full text](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0397)  
 
 *   Hierarchical team structure and multidimensional localization (or siloing) on networks  
     **Laurent Hébert-Dufresne**, Guillaume St-Onge, John Meluso, James Bagrow, and Antoine Allard  

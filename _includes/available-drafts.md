@@ -8,11 +8,7 @@
 
 *   Modeling critical connectivity constraints in random and empirical networks  
     **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
-    [arXiv.org](https://arxiv.org/abs/2307.03559)  
-
-*   The unintended consequences of inconsistent pandemic control policies  
-    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**   
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)   
+    [arXiv.org](https://arxiv.org/abs/2307.03559)    
 
 *   The network epidemiology of an Ebola epidemic  
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
@@ -26,13 +22,13 @@
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2205.11566)  
 
-*   Temporal and probabilistic forecasts of epidemic interventions  
-    Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2302.03210)  
+*   Measuring Centralization of Online Platforms Through Size and Interconnection of Communities  
+    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
+    [arXiv.org](https://arxiv.org/abs/2307.15027)  
 
-*   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
-    E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
-    In submission and available by request  
+*   Paradoxes in the co-evolution of contagions and institutions  
+    Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2310.03672)  
 
 *   Heterogeneous transmission in groups induces a superlinear force of infection  
     Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
