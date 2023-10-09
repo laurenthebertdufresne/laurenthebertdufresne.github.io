@@ -1,5 +1,5 @@
 *   The unintended consequences of inconsistent pandemic control policies  
-    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**
+    B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**  
     BMC Global and Public Health (in press)   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
 
