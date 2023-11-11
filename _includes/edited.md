@@ -10,7 +10,7 @@
 
 *   The Social Zombie: Modelling undead outbreaks on social networks  
     **Laurent Hébert-Dufresne**, Vincent Marceau, Pierre-André Noël, Antoine Allard and Louis J. Dubé  
-    Mathematical Modelling of Zombies, Robert Smith? (Ed.), University of Ottawa Press (2014)  
+    Mathematical Modelling of Zombies, Stacey Smith? (Ed.), University of Ottawa Press (2014)  
     [University of Ottawa Press](http://www.press.uottawa.ca/mathematical-modelling-of-zombies) | [amazon.com](http://www.amazon.com/Mathematical-Modelling-Zombies-Robert-Smith/dp/0776622102/ref=sr_1_1?ie=UTF8&qid=1410368412&sr=8-1&keywords=Mathematical+Modelling+of+Zombies)
 
 *   On the growth and structure of social systems following preferential attachment  
