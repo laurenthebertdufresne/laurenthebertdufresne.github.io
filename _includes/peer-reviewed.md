@@ -1,17 +1,32 @@
+*   Heterogeneous transmission in groups induces a superlinear force of infection  
+    Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
+    Proc. Natl. Acad. Sci. U.S.A. (in press)  
+    [arXiv.org](https://arxiv.org/abs/2302.13358)  
+
+*   A network compression approach for quantifying the importance of temporal contact chronology  
+    Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
+    Phys. Rev. Lett. (in press)  
+    [arXiv.org](https://arxiv.org/abs/2205.11566)  
+ 
+*   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
+    J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq, and J. Onaolapo  
+    npj Complexity (in press)  
+    [arXiv.org](https://arxiv.org/abs/2210.10026)  
+
 *   The unintended consequences of inconsistent pandemic control policies  
     B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**  
     BMC Global and Public Health (in press)   
     [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
 
-
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
-    Bulletin of Mathematical Biology (in press)  
-    [arXiv.org](https://arxiv.org/abs/2302.03210)
+    Bulletin of Mathematical Biology 85:118 (2023)  
+    [Full text](https://link.springer.com/article/10.1007/s11538-023-01220-w) | [arXiv.org](https://arxiv.org/abs/2302.03210)
 
 *   Network analysis of patterns and relevance of enteric pathogen co-infections among infants in a diarrhea-endemic setting      
     E. R. Colgate, C. Klopfer, D. M. Dickson, B. Lee, M. J. Wargo, A. Alam, B. D. Kirkpatrick, and **L. Hébert-Dufresne**  
-    PLOS Comp. Biol. (in press)  
+    PLOS Comp. Biol. 19(11):e1011624 (2023)  
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011624)  
 
 *   Multi-disciplinary learning through collective performance favors decentralization  
     John Meluso and **Laurent Hébert-Dufresne**  
