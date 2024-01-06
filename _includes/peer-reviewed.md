@@ -1,8 +1,3 @@
-*   Heterogeneous transmission in groups induces a superlinear force of infection  
-    Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
-    Proc. Natl. Acad. Sci. U.S.A. (in press)  
-    [arXiv.org](https://arxiv.org/abs/2302.13358)  
-
 *   A network compression approach for quantifying the importance of temporal contact chronology  
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
     Phys. Rev. Lett. (in press)  
@@ -13,10 +8,15 @@
     npj Complexity (in press)  
     [arXiv.org](https://arxiv.org/abs/2210.10026)  
 
-*   The unintended consequences of inconsistent pandemic control policies  
+*   Nonlinear bias toward complex contagion in uncertain transmission settings  
+    Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
+    Proc. Natl. Acad. Sci. U.S.A. 121(1):e2312202121 (2023)  
+    [Full text](https://www.pnas.org/doi/10.1073/pnas.2312202121) | [arXiv.org](https://arxiv.org/abs/2302.13358)  
+
+*   The unintended consequences of inconsistent closure policies and mobility restrictions during epidemics  
     B. M. Althouse, B. Wallace, B. Case, S. V. Scarpino, A. Allard, A. Berdahl, E. R. White, and **L. Hébert-Dufresne**  
-    BMC Global and Public Health (in press)   
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
+    BMC Global and Public Health 1:28 (2023)   
+    [Full text](https://bmcglobalpublichealth.biomedcentral.com/articles/10.1186/s44263-023-00028-z) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2)  
 
 *   Temporal and probabilistic forecasts of epidemic interventions  
     Mariah C. Boudreau, Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and **Laurent Hébert-Dufresne**  
@@ -99,7 +99,7 @@
     [arXiv.org](https://arxiv.org/abs/2204.00603)  
 
 *   Source-sink behavioral dynamics limit institutional evolution in a group-structured society  
-    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. J. Miller, N. Gotelli and B. J. McGill  
+    **L. Hébert-Dufresne**, T. M. Waring, G. St-Onge, M. T. Niles, L. K. Corlew, M. P. Dube, S. N. Miller, N. Gotelli and B. J. McGill  
     Royal Society Open Science 9, 211743 (2022)   
     [Full text](https://royalsocietypublishing.org/doi/10.1098/rsos.211743) | [arXiv.org](https://arxiv.org/abs/2109.08106)  
 
