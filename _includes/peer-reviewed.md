@@ -1,12 +1,12 @@
-*   A network compression approach for quantifying the importance of temporal contact chronology  
-    Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
-    Phys. Rev. Lett. (in press)  
-    [arXiv.org](https://arxiv.org/abs/2205.11566)  
- 
-*   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
+ *   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
     J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq, and J. Onaolapo  
     npj Complexity (in press)  
     [arXiv.org](https://arxiv.org/abs/2210.10026)  
+
+*   Compressing the Chronology of a Temporal Network with Graph Commutators  
+    Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  
+    Phys. Rev. Lett. 132, 077402 (2024)  
+    [Full text](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.077402) | [arXiv.org](https://arxiv.org/abs/2205.11566)  
 
 *   Nonlinear bias toward complex contagion in uncertain transmission settings  
     Guillaume St-Onge, **Laurent Hébert-Dufresne**, and Antoine Allard  
