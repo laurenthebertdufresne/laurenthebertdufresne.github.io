@@ -31,5 +31,5 @@
     [arXiv.org](https://arxiv.org/abs/2404.06672)  
 
 *   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
-    Nicholas W. Landry, William Thompson, **L. Hébert-Dufresne**, and J.-G. Young  
+    Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
     [arXiv.org](https://arxiv.org/abs/2405.00129)  
