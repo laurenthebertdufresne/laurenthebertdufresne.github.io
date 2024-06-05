@@ -1,7 +1,7 @@
  *   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
     J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq, and J. Onaolapo  
-    npj Complexity (in press)  
-    [arXiv.org](https://arxiv.org/abs/2210.10026)  
+    npj Complexity 1 (1), 5 (2024)  
+    [Full text](https://www.nature.com/articles/s44260-024-00006-y) | [arXiv.org](https://arxiv.org/abs/2210.10026)  
 
 *   Compressing the Chronology of a Temporal Network with Graph Commutators  
     Andrea J. Allen, Cristopher Moore, and **Laurent Hébert-Dufresne**  

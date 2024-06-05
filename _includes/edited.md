@@ -1,3 +1,8 @@
+*   The path of complexity  
+    **Laurent Hébert-Dufresne**, Antoine Allard, Joshua Garland, Elizabeth A. Hobson, and Luis Zaman  
+    npj Complexity 1 (1), 5 (2024)  
+    [npj Complexity](https://www.nature.com/articles/s44260-024-00004-0)
+
 *   Dossier Bifurcation (in French)  
     Co-edited by **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
     Magazine de l'ACFAS (2020)  
