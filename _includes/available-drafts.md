@@ -22,10 +22,6 @@
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
     [arXiv.org](https://arxiv.org/abs/2307.15027)  
 
-*   Paradoxes in the co-evolution of contagions and institutions  
-    Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2310.03672)  
-
 *   Biomedical Open Source Software: Crucial Packages and Hidden Heroes  
     A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat  
     [arXiv.org](https://arxiv.org/abs/2404.06672)  

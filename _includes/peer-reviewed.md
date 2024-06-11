@@ -1,4 +1,10 @@
- *   Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
+
+*  Paradoxes in the co-evolution of contagions and institutions  
+    Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
+    Proc. R. Soc. Lond. B (in press)  
+    [arXiv.org](https://arxiv.org/abs/2310.03672)  
+
+*  Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks  
     J. Lovato, **L. Hébert-Dufresne**, J. St-Onge, R. Harp, G. Salazar Lopez, S. P. Rogers, I. Ul Haq, and J. Onaolapo  
     npj Complexity 1 (1), 5 (2024)  
     [Full text](https://www.nature.com/articles/s44260-024-00006-y) | [arXiv.org](https://arxiv.org/abs/2210.10026)  
