@@ -14,10 +14,6 @@
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  
 
-*   Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns  
-    **Laurent Hébert-Dufresne**, Jean-Gabriel Young, Alexander Daniels, and Antoine Allard  
-    [arXiv.org](https://arxiv.org/abs/2204.08444)  
-
 *   Measuring Centralization of Online Platforms Through Size and Interconnection of Communities  
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
     [arXiv.org](https://arxiv.org/abs/2307.15027)  
