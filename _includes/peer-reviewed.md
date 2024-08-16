@@ -1,8 +1,7 @@
-
 *   Paradoxes in the co-evolution of contagions and institutions  
     Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
-    Proc. R. Soc. Lond. B (in press)  
-    [arXiv.org](https://arxiv.org/abs/2310.03672)  
+    Proc. R. Soc. Lond. B 291:2028  
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1117) | [arXiv.org](https://arxiv.org/abs/2310.03672)  
 
 *   The response of Canada’s health research ecosystem to the COVID-19 pandemic: a system-level program evaluation  
     François Lamontagne et al.  
