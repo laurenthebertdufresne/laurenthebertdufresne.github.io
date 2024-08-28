@@ -1,7 +1,16 @@
+*   Innovations through crop switching happen on the diverse margins of US agriculture  
+    M. M. Kling, C. T. Brittain, G. L. Galford, T. M. Waring, **L. Hébert-Dufresne**, M. P. Dube, H. Sabzian, N. J. Gotelli, B. J. McGill, and M. T. Niles  
+    Proc. Natl. Acad. Sci. U.S.A. 121(1):e2312202121 (in press)  
+
 *   Network compression with configuration models and the minimum description length  
     **Laurent Hébert-Dufresne**, Jean-Gabriel Young, Alec Kirkley, Alexander Daniels, and Antoine Allard  
     Phys. Rev. E (in press)  
     [arXiv.org](https://arxiv.org/abs/2204.08444)  
+
+*   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
+    Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
+    Phys. Rev. E (in press)  
+    [arXiv.org](https://arxiv.org/abs/2405.00129)  
 
 *   Paradoxes in the co-evolution of contagions and institutions  
     Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
