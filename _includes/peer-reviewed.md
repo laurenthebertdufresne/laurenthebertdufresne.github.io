@@ -2,15 +2,15 @@
     M. M. Kling, C. T. Brittain, G. L. Galford, T. M. Waring, **L. Hébert-Dufresne**, M. P. Dube, H. Sabzian, N. J. Gotelli, B. J. McGill, and M. T. Niles  
     Proc. Natl. Acad. Sci. U.S.A. (in press)  
 
-*   Network compression with configuration models and the minimum description length  
-    **Laurent Hébert-Dufresne**, Jean-Gabriel Young, Alec Kirkley, Alexander Daniels, and Antoine Allard  
-    Phys. Rev. E (in press)  
-    [arXiv.org](https://arxiv.org/abs/2204.08444)  
-
 *   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
     Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
     Phys. Rev. E (in press)  
     [arXiv.org](https://arxiv.org/abs/2405.00129)  
+
+*   Network compression with configuration models and the minimum description length  
+    **Laurent Hébert-Dufresne**, Jean-Gabriel Young, Alec Kirkley, Alexander Daniels, and Antoine Allard  
+    Phys. Rev. E 110, 034305 (2024)  
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034305) | [arXiv.org](https://arxiv.org/abs/2204.08444)  
 
 *   Paradoxes in the co-evolution of contagions and institutions  
     Jonathan St-Onge, Giulio Burgio, Samuel F. Rosenblatt, Timothy W. Waring, and **Laurent Hébert-Dufresne**  
