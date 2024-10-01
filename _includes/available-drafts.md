@@ -14,7 +14,7 @@
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  
 
-*   Measuring Centralization of Online Platforms Through Size and Interconnection of Communities  
+*   Measuring centralization of online Platforms through size and interconnection of communities  
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
     [arXiv.org](https://arxiv.org/abs/2307.15027)  
 
@@ -22,9 +22,13 @@
     Mariah C. Boudreau, Jamie A. Cohen, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2408.05298)  
 
-*   Biomedical Open Source Software: Crucial Packages and Hidden Heroes  
+*   Biomedical open source software: crucial packages and hidden heroes  
     A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat  
     [arXiv.org](https://arxiv.org/abs/2404.06672)  
+
+*   On the uniform sampling of the configuration model with centrality constraints  
+    François Thibault, **Laurent Hébert-Dufresne**, and Antoine Allard  
+    [arXiv.org](https://arxiv.org/abs/2409.20493)  
 
 *   Optimization and performance analytics of global aircraft-based wastewater surveillance networks  
     G. St-Onge, J. T. Davis, **L. Hébert-Dufresne**, A. Allard, A. Urbinati, S. V. Scarpino, M. Chinazzi, A. Vespignani  
