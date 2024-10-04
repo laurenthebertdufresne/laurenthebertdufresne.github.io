@@ -14,10 +14,6 @@
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  
 
-*   Measuring centralization of online Platforms through size and interconnection of communities  
-    Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
-    [arXiv.org](https://arxiv.org/abs/2307.15027)  
-
 *   Within-host infection dynamics with master equations and the method of moments: A case study of human papillomavirus in the epithelium  
     Mariah C. Boudreau, Jamie A. Cohen, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2408.05298)  
