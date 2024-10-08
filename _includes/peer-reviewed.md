@@ -5,12 +5,13 @@
 
 *   Innovations through crop switching happen on the diverse margins of US agriculture  
     M. M. Kling, C. T. Brittain, G. L. Galford, T. M. Waring, **L. Hébert-Dufresne**, M. P. Dube, H. Sabzian, N. J. Gotelli, B. J. McGill, and M. T. Niles  
-    Proc. Natl. Acad. Sci. U.S.A. (in press)  
+    Proc. Natl. Acad. Sci. U.S.A. 121(42):e2402195121 (2024)  
+    [Full text](https://www.pnas.org/doi/10.1073/pnas.2402195121)
 
 *   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
     Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
-    Phys. Rev. E (in press)  
-    [arXiv.org](https://arxiv.org/abs/2405.00129)  
+    Phys. Rev. E 110, L042301  
+    [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L042301) | [arXiv.org](https://arxiv.org/abs/2405.00129)  
 
 *   Network compression with configuration models and the minimum description length  
     **Laurent Hébert-Dufresne**, Jean-Gabriel Young, Alec Kirkley, Alexander Daniels, and Antoine Allard  
