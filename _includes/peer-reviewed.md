@@ -10,7 +10,7 @@
 
 *   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
     Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
-    Phys. Rev. E 110, L042301  
+    Phys. Rev. E 110, L042301 (2024)  
     [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L042301) | [arXiv.org](https://arxiv.org/abs/2405.00129)  
 
 *   Network compression with configuration models and the minimum description length  
