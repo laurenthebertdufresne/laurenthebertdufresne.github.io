@@ -1,7 +1,7 @@
 *   Measuring centralization of online Platforms through size and interconnection of communities  
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
-    Online Social Networks and Media (in press)  
-    [arXiv.org](https://arxiv.org/abs/2307.15027)  
+    Online Social Networks and Media 43–44:100292 (2024)  
+    [Full text](https://www.sciencedirect.com/science/article/pii/S246869642400017X) | [arXiv.org](https://arxiv.org/abs/2307.15027)   
 
 *   Innovations through crop switching happen on the diverse margins of US agriculture  
     M. M. Kling, C. T. Brittain, G. L. Galford, T. M. Waring, **L. Hébert-Dufresne**, M. P. Dube, H. Sabzian, N. J. Gotelli, B. J. McGill, and M. T. Niles  
