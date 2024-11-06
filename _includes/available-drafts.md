@@ -33,3 +33,7 @@
 *   Stochastic diffusion using mean-field limits to approximate master equations  
     **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
     [arXiv.org](https://arxiv.org/abs/2408.07755)  
+
+*   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
+    **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, P. L. Krapivsky  
+    [arXiv.org](https://arxiv.org/abs/2411.00714)  
