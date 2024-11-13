@@ -8,7 +8,7 @@
     Proc. Natl. Acad. Sci. U.S.A. 121(42):e2402195121 (2024)  
     [Full text](https://www.pnas.org/doi/10.1073/pnas.2402195121)
 
-*   Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics  
+*   Reconstructing networks from simple and complex contagions  
     Nicholas W. Landry, William Thompson, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
     Phys. Rev. E 110, L042301 (2024)  
     [Full text](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L042301) | [arXiv.org](https://arxiv.org/abs/2405.00129)  
