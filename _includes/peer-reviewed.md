@@ -1,7 +1,7 @@
 *   Pandemic monitoring with global aircraft-based wastewater surveillance networks  
     G. St-Onge, J. T. Davis, **L. Hébert-Dufresne**, A. Allard, A. Urbinati, S. V. Scarpino, M. Chinazzi, A. Vespignani  
     Nature Medicine (2025)  
-    [Full text](https://www.nature.com/articles/s41591-025-03501-4) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1) |[News and Views](https://www.nature.com/articles/s41591-024-03460-2)  
+    [Full text](https://www.nature.com/articles/s41591-025-03501-4) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1) | [News and Views](https://www.nature.com/articles/s41591-024-03460-2)  
 
 *   Adaptive behavior during epidemics — a social risk appraisal approach to modeling dynamics  
     D. O'Gara, M. Kasman, **L. Hébert-Dufresne**, and R. A. Hammond  
