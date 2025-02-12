@@ -26,10 +26,6 @@
     François Thibault, **Laurent Hébert-Dufresne**, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2409.20493)  
 
-*   Optimization and performance analytics of global aircraft-based wastewater surveillance networks  
-    G. St-Onge, J. T. Davis, **L. Hébert-Dufresne**, A. Allard, A. Urbinati, S. V. Scarpino, M. Chinazzi, A. Vespignani  
-    [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1)  
-
 *   Stochastic diffusion using mean-field limits to approximate master equations  
     **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
     [arXiv.org](https://arxiv.org/abs/2408.07755)  
@@ -37,3 +33,7 @@
 *   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
     **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, P. L. Krapivsky  
     [arXiv.org](https://arxiv.org/abs/2411.00714)  
+
+*   Governance as a complex, networked, democratic, satisfiability problem  
+    **L. Hébert-Dufresne**, N. W. Landry, J. Lovato, J. St-Onge, J.-G. Young, M.-È. Couture-Ménard, S. Bernatchez, C. Choquette, A. A. Cohen  
+    [arXiv.org](https://arxiv.org/abs/2412.03421)  

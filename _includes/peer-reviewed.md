@@ -1,4 +1,14 @@
-*   Measuring centralization of online Platforms through size and interconnection of communities  
+*   Pandemic monitoring with global aircraft-based wastewater surveillance networks  
+    G. St-Onge, J. T. Davis, **L. Hébert-Dufresne**, A. Allard, A. Urbinati, S. V. Scarpino, M. Chinazzi, A. Vespignani  
+    Nature Medicine (2025)  
+    [Full text](https://www.nature.com/articles/s41591-025-03501-4)| [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1)  
+
+*   Adaptive behavior during epidemics — a social risk appraisal approach to modeling dynamics  
+    D. O'Gara, M. Kasman, **L. Hébert-Dufresne**, and R. A. Hammond  
+    J. R. Soc. Interface 22:20240363 (2025)   
+    [Full text](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0363)
+
+*   Measuring centralization of online platforms through size and interconnection of communities  
     Milo Z. Trujillo, **Laurent Hébert-Dufresne**, and James Bagrow  
     Online Social Networks and Media 43–44:100292 (2024)  
     [Full text](https://www.sciencedirect.com/science/article/pii/S246869642400017X) | [arXiv.org](https://arxiv.org/abs/2307.15027)   
