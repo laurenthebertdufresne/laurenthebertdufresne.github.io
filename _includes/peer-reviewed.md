@@ -1,7 +1,17 @@
+*   Characteristic scales and adaptation in higher-order contagions  
+    Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
+    Nature Communications (in press)   
+    [arXiv.org](https://arxiv.org/abs/2307.11268)  
+
+*   Governance as a complex, networked, democratic, satisfiability problem  
+    **L. Hébert-Dufresne**, N. W. Landry, J. Lovato, J. St-Onge, J.-G. Young, M.-È. Couture-Ménard, S. Bernatchez, C. Choquette, A. A. Cohen  
+    npj Complexity (in press)   
+    [arXiv.org](https://arxiv.org/abs/2412.03421)
+
 *   Pandemic monitoring with global aircraft-based wastewater surveillance networks  
     G. St-Onge, J. T. Davis, **L. Hébert-Dufresne**, A. Allard, A. Urbinati, S. V. Scarpino, M. Chinazzi, A. Vespignani  
     Nature Medicine (2025)  
-    [Full text](https://www.nature.com/articles/s41591-025-03501-4) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1) | [News and Views](https://www.nature.com/articles/s41591-024-03460-2)  
+    [Full text](https://www.nature.com/articles/s41591-025-03501-4) | [medRxiv.org](https://www.medrxiv.org/content/10.1101/2024.08.02.24311418v1) | [News and Views](https://www.nature.com/articles/s41591-024-03460-2)
 
 *   Adaptive behavior during epidemics — a social risk appraisal approach to modeling dynamics  
     D. O'Gara, M. Kasman, **L. Hébert-Dufresne**, and R. A. Hammond  

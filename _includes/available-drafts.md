@@ -2,10 +2,6 @@
     Antoine Allard and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
-*   Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations  
-    Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2307.11268)  
-
 *   Modeling critical connectivity constraints in random and empirical networks  
     **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2307.03559)    
@@ -32,8 +28,4 @@
 
 *   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
     **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, P. L. Krapivsky  
-    [arXiv.org](https://arxiv.org/abs/2411.00714)  
-
-*   Governance as a complex, networked, democratic, satisfiability problem  
-    **L. Hébert-Dufresne**, N. W. Landry, J. Lovato, J. St-Onge, J.-G. Young, M.-È. Couture-Ménard, S. Bernatchez, C. Choquette, A. A. Cohen  
-    [arXiv.org](https://arxiv.org/abs/2412.03421)  
+    [arXiv.org](https://arxiv.org/abs/2411.00714)   
