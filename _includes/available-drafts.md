@@ -29,3 +29,7 @@
 *   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
     **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, P. L. Krapivsky  
     [arXiv.org](https://arxiv.org/abs/2411.00714)   
+
+*   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
+    **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
+    [arXiv.org](https://arxiv.org/abs/2504.15053)   
