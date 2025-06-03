@@ -1,7 +1,7 @@
 *   Random graphs with specific degree distribution and giant component size  
     **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
-    Phys. Rev. Research (in press)   
-    [arXiv.org](https://arxiv.org/abs/2307.03559)  
+    Phys. Rev. Research 7, L022050 (2025)   
+    [Full text](https://link.aps.org/doi/10.1103/PhysRevResearch.7.L022050) | [arXiv.org](https://arxiv.org/abs/2307.03559)  
 
 *   Characteristic scales and adaptation in higher-order contagions  
     Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
