@@ -2,10 +2,6 @@
     Antoine Allard and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/1906.10377)  
 
-*   Modeling critical connectivity constraints in random and empirical networks  
-    **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
-    [arXiv.org](https://arxiv.org/abs/2307.03559)    
-
 *   The network epidemiology of an Ebola epidemic  
     **L. Hébert-Dufresne**, J.-G. Young, J. Bedson, L. A. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard, and B. M. Althouse  
     [arXiv.org](https://arxiv.org/abs/2111.08686)  

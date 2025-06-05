@@ -61,6 +61,8 @@ weight: 4
 
 # Some stories:
 
+*   [The Guardian: Wastewater sampling could be key to early warning of new disease outbreaks.](https://www.theguardian.com/science/2025/mar/05/wastewater-disease-flu-outbreaks)
+
 *   [Washington Post: The Omicron BA.5 Wave Is Starting to Ebb. We Need to Know Why.](https://www.washingtonpost.com/business/theomicronba5-wave-is-starting-to-ebb-we-need-to-know-why/2022/08/10/58b09a44-1910-11ed-b998-b2ab68f58468_story.html)
 
 *   [Discover Magazine: Study Probes How to Change Societal Behavior for the Better](https://www.discovermagazine.com/the-sciences/study-probes-how-to-change-societal-behavior-for-the-better)
