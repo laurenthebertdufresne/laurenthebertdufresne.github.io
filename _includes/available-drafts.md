@@ -23,9 +23,13 @@
     [arXiv.org](https://arxiv.org/abs/2408.07755)  
 
 *   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
-    **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, P. L. Krapivsky  
+    **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, and P. L. Krapivsky  
     [arXiv.org](https://arxiv.org/abs/2411.00714)   
 
 *   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
     **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
     [arXiv.org](https://arxiv.org/abs/2504.15053)   
+
+*   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
+    M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2506.24103)   
