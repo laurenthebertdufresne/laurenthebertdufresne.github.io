@@ -33,3 +33,7 @@
 *   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
     M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2506.24103)   
+
+*   Defining and classifying models of groups: The social ontology of higher-order networks  
+    J. St-Onge, R. Harp, G. Burgio, T. M. Waring, J. Lovato, and **L. Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2507.02758)   
