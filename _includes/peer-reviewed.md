@@ -3,6 +3,11 @@
     Phys. Rev. Research 7, L022050 (2025)   
     [Full text](https://link.aps.org/doi/10.1103/PhysRevResearch.7.L022050) | [arXiv.org](https://arxiv.org/abs/2307.03559)  
 
+*   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
+    **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, and P. L. Krapivsky  
+    Phys. Rev. Lett. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2411.00714)   
+
 *   Characteristic scales and adaptation in higher-order contagions  
     Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
     Nature Communications 16, 4589 (2025)   
