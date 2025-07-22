@@ -1,3 +1,8 @@
+*   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
+    **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
+    npj Complexity (in press)   
+    [arXiv.org](https://arxiv.org/abs/2504.15053)   
+
 *   Random graphs with specific degree distribution and giant component size  
     **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
     Phys. Rev. Research 7, L022050 (2025)   
