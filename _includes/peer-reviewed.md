@@ -1,3 +1,8 @@
+*   Stochastic diffusion using mean-field limits to approximate master equations  
+    **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
+    Royal Society Open Science (in press)   
+    [arXiv.org](https://arxiv.org/abs/2408.07755)  
+
 *   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
     **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
     npj Complexity (in press)   

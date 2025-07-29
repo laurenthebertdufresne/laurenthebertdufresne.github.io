@@ -18,10 +18,6 @@
     François Thibault, **Laurent Hébert-Dufresne**, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2409.20493)  
 
-*   Stochastic diffusion using mean-field limits to approximate master equations  
-    **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
-    [arXiv.org](https://arxiv.org/abs/2408.07755)  
-
 *   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
     M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2506.24103)   
