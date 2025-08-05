@@ -28,6 +28,14 @@
             </li>
           {% endif %}
 
+          {% if site.bluesky_username %}
+            <li>
+              <a href="//bsky.app/profile/{{ site.bluesky_username }}" target="_blank">
+                <span class="fa-brands fa-square-bluesky"></span> {{ site.bluesky_username }}
+              </a>
+            </li>
+          {% endif %}
+
           {% if site.linkedin_username %}
             <li>
               <a href="//www.linkedin.com/{{ site.linkedin_username }}" target="_blank">

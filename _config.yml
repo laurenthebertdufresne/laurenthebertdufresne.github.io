@@ -7,10 +7,11 @@
 
 # Site settings
 title: Laurent Hébert-Dufresne
-email: laurent.hebert.dufresne@gmail.com
-description: Assistant Professor at the Vermont Complex Systems Center
+email: laurent.hebert-dufresne@uvm.edu
+description: Professor at the Vermont Complex Systems Institute
 url: "http://laurenthebertdufresne.github.io" # the base hostname & protocol for your site
-twitter_username: LHDnets
+#twitter_username: LHDnets
+bluesky_username: lhd.bsky.social
 scholar_username: LdkfcuwAAAAJ
 #linkedin_username: lecomptedelhd
 #github_username: lecomptedelhd
