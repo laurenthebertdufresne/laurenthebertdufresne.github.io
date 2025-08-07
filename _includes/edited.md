@@ -1,3 +1,7 @@
+*   Group science: The open-source study of higher-order networks with XGI  
+    Nicholas W. Landry and **Laurent Hébert-Dufresne**  
+    SIAM News (in press)  
+
 *   The path of complexity  
     **Laurent Hébert-Dufresne**, Antoine Allard, Joshua Garland, Elizabeth A. Hobson, and Luis Zaman  
     npj Complexity 1 (1), 5 (2024)  
