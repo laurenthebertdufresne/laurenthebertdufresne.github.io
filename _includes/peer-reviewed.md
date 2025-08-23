@@ -15,8 +15,8 @@
 
 *   Self-reinforcing cascades: A spreading model for beliefs or products of varying intensity or quality  
     **L. Hébert-Dufresne**, J. Lovato, G. Burgio, J. P. Gleeson, S. Redner, and P. L. Krapivsky  
-    Phys. Rev. Lett. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2411.00714)   
+    Phys. Rev. Lett. 135, 087401 (2025)   
+    [Full text](https://journals.aps.org/prl/abstract/10.1103/5mph-sws5) | [arXiv.org](https://arxiv.org/abs/2411.00714)   
 
 *   Characteristic scales and adaptation in higher-order contagions  
     Giulio Burgio, Guillaume St-Onge, and **Laurent Hébert-Dufresne**  
