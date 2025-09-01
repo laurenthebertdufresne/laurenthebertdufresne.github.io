@@ -1,3 +1,7 @@
+*   Hotspot model shows how location-based superspreading accelerates and reshapes epidemics  
+    Brendan Wallace, Dobromir T Dimitrov, **Laurent Hébert-Dufresne**, and Andrew Berdahl  
+    PNAS Nexus (in press)   
+
 *   Stochastic diffusion using mean-field limits to approximate master equations  
     **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
     Royal Society Open Science (in press)   
@@ -5,8 +9,8 @@
 
 *   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
     **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
-    npj Complexity (in press)   
-    [arXiv.org](https://arxiv.org/abs/2504.15053)   
+    npj Complexity 2, 26   
+    [Full text](https://www.nature.com/articles/s44260-025-00050-2) | [arXiv.org](https://arxiv.org/abs/2504.15053)   
 
 *   Random graphs with specific degree distribution and giant component size  
     **Laurent Hébert-Dufresne**, Márton Pósfai, and Antoine Allard  
