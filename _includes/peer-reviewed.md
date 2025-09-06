@@ -9,7 +9,7 @@
 
 *   One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories  
     **L. Hébert-Dufresne**, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. S. Dodds, et al.  
-    npj Complexity 2, 26   
+    npj Complexity 2, 26 (2025)   
     [Full text](https://www.nature.com/articles/s44260-025-00050-2) | [arXiv.org](https://arxiv.org/abs/2504.15053)   
 
 *   Random graphs with specific degree distribution and giant component size  
