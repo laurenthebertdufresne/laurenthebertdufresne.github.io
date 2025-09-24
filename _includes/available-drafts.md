@@ -25,3 +25,7 @@
 *   Defining and classifying models of groups: The social ontology of higher-order networks  
     J. St-Onge, R. Harp, G. Burgio, T. M. Waring, J. Lovato, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2507.02758)   
+
+*   Ethical Frameworks for Conducting Social Challenge Studies  
+    P. Sen,  **L. Hébert-Dufresne**, P. Bose, and J. Lovato  
+    [arXiv.org](https://arxiv.org/abs/2509.10578)   

@@ -1,6 +1,7 @@
 *   Hotspot model shows how location-based superspreading accelerates and reshapes epidemics  
     Brendan Wallace, Dobromir T Dimitrov, **Laurent Hébert-Dufresne**, and Andrew Berdahl  
-    PNAS Nexus (in press)   
+    PNAS Nexus pgaf299 (2025)   
+    [Full text](https://doi.org/10.1093/pnasnexus/pgaf299)
 
 *   Stochastic diffusion using mean-field limits to approximate master equations  
     **L. Hébert-Dufresne**, M.M. Kling, S.F. Rosenblatt, S.N. Miller, P.A. Burnham, N.W. Landry, N.J. Gotelli, B.J. McGill  
