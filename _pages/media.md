@@ -9,13 +9,13 @@ weight: 4
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7ec07c50-5eb1-4340-98fd-3095731addfd?dark=false"></iframe>
 
-# Introduction to network epidemiology, Net-COVID (2020)
+# Network epidemiology tutorial, Net-COVID (2020)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5NGFDnJKiKA?si=UYFbjcz5bEKm6o5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/5NGFDnJKiKA?si=UYFbjcz5bEKm6o5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Reckless Idea public lecture, Burlington VT (2018)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZGdnAM9Kis?si=byuQRFDfs3BSCQlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/RZGdnAM9Kis?si=byuQRFDfs3BSCQlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * * *
 
