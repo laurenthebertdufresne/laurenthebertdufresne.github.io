@@ -115,7 +115,7 @@
 
 *   Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture      
     T. Waring, M. Niles, M. Kling, S. Miller, **L. Hébert-Dufresne**, H. Sabzian Papi, N. Gotelli, and B. J. McGill  
-    Proc. R. Soc. Lond. B 378:1889 (2023)  
+    Phil. Trans. R. Soc. B 378:1889 (2023)  
     [Full text](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0397)  
 
 *   Hierarchical team structure and multidimensional localization (or siloing) on networks  
