@@ -1,3 +1,13 @@
+*   Complete asymptotic type-token relationship for growing complex systems with inverse power-law count rankings  
+    Pablo Rosillo-Rodes, **Laurent Hébert-Dufresne**, and Peter Sheridan Dodds  
+    Phys. Rev. Research (in press)   
+    [arXiv.org](https://arxiv.org/abs/2511.02069)  
+
+*   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
+    M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**   
+    J. R. Soc. Interface (in press)   
+    [arXiv.org](https://arxiv.org/abs/2506.24103)   
+
 *   Hotspot model shows how location-based superspreading accelerates and reshapes epidemics  
     Brendan Wallace, Dobromir T Dimitrov, **Laurent Hébert-Dufresne**, and Andrew Berdahl  
     PNAS Nexus pgaf299 (2025)   

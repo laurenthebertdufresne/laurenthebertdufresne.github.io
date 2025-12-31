@@ -18,10 +18,6 @@
     François Thibault, **Laurent Hébert-Dufresne**, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2409.20493)  
 
-*   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
-    M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**  
-    [arXiv.org](https://arxiv.org/abs/2506.24103)   
-
 *   Message passing for epidemiological interventions on networks with loops  
     Erik Weis, **Laurent Hébert-Dufresne**, and Jean-Gabriel Young  
     [arXiv.org](https://arxiv.org/abs/2509.21596)   
@@ -33,3 +29,7 @@
 *   Ethical frameworks for conducting social challenge studies  
     Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
     [arXiv.org](https://arxiv.org/abs/2509.10578)   
+
+*   Loops, not groups: Long cycles are responsible for discontinuous phase transitions in higher-order network contagions  
+    Leah Keating and **Laurent Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2511.15688)   
