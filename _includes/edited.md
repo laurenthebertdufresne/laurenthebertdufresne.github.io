@@ -10,6 +10,18 @@
     Co-edited by **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
     [Magazine de l'ACFAS (2020)](https://www.acfas.ca/publications/magazine/enjeux-recherche/bifurcation)
 
+*   Dossier bifurcation : conversation éditoriale (in French)    
+    **Laurent Hébert-Dufresne** and Jean-Marc Fontan  
+    [Magazine de l'ACFAS (2020)](https://www.acfas.ca/publications/magazine/2020/09/dossier-bifurcation-conversation-editoriale)
+
+*   Face aux changements environnementaux, la transdisciplinarité : le cas des cryonoses (in French)    
+    Stefani Crabtree and **Laurent Hébert-Dufresne**  
+    [Magazine de l'ACFAS (2020)](https://www.acfas.ca/publications/magazine/2020/09/face-aux-changements-environnementaux-transdisciplinarite-cas)
+
+*   La modélisation mathématique pour cartographier le complexe et l’inconnu (in French)    
+    Antoine Allard, Louis J. Dubé and **Laurent Hébert-Dufresne**  
+    [Magazine de l'ACFAS (2020)](https://www.acfas.ca/publications/magazine/2020/09/modelisation-mathematique-cartographier-complexe-inconnu)
+
 *   ALIFE 2020: The 2020 Conference on Artificial Life  
     Josh Bongard, Juniper Lovato, **Laurent Hébert-Dufresne**, Radhakrishna Dasari, and Lisa Soros  
     [MIT Press (2020)](https://www.mitpressjournals.org/toc/isal/32)

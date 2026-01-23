@@ -31,5 +31,5 @@
     [arXiv.org](https://arxiv.org/abs/2509.10578)   
 
 *   Loops, not groups: Long cycles are responsible for discontinuous phase transitions in higher-order network contagions  
-    Leah Keating and **Laurent Hébert-Dufresne**  
+    Leah A. Keating and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2511.15688)   
