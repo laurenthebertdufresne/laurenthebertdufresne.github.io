@@ -33,3 +33,7 @@
 *   Loops, not groups: Long cycles are responsible for discontinuous phase transitions in higher-order network contagions  
     Leah A. Keating and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2511.15688)   
+
+*   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
+    Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
+    [arXiv.org](https://arxiv.org/abs/2601.17763)   
