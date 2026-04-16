@@ -37,3 +37,11 @@
 *   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
     Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
     [arXiv.org](https://arxiv.org/abs/2601.17763)   
+
+*   Group dynamics shape contagion onsets and multistable active phases under collective reinforcement  
+    S. Lamata-Otín, F. Malizia, L. A. Keating, G. St-Onge, V. Latora, J. Gómez-Gardeñes, and **L. Hébert-Dufresne**  
+    [arXiv.org](https://arxiv.org/abs/2603.28566)   
+
+*   Simon's model does not produce Zipf's law: The fundamental rich-get-richer mechanism for any power-law size ranking  
+    Pablo Rosillo-Rodes, Julia Witte Zimmerman, **Laurent Hébert-Dufresne**, and Peter Sheridan Dodds  
+    [arXiv.org](https://arxiv.org/abs/2604.13184)   
