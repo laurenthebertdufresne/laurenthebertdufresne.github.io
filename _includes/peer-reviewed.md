@@ -1,3 +1,17 @@
+*   Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information Sharing Preferences  
+    J. Lovato, **L. Hébert-Dufresne**, M. Ghasemizade, J. St-Onge, P. S. Dodds, L. Bloomfield, M. I. Fudolig, M. Price, and  C. Danforth
+    ACM Conference on Fairness, Accountability, and Transparency (in press)   
+
+*   Biomedical open source software: crucial packages and hidden heroes  
+    A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat
+    PLOS Comp. Biol. (in press)   
+    [arXiv.org](https://arxiv.org/abs/2404.06672)  
+
+*   Ethical frameworks for conducting social challenge studies  
+    Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
+    Journal of Empirical Research on Human Research Ethics (2026)   
+    [Full text](https://journals.sagepub.com/doi/10.1177/15562646261437269)| [arXiv.org](https://arxiv.org/abs/2509.10578)   
+
 *   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
     M. C. Boudreau, W. H. W. Thompson, C. M. Danforth, J.-G. Young, and **L. Hébert-Dufresne**   
     J. R. Soc. Interface 23 (235): 20250686 (2026)   

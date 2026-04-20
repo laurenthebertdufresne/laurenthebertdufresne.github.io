@@ -10,10 +10,6 @@
     Mariah C. Boudreau, Jamie A. Cohen, and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2408.05298)  
 
-*   Biomedical open source software: crucial packages and hidden heroes  
-    A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat  
-    [arXiv.org](https://arxiv.org/abs/2404.06672)  
-
 *   On the uniform sampling of the configuration model with centrality constraints  
     François Thibault, **Laurent Hébert-Dufresne**, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2409.20493)  
@@ -25,10 +21,6 @@
 *   Defining and classifying models of groups: The social ontology of higher-order networks  
     J. St-Onge, R. Harp, G. Burgio, T. M. Waring, J. Lovato, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2507.02758)   
-
-*   Ethical frameworks for conducting social challenge studies  
-    Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
-    [arXiv.org](https://arxiv.org/abs/2509.10578)   
 
 *   Loops, not groups: Long cycles are responsible for discontinuous phase transitions in higher-order network contagions  
     Leah A. Keating and **Laurent Hébert-Dufresne**  
