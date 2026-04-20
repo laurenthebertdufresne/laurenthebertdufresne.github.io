@@ -3,7 +3,7 @@
     ACM Conference on Fairness, Accountability, and Transparency (in press)   
 
 *   Biomedical open source software: crucial packages and hidden heroes  
-    A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat
+    A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat   
     PLOS Comp. Biol. (in press)   
     [arXiv.org](https://arxiv.org/abs/2404.06672)  
 
