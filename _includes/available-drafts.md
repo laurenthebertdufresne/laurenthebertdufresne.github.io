@@ -38,7 +38,6 @@
     Pablo Rosillo-Rodes, Julia Witte Zimmerman, **Laurent Hébert-Dufresne**, and Peter Sheridan Dodds  
     [arXiv.org](https://arxiv.org/abs/2604.13184)   
 
-*   Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions
-  
+*   Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young, William H. W. Thompson, and Guillaume St-Onge  
     [arXiv.org](https://arxiv.org/abs/2605.00791)   
