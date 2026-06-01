@@ -26,10 +26,6 @@
     Leah A. Keating and **Laurent Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2511.15688)   
 
-*   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
-    Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
-    [arXiv.org](https://arxiv.org/abs/2601.17763)   
-
 *   Group dynamics shape contagion onsets and multistable active phases under collective reinforcement  
     S. Lamata-Otín, F. Malizia, L. A. Keating, G. St-Onge, V. Latora, J. Gómez-Gardeñes, and **L. Hébert-Dufresne**  
     [arXiv.org](https://arxiv.org/abs/2603.28566)   
@@ -41,3 +37,7 @@
 *   Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions  
     **Laurent Hébert-Dufresne**, Antoine Allard, Jean-Gabriel Young, William H. W. Thompson, and Guillaume St-Onge  
     [arXiv.org](https://arxiv.org/abs/2605.00791)   
+
+*   The impact of behavioral homophily and conformity on epidemic spreading in networks with large groups  
+    Olivier Ribordy, Clara Granell, Guillaume St-Onge, **Laurent Hébert-Dufresne**, Alex Arenas, Antoine Allard  
+    [arXiv.org](https://arxiv.org/abs/2605.25875)   

@@ -1,3 +1,8 @@
+*   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
+    Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
+    Bulletin of Mathematical Biology (in press)   
+    [arXiv.org](https://arxiv.org/abs/2601.17763)   
+
 *   Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information Sharing Preferences  
     J. Lovato, **L. Hébert-Dufresne**, M. Ghasemizade, J. St-Onge, P. S. Dodds, L. Bloomfield, M. I. Fudolig, M. Price, and  C. Danforth   
     ACM Conference on Fairness, Accountability, and Transparency (in press)   
