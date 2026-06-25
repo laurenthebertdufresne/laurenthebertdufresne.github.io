@@ -39,5 +39,9 @@
     [arXiv.org](https://arxiv.org/abs/2605.00791)   
 
 *   The impact of behavioral homophily and conformity on epidemic spreading in networks with large groups  
-    Olivier Ribordy, Clara Granell, Guillaume St-Onge, **Laurent Hébert-Dufresne**, Alex Arenas, Antoine Allard  
+    Olivier Ribordy, Clara Granell, Guillaume St-Onge, **Laurent Hébert-Dufresne**, Alex Arenas, and Antoine Allard  
     [arXiv.org](https://arxiv.org/abs/2605.25875)   
+
+*   Artificial collectives of specialists and generalists excel at different tasks  
+    John Meluso, **Laurent Hébert-Dufresne**, Christoph Riedl, and H. Oliver Gao  
+    [arXiv.org](https://arxiv.org/abs/2606.20877)   
