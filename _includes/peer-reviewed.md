@@ -1,16 +1,17 @@
 *   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
     Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
-    Bulletin of Mathematical Biology (in press)   
-    [arXiv.org](https://arxiv.org/abs/2601.17763)   
+    Bulletin of Mathematical Biology 88, 127 (2026)   
+    [Full text](https://link.springer.com/article/10.1007/s11538-026-01685-5) | [arXiv.org](https://arxiv.org/abs/2601.17763)   
 
 *   Taste for Privacy: How Context, Identity, and Lived-Experience Shape Information Sharing Preferences  
     J. Lovato, **L. Hébert-Dufresne**, M. Ghasemizade, J. St-Onge, P. S. Dodds, L. Bloomfield, M. I. Fudolig, M. Price, and  C. Danforth   
-    ACM Conference on Fairness, Accountability, and Transparency (in press)   
+    ACM Conference on Fairness, Accountability, and Transparency, 3129-3150 (2026)   
+    [Full text](https://dl.acm.org/doi/10.1145/3805689.3812311)
 
 *   Biomedical open source software: crucial packages and hidden heroes  
     A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat   
-    PLOS Comp. Biol. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2404.06672)  
+    PLOS Comp. Biol. 22(5): e1014260 (2026)   
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014260) | [arXiv.org](https://arxiv.org/abs/2404.06672)  
 
 *   Ethical frameworks for conducting social challenge studies  
     Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
