@@ -45,3 +45,11 @@
 *   Artificial collectives of specialists and generalists excel at different tasks  
     John Meluso, **Laurent Hébert-Dufresne**, Christoph Riedl, and H. Oliver Gao  
     [arXiv.org](https://arxiv.org/abs/2606.20877)   
+
+*   Centering human cognition in epidemiological models  
+    B. Beckage, L. J Gross, A. Freedman, **L. Hébert-Dufresne**, S. Lenhart, C. Saad-Roy, and C. Sims  
+    [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/13023/)   
+
+*   Dynastic dynamics: Modelling powerful naming choices with stochastic prestige  
+    Pablo Rosillo-Rodes, Santiago Lamata-Otín, David Soriano-Paños, **Laurent Hébert-Dufresne**, and Peter Sheridan Dodds  
+    [arXiv.org](https://arxiv.org/abs/2607.08689)   
