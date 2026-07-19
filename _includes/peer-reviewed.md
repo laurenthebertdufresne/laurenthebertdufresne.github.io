@@ -9,8 +9,8 @@
 
 *   Biomedical open source software: crucial packages and hidden heroes  
     A. Nesbitt, B. Veytsman, D. Mietchen, E. M. Brown, J. Howison, J. F. Pimentel, **L. Hébert-Dufresne**, and S. Druskat   
-    PLOS Comp. Biol. (in press)   
-    [arXiv.org](https://arxiv.org/abs/2404.06672)  
+    PLOS Comp. Biol.  22(5): e1014260   
+    [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014260) | [arXiv.org](https://arxiv.org/abs/2404.06672)  
 
 *   Ethical frameworks for conducting social challenge studies  
     Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
