@@ -53,3 +53,7 @@
 *   Dynastic dynamics: Modelling powerful naming choices with stochastic prestige  
     Pablo Rosillo-Rodes, Santiago Lamata-Otín, David Soriano-Paños, **Laurent Hébert-Dufresne**, and Peter Sheridan Dodds  
     [arXiv.org](https://arxiv.org/abs/2607.08689)   
+
+*   Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity  
+    Katerina Tang, Daniel Kaiser, William Thompson, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Nicholas W. Landry  
+    [arXiv.org](https://arxiv.org/abs/2607.25139)   
