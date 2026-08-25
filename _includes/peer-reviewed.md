@@ -15,7 +15,7 @@
 
 *   Ethical frameworks for conducting social challenge studies  
     Protiva Sen,  **Laurent Hébert-Dufresne**, Pablo Bose, and Juniper Lovato  
-    Journal of Empirical Research on Human Research Ethics (2026)   
+    Journal of Empirical Research on Human Research Ethics 21(3): 161-184 (2026)   
     [Full text](https://journals.sagepub.com/doi/10.1177/15562646261437269)| [arXiv.org](https://arxiv.org/abs/2509.10578)   
 
 *   Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions  
