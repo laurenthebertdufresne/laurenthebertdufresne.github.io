@@ -57,3 +57,7 @@
 *   Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity  
     Katerina Tang, Daniel Kaiser, William Thompson, Jean-Gabriel Young, **Laurent Hébert-Dufresne**, and Nicholas W. Landry  
     [arXiv.org](https://arxiv.org/abs/2607.25139)   
+
+*   Intermittency in wind-driven fires  
+    **Laurent Hébert-Dufresne**, Aanjaneya Kumar, and S. Redner  
+    [arXiv.org](https://arxiv.org/abs/2609.22541)   
