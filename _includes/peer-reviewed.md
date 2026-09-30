@@ -1,3 +1,8 @@
+*   Centering human cognition in epidemiological models  
+    B. Beckage, L. J Gross, A. Freedman, **L. Hébert-Dufresne**, S. Lenhart, C. Saad-Roy, and C. Sims   
+    Future Virology (in press)   
+    [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/13023/)   
+
 *   Tracking dynamics of superspreading through contacts, exposures, and transmissions in edge-based network epidemics  
     Ari S. Freedman, Bjarke F. Nielsen, Maximillian M. Nguyen, **Laurent Hébert-Dufresne** and Simon A. Levin  
     Bulletin of Mathematical Biology 88, 127 (2026)   
