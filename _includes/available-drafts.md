@@ -61,3 +61,7 @@
 *   Intermittency in wind-driven fires  
     **Laurent Hébert-Dufresne**, Aanjaneya Kumar, and S. Redner  
     [arXiv.org](https://arxiv.org/abs/2609.22541)   
+
+*   Fast-variable reduction to complex contagion unifies epidemic models  
+    **Laurent Hébert-Dufresne**, Péter L. Simon, and István Z. Kiss  
+    [arXiv.org](https://arxiv.org/abs/2610.05467)   
